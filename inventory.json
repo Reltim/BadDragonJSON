@@ -155,17 +155,6 @@
   },
   {
     "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/aa49ea85-5156-4409-a117-0f6821a08396.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/db5b6b6b-e96a-443c-9c93-681356e72bca.jpg",
     "price": "$105.00",
     "number": "1 of 1",
@@ -176,13 +165,13 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Spitfire - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6ebbdf62-f3e2-4bad-b5eb-ebbee9bee726.jpg",
-    "price": "$115.00",
+    "name": "Mystic - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/aa49ea85-5156-4409-a117-0f6821a08396.jpg",
+    "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Medium",
-    "color": "Color: Winter Wonderland",
+    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
