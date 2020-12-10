@@ -1,6 +1,17 @@
 [
   {
     "name": "Mystic - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f1972dd1-002f-4907-9969-41df45599a49.jpg",
+    "price": "$60.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Imperfection On Bottom Of Base",
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Mystic - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/59c445f9-dac1-4a3d-81e2-206678463f93.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -85,17 +96,6 @@
     "size": "Size: Medium",
     "color": "Color: Taurus",
     "firmness": "Firmness: Firm",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Snep - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bda8bbab-8ec2-4a3a-ace3-169fc14c26ff.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Libra",
-    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
