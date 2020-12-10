@@ -7,9 +7,10 @@
     "number": "Mystic - Small",
     "flop": "Mystic - Small",
     "flop_reason": "Mystic - Small",
+    "size": "Size: Small",
     "color": "Color: Cancer",
-    "accessories": "Size: Small",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Small",
@@ -19,9 +20,10 @@
     "number": "Mystic - Small",
     "flop": "Mystic - Small",
     "flop_reason": "Mystic - Small",
+    "size": "Size: Small",
     "color": "Color: Taurus",
-    "accessories": "Size: Small",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Winston's Tail - Small",
@@ -31,9 +33,10 @@
     "number": "Winston's Tail - Small",
     "flop": "Winston's Tail - Small",
     "flop_reason": "Winston's Tail - Small",
+    "size": "Size: Small",
     "color": "Color: Rogue",
-    "accessories": "Size: Small",
-    "firmness": "Firmness: Soft"
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Winston's Tongue - Small",
@@ -43,9 +46,10 @@
     "number": "Winston's Tongue - Small",
     "flop": "Winston's Tongue - Small",
     "flop_reason": "Winston's Tongue - Small",
+    "size": "Size: Small",
     "color": "Color: Krampus' Present",
-    "accessories": "Size: Small",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Small",
@@ -55,9 +59,10 @@
     "number": "Mystic - Small",
     "flop": "Mystic - Small",
     "flop_reason": "Mystic - Small",
+    "size": "Size: Small",
     "color": "Color: Krampus' Present",
-    "accessories": "Size: Small",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Winston's Tail - Small",
@@ -67,9 +72,10 @@
     "number": "Winston's Tail - Small",
     "flop": "Winston's Tail - Small",
     "flop_reason": "Winston's Tail - Small",
+    "size": "Size: Small",
     "color": "Color: Meat",
-    "accessories": "Size: Small",
-    "firmness": "Firmness: Soft"
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Small",
@@ -79,9 +85,10 @@
     "number": "",
     "flop": "",
     "flop_reason": "",
+    "size": "Size: Small",
     "color": "Color: Krampus' Present",
-    "accessories": "Size: Small",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Mystic - Small",
@@ -91,9 +98,10 @@
     "number": "",
     "flop": "",
     "flop_reason": "",
+    "size": "Size: Small",
     "color": "Color: Decked Halls",
-    "accessories": "Size: Small",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Mystic - Medium",
@@ -103,9 +111,10 @@
     "number": "",
     "flop": "",
     "flop_reason": "",
+    "size": "Size: Medium",
     "color": "Color: Cancer",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Medium",
@@ -115,9 +124,10 @@
     "number": "Mystic - Medium",
     "flop": "Mystic - Medium",
     "flop_reason": "Mystic - Medium",
+    "size": "Size: Medium",
     "color": "Color: Taurus",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Firm"
+    "firmness": "Firmness: Firm",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Snep - One-Size",
@@ -127,9 +137,10 @@
     "number": "Snep - One-Size",
     "flop": "Snep - One-Size",
     "flop_reason": "Snep - One-Size",
+    "size": "Size: One-Size",
     "color": "Color: Libra",
-    "accessories": "Size: One-Size",
-    "firmness": "Firmness: Soft"
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Medium",
@@ -139,9 +150,10 @@
     "number": "Mystic - Medium",
     "flop": "Mystic - Medium",
     "flop_reason": "Mystic - Medium",
+    "size": "Size: Medium",
     "color": "Color: BD Bronze",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Medium",
@@ -151,9 +163,10 @@
     "number": "Mystic - Medium",
     "flop": "Mystic - Medium",
     "flop_reason": "Mystic - Medium",
+    "size": "Size: Medium",
     "color": "Color: Rogue",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Medium",
@@ -163,9 +176,10 @@
     "number": "Mystic - Medium",
     "flop": "Mystic - Medium",
     "flop_reason": "Mystic - Medium",
+    "size": "Size: Medium",
     "color": "Color: Rogue",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Spitfire - Medium",
@@ -175,9 +189,10 @@
     "number": "Spitfire - Medium",
     "flop": "Spitfire - Medium",
     "flop_reason": "Spitfire - Medium",
+    "size": "Size: Medium",
     "color": "Color: Winter Wonderland",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Crash - Medium",
@@ -187,9 +202,10 @@
     "number": "Crash - Medium",
     "flop": "Crash - Medium",
     "flop_reason": "Crash - Medium",
+    "size": "Size: Medium",
     "color": "Color: Decked Halls",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Spitfire - Medium",
@@ -199,9 +215,10 @@
     "number": "Spitfire - Medium",
     "flop": "Spitfire - Medium",
     "flop_reason": "Spitfire - Medium",
+    "size": "Size: Medium",
     "color": "Color: Decked Halls",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Vasu - Medium",
@@ -211,9 +228,10 @@
     "number": "Vasu - Medium",
     "flop": "Vasu - Medium",
     "flop_reason": "Vasu - Medium",
+    "size": "Size: Medium",
     "color": "Color: Decked Halls",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Medium",
@@ -223,9 +241,10 @@
     "number": "Mystic - Medium",
     "flop": "Mystic - Medium",
     "flop_reason": "Mystic - Medium",
+    "size": "Size: Medium",
     "color": "Color: Krampus' Present",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Duke the Bad Dragon - Medium",
@@ -235,9 +254,10 @@
     "number": "Duke the Bad Dragon - Medium",
     "flop": "Duke the Bad Dragon - Medium",
     "flop_reason": "Duke the Bad Dragon - Medium",
+    "size": "Size: Medium",
     "color": "Color: Krampus' Present",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Medium",
@@ -247,9 +267,10 @@
     "number": "Mystic - Medium",
     "flop": "Mystic - Medium",
     "flop_reason": "Mystic - Medium",
+    "size": "Size: Medium",
     "color": "Color: Rawberry Cheesecake",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Medium",
@@ -259,9 +280,10 @@
     "number": "Mystic - Medium",
     "flop": "Mystic - Medium",
     "flop_reason": "Mystic - Medium",
+    "size": "Size: Medium",
     "color": "Color: Raw Berry Cheesecake",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Medium",
@@ -271,9 +293,10 @@
     "number": "Mystic - Medium",
     "flop": "Mystic - Medium",
     "flop_reason": "Mystic - Medium",
+    "size": "Size: Medium",
     "color": "Color: Raw Berry Cheesecake",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Soft"
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Medium",
@@ -283,9 +306,10 @@
     "number": "Mystic - Medium",
     "flop": "Mystic - Medium",
     "flop_reason": "Mystic - Medium",
+    "size": "Size: Medium",
     "color": "Color: Unicorn Cake",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Medium",
@@ -295,9 +319,10 @@
     "number": "Mystic - Medium",
     "flop": "Mystic - Medium",
     "flop_reason": "Mystic - Medium",
+    "size": "Size: Medium",
     "color": "Color: Mint Chocolate Chip Sandwich",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "David - Medium",
@@ -307,9 +332,10 @@
     "number": "David - Medium",
     "flop": "David - Medium",
     "flop_reason": "David - Medium",
+    "size": "Size: Medium",
     "color": "Color: Season'S Greetings",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Spitfire - Medium",
@@ -319,9 +345,10 @@
     "number": "Spitfire - Medium",
     "flop": "Spitfire - Medium",
     "flop_reason": "Spitfire - Medium",
+    "size": "Size: Medium",
     "color": "Color: Season'S Greetings",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Medium",
@@ -331,9 +358,10 @@
     "number": "Mystic - Medium",
     "flop": "Mystic - Medium",
     "flop_reason": "Mystic - Medium",
+    "size": "Size: Medium",
     "color": "Color: Decked Halls",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Mystic - Medium",
@@ -343,9 +371,10 @@
     "number": "Mystic - Medium",
     "flop": "Mystic - Medium",
     "flop_reason": "Mystic - Medium",
+    "size": "Size: Medium",
     "color": "Color: Mint Chocolate Chip Sandwich",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Mystic - Medium",
@@ -355,9 +384,10 @@
     "number": "Mystic - Medium",
     "flop": "Mystic - Medium",
     "flop_reason": "Mystic - Medium",
+    "size": "Size: Medium",
     "color": "Color: Carrot Cake",
-    "accessories": "Size: Medium",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Mystic - Large",
@@ -367,8 +397,9 @@
     "number": "Mystic - Large",
     "flop": "Mystic - Large",
     "flop_reason": "Mystic - Large",
+    "size": "Size: Large",
     "color": "Color: Mint Chocolate Chip Sandwich",
-    "accessories": "Size: Large",
-    "firmness": "Firmness: Medium"
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   }
 ]
