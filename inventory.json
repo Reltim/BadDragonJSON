@@ -22,6 +22,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Nox - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/52e226a7-8a2e-448d-9ace-f8caa85547a3.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: BD Metallic Blue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Winston's Tail - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0dec084a-5bf0-4058-ae3b-2431641fb30e.jpg",
     "price": "$75.00",
@@ -309,7 +320,7 @@
   },
   {
     "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/35e30cb7-1c74-45e0-b93f-06b36ff8aa5a.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/25b0c4f2-ed10-454f-9172-d45772051344.jpg",
     "price": "$130.00",
     "number": "1 of 1",
     "flop_reason": null,
