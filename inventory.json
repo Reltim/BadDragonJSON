@@ -22,7 +22,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Winston's Tail - Small",
+    "name": "Winston - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0dec084a-5bf0-4058-ae3b-2431641fb30e.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -95,17 +95,6 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: BD Bronze",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/aa49ea85-5156-4409-a117-0f6821a08396.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
