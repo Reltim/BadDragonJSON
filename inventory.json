@@ -22,7 +22,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Winston - Small",
+    "name": "Winston's Tail - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0dec084a-5bf0-4058-ae3b-2431641fb30e.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -110,13 +110,13 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Spitfire - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d7ab8702-9c7c-405f-af57-ec185acb0ed8.jpg",
-    "price": "$115.00",
+    "name": "Mystic - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/aa49ea85-5156-4409-a117-0f6821a08396.jpg",
+    "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Medium",
-    "color": "Color: Decked Halls",
+    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -194,17 +194,6 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Mint Chocolate Chip Sandwich",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
-  },
-  {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e4d9edf4-99bf-4324-9156-ca5caf7ca14e.jpg",
-    "price": "$130.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Carrot Cake",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: Suction Cup"
   }
