@@ -152,16 +152,5 @@
     "color": "Color: Mint Chocolate Chip Sandwich",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: Suction Cup"
-  },
-  {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e4d9edf4-99bf-4324-9156-ca5caf7ca14e.jpg",
-    "price": "$130.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Carrot Cake",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
   }
 ]
