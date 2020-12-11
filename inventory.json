@@ -133,7 +133,7 @@
   },
   {
     "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/aa49ea85-5156-4409-a117-0f6821a08396.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/db5b6b6b-e96a-443c-9c93-681356e72bca.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -144,7 +144,7 @@
   },
   {
     "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/db5b6b6b-e96a-443c-9c93-681356e72bca.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/aa49ea85-5156-4409-a117-0f6821a08396.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -233,17 +233,6 @@
   {
     "name": "David - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c362f0f1-f4e4-4234-8f4f-6c3cc8cdc01a.jpg",
-    "price": "$120.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Season'S Greetings",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Spitfire - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9c6a582e-1932-4434-aa84-d757c7266dc5.jpg",
     "price": "$120.00",
     "number": "1 of 1",
     "flop_reason": null,
