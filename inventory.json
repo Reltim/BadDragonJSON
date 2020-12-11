@@ -1,16 +1,5 @@
 [
   {
-    "name": "Mystic - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e33787ca-42db-4206-aa55-25e7c3281ebc.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Taurus",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Winston's Tongue - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/46e625c3-3e87-430a-822b-892b68e24f42.jpg",
     "price": "$85.00",
@@ -144,12 +133,12 @@
   },
   {
     "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e4d9edf4-99bf-4324-9156-ca5caf7ca14e.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/25b0c4f2-ed10-454f-9172-d45772051344.jpg",
     "price": "$130.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Medium",
-    "color": "Color: Carrot Cake",
+    "color": "Color: Mint Chocolate Chip Sandwich",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: Suction Cup"
   }
