@@ -45,17 +45,6 @@
   },
   {
     "name": "Votan - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2159d45f-5be5-4e94-9342-ffef6953174a.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Votan - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1fb0fafa-bf04-414b-aa7f-7ec84c5b13a4.jpg",
     "price": "$55.00",
     "number": "1 of 1",
@@ -89,7 +78,7 @@
   },
   {
     "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/090e1624-c395-4b6d-ab85-e92fe668f0a8.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dd556464-c0cb-494f-bc4b-e3ca95c58696.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -100,7 +89,7 @@
   },
   {
     "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dd556464-c0cb-494f-bc4b-e3ca95c58696.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/090e1624-c395-4b6d-ab85-e92fe668f0a8.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -232,7 +221,7 @@
   },
   {
     "name": "Winston's Tail - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6cb7cd7-ec14-4a1b-bf17-ef0d4df4d053.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bda9affb-a541-4302-b381-82667037eb4d.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -243,7 +232,7 @@
   },
   {
     "name": "Winston's Tail - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bda9affb-a541-4302-b381-82667037eb4d.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6cb7cd7-ec14-4a1b-bf17-ef0d4df4d053.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -261,17 +250,6 @@
     "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Dexter - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8b419aaf-96fd-46fa-bebc-7ba5131c4239.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
@@ -387,6 +365,17 @@
   {
     "name": "Lana - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fce65c46-de1c-4776-bedf-1572862bacef.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Extra Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Lana - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4ba89612-e034-47f7-9df2-9f40c402211d.jpg",
     "price": "$95.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -562,17 +551,6 @@
   },
   {
     "name": "Winston's Tongue - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8a2bcae8-015d-413b-8528-0ab497f4228a.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Winston's Tongue - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cf77ba5f-5092-43b5-ac3e-ad157f5c50f6.jpg",
     "price": "$105.00",
     "number": "1 of 1",
@@ -583,15 +561,15 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Vasu - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/841945d5-675f-4e14-8762-ad2b73e21ea4.jpg",
+    "name": "Winston's Tongue - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8a2bcae8-015d-413b-8528-0ab497f4228a.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Decked Halls",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Trent - Small",
@@ -651,6 +629,50 @@
   {
     "name": "Terra - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7f398014-fea8-4e8f-a270-c765fece384e.jpg",
+    "price": "$115.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Decked Halls",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Vasu - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8595288f-1cd8-4610-936e-db9e091c41b9.jpg",
+    "price": "$115.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Decked Halls",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Trent - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6114978b-53c4-441e-81d5-7664930831b2.jpg",
+    "price": "$115.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Decked Halls",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Vasu - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8595288f-1cd8-4610-936e-db9e091c41b9.jpg",
+    "price": "$115.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Decked Halls",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Trent - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6114978b-53c4-441e-81d5-7664930831b2.jpg",
     "price": "$115.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -733,6 +755,17 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Mint Chocolate Chip Sandwich",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Snep - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6ddd1e91-e86f-470f-900f-0f0e3f872635.jpg",
+    "price": "$120.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Prim Rose",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -900,17 +933,6 @@
     "color": "Color: Dexter'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Xerxes - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d196d867-3ab0-40dc-8210-6ef11cec275f.jpg",
-    "price": "$145.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Echo - Medium",
