@@ -78,17 +78,6 @@
   },
   {
     "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/090e1624-c395-4b6d-ab85-e92fe668f0a8.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dd556464-c0cb-494f-bc4b-e3ca95c58696.jpg",
     "price": "$55.00",
     "number": "1 of 1",
@@ -188,7 +177,7 @@
   },
   {
     "name": "Winston's Tail - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6cb7cd7-ec14-4a1b-bf17-ef0d4df4d053.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bda9affb-a541-4302-b381-82667037eb4d.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -199,7 +188,7 @@
   },
   {
     "name": "Winston's Tail - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bda9affb-a541-4302-b381-82667037eb4d.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6cb7cd7-ec14-4a1b-bf17-ef0d4df4d053.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -660,6 +649,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Mystic - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/25b0c4f2-ed10-454f-9172-d45772051344.jpg",
+    "price": "$120.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Mint Chocolate Chip Sandwich",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Orochi - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2885d1f0-5441-45e9-b2a9-6ce2dd275f90.jpg",
     "price": "$120.00",
@@ -836,17 +836,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Cole - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/92a76fe3-5c34-4bb9-b4f5-9474e2adc27e.jpg",
-    "price": "$145.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Cole'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "Orochi - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8fc5299e-d47b-4612-b606-4235529525bb.jpg",
     "price": "$150.00",
@@ -900,17 +889,6 @@
     "color": "Color: David'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Rex - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5e1a6a72-5b29-4aa4-a354-68d8d8465630.jpg",
-    "price": "$165.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Krampus' Present",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Cole - Large",
