@@ -176,6 +176,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Egg Plug - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5f13b844-d270-4e75-863b-1d1a54660483.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Winston's Tail - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6cb7cd7-ec14-4a1b-bf17-ef0d4df4d053.jpg",
     "price": "$75.00",
@@ -640,17 +651,6 @@
   {
     "name": "Mystic - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d988b5aa-28c4-4e6b-9765-012778f29203.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d4b8b72c-9070-4d06-8302-a0ea349a6be0.jpg",
     "price": "$135.00",
     "number": "1 of 1",
     "flop_reason": null,
