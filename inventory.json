@@ -45,6 +45,17 @@
   },
   {
     "name": "Blaze - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c0d17110-528a-4aa4-9e26-9ddcd89d3f7e.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Blaze - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/31adcb38-9ef9-4e99-ae52-57744973027e.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -121,17 +132,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Dexter - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/672ba6dd-c9a0-462b-8795-ae2ed3c220a1.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Dexter'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "Mystic - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e33787ca-42db-4206-aa55-25e7c3281ebc.jpg",
     "price": "$105.00",
@@ -163,28 +163,6 @@
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Vasu - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/841945d5-675f-4e14-8762-ad2b73e21ea4.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Decked Halls",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Trent - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/341140af-75c4-4d35-baab-d8ae8b4406e7.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Decked Halls",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Apollo - Medium",
@@ -251,28 +229,6 @@
     "color": "Color: Decked Halls",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Vasu - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f7aac0e3-1045-4352-bb27-ae9b47c1afc4.jpg",
-    "price": "$115.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Vasu'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Cole - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/92a76fe3-5c34-4bb9-b4f5-9474e2adc27e.jpg",
-    "price": "$115.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Cole'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Mystic - Medium",
@@ -385,17 +341,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Vasu - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f7aac0e3-1045-4352-bb27-ae9b47c1afc4.jpg",
-    "price": "$145.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Vasu'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "Trent - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dcd4ae19-4046-4768-a6dd-4790713f18ef.jpg",
     "price": "$145.00",
@@ -405,6 +350,17 @@
     "color": "Color: Trent'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Vasu - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ccefcd0c-1f93-4a49-bf32-65085dee2046.jpg",
+    "price": "$155.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Vasu'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Cole - Large",
