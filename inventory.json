@@ -100,7 +100,7 @@
   },
   {
     "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/090e1624-c395-4b6d-ab85-e92fe668f0a8.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dd556464-c0cb-494f-bc4b-e3ca95c58696.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -111,7 +111,7 @@
   },
   {
     "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dd556464-c0cb-494f-bc4b-e3ca95c58696.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/090e1624-c395-4b6d-ab85-e92fe668f0a8.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -243,7 +243,7 @@
   },
   {
     "name": "Winston's Tail - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bda9affb-a541-4302-b381-82667037eb4d.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6cb7cd7-ec14-4a1b-bf17-ef0d4df4d053.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -254,7 +254,7 @@
   },
   {
     "name": "Winston's Tail - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6cb7cd7-ec14-4a1b-bf17-ef0d4df4d053.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bda9affb-a541-4302-b381-82667037eb4d.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -430,17 +430,6 @@
   },
   {
     "name": "Lana - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fce65c46-de1c-4776-bedf-1572862bacef.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Extra Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Lana - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4ba89612-e034-47f7-9df2-9f40c402211d.jpg",
     "price": "$95.00",
     "number": "1 of 1",
@@ -452,7 +441,7 @@
   },
   {
     "name": "Lana - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e71400ff-fe84-44e9-b70e-8a5481ed4e91.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fce65c46-de1c-4776-bedf-1572862bacef.jpg",
     "price": "$95.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -464,6 +453,17 @@
   {
     "name": "Lana - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/979a5d56-a3a2-4466-a8a4-facf9c38a544.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Extra Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Lana - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e71400ff-fe84-44e9-b70e-8a5481ed4e91.jpg",
     "price": "$95.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1023,17 +1023,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Trent - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/82faa0f0-6d03-478c-93e2-9e95e3bae3fb.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Trent'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
-  },
-  {
     "name": "Dexter - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/58737fa2-ba62-4f1c-9c56-960671d1e9fb.jpg",
     "price": "$135.00",
@@ -1175,17 +1164,6 @@
     "color": "Color: David'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Rex - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5e1a6a72-5b29-4aa4-a354-68d8d8465630.jpg",
-    "price": "$165.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Krampus' Present",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Echo - Large",
