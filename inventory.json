@@ -78,7 +78,7 @@
   },
   {
     "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dd556464-c0cb-494f-bc4b-e3ca95c58696.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/090e1624-c395-4b6d-ab85-e92fe668f0a8.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -89,13 +89,24 @@
   },
   {
     "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/090e1624-c395-4b6d-ab85-e92fe668f0a8.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dd556464-c0cb-494f-bc4b-e3ca95c58696.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Mini",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/78832e8c-7488-44bf-b34c-61336e64a529.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Firm",
     "accessories": "Accessories: None"
   },
   {
@@ -166,7 +177,7 @@
   },
   {
     "name": "Winston's Tail - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6cb7cd7-ec14-4a1b-bf17-ef0d4df4d053.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bda9affb-a541-4302-b381-82667037eb4d.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -177,7 +188,7 @@
   },
   {
     "name": "Winston's Tail - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bda9affb-a541-4302-b381-82667037eb4d.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6cb7cd7-ec14-4a1b-bf17-ef0d4df4d053.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -211,6 +222,17 @@
   {
     "name": "Tyson - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a842c682-139e-4a15-9f68-bd3316aef014.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9d4ca44d-6ab3-481b-aec5-f9b44bea86f8.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -634,39 +656,6 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Unicorn Cake",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/25b0c4f2-ed10-454f-9172-d45772051344.jpg",
-    "price": "$120.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Mint Chocolate Chip Sandwich",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Orochi - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2885d1f0-5441-45e9-b2a9-6ce2dd275f90.jpg",
-    "price": "$120.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Crimson Drake",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/25b0c4f2-ed10-454f-9172-d45772051344.jpg",
-    "price": "$120.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Mint Chocolate Chip Sandwich",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
