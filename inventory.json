@@ -121,6 +121,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Mystic - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6fff5e91-31f8-4dfc-bf65-22ac5dd8cbd2.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Demon Dick - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b4211fcd-9acc-445b-95f7-c088919d478a.jpg",
     "price": "$75.00",
@@ -297,6 +308,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Dexter - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/672ba6dd-c9a0-462b-8795-ae2ed3c220a1.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Dexter'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
     "name": "David - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a69e6c0a-e0a7-4b18-a7e8-e12f9992c037.jpg",
     "price": "$95.00",
@@ -386,7 +408,7 @@
   },
   {
     "name": "Winston's Tongue - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cf77ba5f-5092-43b5-ac3e-ad157f5c50f6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8a2bcae8-015d-413b-8528-0ab497f4228a.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -397,7 +419,7 @@
   },
   {
     "name": "Winston's Tongue - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8a2bcae8-015d-413b-8528-0ab497f4228a.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cf77ba5f-5092-43b5-ac3e-ad157f5c50f6.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -636,28 +658,6 @@
     "color": "Color: Dexter'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Mystic - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/748fdbfd-0d30-4e6a-aef4-0f628295b377.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d988b5aa-28c4-4e6b-9765-012778f29203.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Large",
