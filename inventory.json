@@ -33,17 +33,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Orochi - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9b2f2e82-2bfe-47cc-8f46-6ba2e141c0d2.jpg",
-    "price": "$55.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Air Bubbles On Bottom Of Base And Nick On Shaft",
-    "size": "Size: Mini",
-    "color": "Color: BD Cyan",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Demon Dick - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c884da17-d0e0-4755-b9a4-7ac020381d92.jpg",
     "price": "$55.00",
@@ -117,17 +106,6 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Apollo'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Dexter - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ed5d46c7-cbab-4a22-9d05-9c49836a6999.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Dexter'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
