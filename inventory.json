@@ -78,6 +78,17 @@
   },
   {
     "name": "Mystic - Mini",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/090e1624-c395-4b6d-ab85-e92fe668f0a8.jpg",
+    "price": "$55.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Mini",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dd556464-c0cb-494f-bc4b-e3ca95c58696.jpg",
     "price": "$55.00",
     "number": "1 of 1",
@@ -96,17 +107,6 @@
     "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/78832e8c-7488-44bf-b34c-61336e64a529.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
     "accessories": "Accessories: None"
   },
   {
@@ -156,17 +156,6 @@
   {
     "name": "Archer - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cfa54335-bd20-416c-957f-d581b9e628cf.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Egg Plug - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5f13b844-d270-4e75-863b-1d1a54660483.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -660,15 +649,15 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Vasu - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/841945d5-675f-4e14-8762-ad2b73e21ea4.jpg",
+    "name": "Mystic - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/90b72bbb-8a41-4f26-82bd-d5b291e6019b.jpg",
     "price": "$135.00",
     "number": "1 of 1",
     "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Decked Halls",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Dexter - Large",
