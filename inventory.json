@@ -78,7 +78,7 @@
   },
   {
     "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/090e1624-c395-4b6d-ab85-e92fe668f0a8.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dd556464-c0cb-494f-bc4b-e3ca95c58696.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -89,7 +89,7 @@
   },
   {
     "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dd556464-c0cb-494f-bc4b-e3ca95c58696.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/090e1624-c395-4b6d-ab85-e92fe668f0a8.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -156,17 +156,6 @@
   {
     "name": "Blaze - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/31adcb38-9ef9-4e99-ae52-57744973027e.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Archer - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cfa54335-bd20-416c-957f-d581b9e628cf.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -363,17 +352,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Bumble Hooves - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fbe7d4d5-21bf-476c-acaf-0a735c0cd9a0.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Bumble Hooves' Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Mystic - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e33787ca-42db-4206-aa55-25e7c3281ebc.jpg",
     "price": "$105.00",
@@ -452,7 +430,7 @@
   },
   {
     "name": "Winston's Tongue - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cf77ba5f-5092-43b5-ac3e-ad157f5c50f6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8a2bcae8-015d-413b-8528-0ab497f4228a.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -463,7 +441,7 @@
   },
   {
     "name": "Winston's Tongue - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8a2bcae8-015d-413b-8528-0ab497f4228a.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cf77ba5f-5092-43b5-ac3e-ad157f5c50f6.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -660,6 +638,28 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Mystic - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b86d3542-86aa-432e-8623-86dac02ab6a0.jpg",
+    "price": "$125.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Decked Halls",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
+  },
+  {
+    "name": "Cole - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8a501a2a-3898-485a-808b-4c10724c90d4.jpg",
+    "price": "$125.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Cole'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Vasu - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ccefcd0c-1f93-4a49-bf32-65085dee2046.jpg",
     "price": "$125.00",
@@ -706,6 +706,17 @@
   {
     "name": "Mystic - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d4b8b72c-9070-4d06-8302-a0ea349a6be0.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/90b72bbb-8a41-4f26-82bd-d5b291e6019b.jpg",
     "price": "$135.00",
     "number": "1 of 1",
     "flop_reason": null,
