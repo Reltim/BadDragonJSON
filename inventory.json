@@ -44,17 +44,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Votan - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1fb0fafa-bf04-414b-aa7f-7ec84c5b13a4.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Orochi - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9b2f2e82-2bfe-47cc-8f46-6ba2e141c0d2.jpg",
     "price": "$55.00",
@@ -658,6 +647,17 @@
     "color": "Color: Vasu'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Dexter - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/672ba6dd-c9a0-462b-8795-ae2ed3c220a1.jpg",
+    "price": "$155.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Dexter'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
   },
   {
     "name": "David - Large",
