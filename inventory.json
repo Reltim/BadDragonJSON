@@ -88,6 +88,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Demon Dick - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b4211fcd-9acc-445b-95f7-c088919d478a.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Blaze - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c0d17110-528a-4aa4-9e26-9ddcd89d3f7e.jpg",
     "price": "$75.00",
@@ -276,7 +287,7 @@
   },
   {
     "name": "Winston's Tongue - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cf77ba5f-5092-43b5-ac3e-ad157f5c50f6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8a2bcae8-015d-413b-8528-0ab497f4228a.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -287,7 +298,7 @@
   },
   {
     "name": "Winston's Tongue - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8a2bcae8-015d-413b-8528-0ab497f4228a.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cf77ba5f-5092-43b5-ac3e-ad157f5c50f6.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
