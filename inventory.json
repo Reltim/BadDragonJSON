@@ -465,7 +465,7 @@
     "name": "Mystic - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d22559ef-b9df-465e-be67-8b4beb4472b5.jpg",
     "price": "$120.00",
-    "number": "",
+    "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Rawberry Cheesecake",
@@ -647,6 +647,17 @@
     "color": "Color: Dexter'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "David - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a69e6c0a-e0a7-4b18-a7e8-e12f9992c037.jpg",
+    "price": "$155.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: David'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "David - Large",
