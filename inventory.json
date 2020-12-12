@@ -66,6 +66,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Spitfire - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2f59b8d5-0cdb-4bd0-a936-70b791511cc8.jpg",
+    "price": "$60.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Mystic - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6fff5e91-31f8-4dfc-bf65-22ac5dd8cbd2.jpg",
     "price": "$75.00",
