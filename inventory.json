@@ -1,18 +1,18 @@
 [
   {
-    "name": "Votan - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/92f9497c-c36f-4fa1-b539-564fcf138a84.jpg",
-    "price": "$44.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Air Bubble On Bottom Of Base",
+    "name": "Mystic - Mini",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d6c01e26-c2e3-4659-9208-5d6b00ecc732.jpg",
+    "price": "$55.00",
+    "number": "1 of 1",
+    "flop_reason": null,
     "size": "Size: Mini",
-    "color": "Color: BD Cyan",
-    "firmness": "Firmness: Soft",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d6c01e26-c2e3-4659-9208-5d6b00ecc732.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4718f8b3-9651-4300-a516-b1072d2088e1.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -46,6 +46,17 @@
   {
     "name": "Votan - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4ffb151e-b32a-41fb-bb9e-2545a22d6259.jpg",
+    "price": "$55.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Mini",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Votan - Mini",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2159d45f-5be5-4e94-9342-ffef6953174a.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -116,17 +127,6 @@
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Spitfire - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2f59b8d5-0cdb-4bd0-a936-70b791511cc8.jpg",
-    "price": "$60.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
@@ -254,7 +254,7 @@
   },
   {
     "name": "Winston's Tail - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6cb7cd7-ec14-4a1b-bf17-ef0d4df4d053.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bda9affb-a541-4302-b381-82667037eb4d.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -265,7 +265,7 @@
   },
   {
     "name": "Winston's Tail - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bda9affb-a541-4302-b381-82667037eb4d.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6cb7cd7-ec14-4a1b-bf17-ef0d4df4d053.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -352,6 +352,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Cole - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7571124d-6048-44ff-83d3-a72139a1d480.jpg",
+    "price": "$85.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
+  },
+  {
     "name": "Trent - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6114978b-53c4-441e-81d5-7664930831b2.jpg",
     "price": "$85.00",
@@ -419,6 +430,17 @@
   },
   {
     "name": "Lana - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4ba89612-e034-47f7-9df2-9f40c402211d.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Extra Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Lana - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fce65c46-de1c-4776-bedf-1572862bacef.jpg",
     "price": "$95.00",
     "number": "1 of 1",
@@ -441,17 +463,6 @@
   },
   {
     "name": "Lana - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/979a5d56-a3a2-4466-a8a4-facf9c38a544.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Extra Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Lana - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e4ad992d-2f6c-4528-9fd4-5848070c5c60.jpg",
     "price": "$95.00",
     "number": "1 of 1",
@@ -463,7 +474,7 @@
   },
   {
     "name": "Lana - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1bde2580-9486-44d5-aa97-84ff6e4ed13b.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/979a5d56-a3a2-4466-a8a4-facf9c38a544.jpg",
     "price": "$95.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -661,18 +672,7 @@
   },
   {
     "name": "Winston's Tongue - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cf77ba5f-5092-43b5-ac3e-ad157f5c50f6.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Winston's Tongue - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/93386c3b-9ed0-4255-92f3-d9df861f238c.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8a2bcae8-015d-413b-8528-0ab497f4228a.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -757,6 +757,17 @@
     "color": "Color: Krampus' Present",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Nox - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3548a076-208a-4994-a580-81b17fb02806.jpg",
+    "price": "$115.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Terra - Medium",
@@ -877,17 +888,6 @@
     "size": "Size: One-Size",
     "color": "Color: Prim Rose",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Orochi - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2885d1f0-5441-45e9-b2a9-6ce2dd275f90.jpg",
-    "price": "$120.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Crimson Drake",
-    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
