@@ -221,6 +221,17 @@
   },
   {
     "name": "Mystic - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a76510dc-6cdb-49f5-8eea-bba7c4ac1b97.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Krampus' Present",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
+  },
+  {
+    "name": "Mystic - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b86d3542-86aa-432e-8623-86dac02ab6a0.jpg",
     "price": "$95.00",
     "number": "1 of 1",
@@ -432,7 +443,7 @@
     "name": "Terra - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7f398014-fea8-4e8f-a270-c765fece384e.jpg",
     "price": "$115.00",
-    "number": "",
+    "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Decked Halls",
