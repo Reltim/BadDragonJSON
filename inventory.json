@@ -111,17 +111,6 @@
   },
   {
     "name": "Blaze - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c0d17110-528a-4aa4-9e26-9ddcd89d3f7e.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Blaze - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/31adcb38-9ef9-4e99-ae52-57744973027e.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -476,7 +465,7 @@
     "name": "Cole - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/92a76fe3-5c34-4bb9-b4f5-9474e2adc27e.jpg",
     "price": "$115.00",
-    "number": "",
+    "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Cole'S Signature",
@@ -660,15 +649,15 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "David - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a69e6c0a-e0a7-4b18-a7e8-e12f9992c037.jpg",
+    "name": "Dexter - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/672ba6dd-c9a0-462b-8795-ae2ed3c220a1.jpg",
     "price": "$155.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Large",
-    "color": "Color: David'S Signature",
+    "color": "Color: Dexter'S Natural",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
+    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Cole - Large",
