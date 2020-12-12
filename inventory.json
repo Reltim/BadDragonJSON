@@ -78,17 +78,6 @@
   },
   {
     "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/090e1624-c395-4b6d-ab85-e92fe668f0a8.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dd556464-c0cb-494f-bc4b-e3ca95c58696.jpg",
     "price": "$55.00",
     "number": "1 of 1",
@@ -99,12 +88,12 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Spitfire - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2f59b8d5-0cdb-4bd0-a936-70b791511cc8.jpg",
-    "price": "$60.00",
+    "name": "Mystic - Mini",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/090e1624-c395-4b6d-ab85-e92fe668f0a8.jpg",
+    "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
-    "size": "Size: Small",
+    "size": "Size: Mini",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
@@ -220,17 +209,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Cole - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a3786ea3-fefc-4fff-9d4a-12eaf721d71a.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Elliot - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c61f5191-bac8-4703-b215-e22d9f67be85.jpg",
     "price": "$75.00",
@@ -319,6 +297,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Cole - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7571124d-6048-44ff-83d3-a72139a1d480.jpg",
+    "price": "$85.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
+  },
+  {
     "name": "Trent - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6114978b-53c4-441e-81d5-7664930831b2.jpg",
     "price": "$85.00",
@@ -403,17 +392,6 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Cole'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Chance Unflared - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bc44f946-8ed1-4d44-8cbe-853c29191251.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Chance'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -660,6 +638,17 @@
     "accessories": "Accessories: CumTube"
   },
   {
+    "name": "Vasu - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f7aac0e3-1045-4352-bb27-ae9b47c1afc4.jpg",
+    "price": "$115.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Vasu'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
     "name": "Mystic - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d22559ef-b9df-465e-be67-8b4beb4472b5.jpg",
     "price": "$120.00",
@@ -667,17 +656,6 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Rawberry Cheesecake",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d34a9a3d-b536-493f-9737-d107df9696b2.jpg",
-    "price": "$120.00",
-    "number": "1 of 2",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Raw Berry Cheesecake",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -988,16 +966,5 @@
     "color": "Color: Vasu'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "David - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a69e6c0a-e0a7-4b18-a7e8-e12f9992c037.jpg",
-    "price": "$185.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Extra Large",
-    "color": "Color: David'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
   }
 ]
