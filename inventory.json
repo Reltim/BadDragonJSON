@@ -23,17 +23,6 @@
   },
   {
     "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4718f8b3-9651-4300-a516-b1072d2088e1.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d1aed6bc-045e-45cf-b10b-c1456733b7f0.jpg",
     "price": "$55.00",
     "number": "1 of 1",
@@ -441,17 +430,6 @@
   },
   {
     "name": "Lana - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4ba89612-e034-47f7-9df2-9f40c402211d.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Extra Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Lana - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fce65c46-de1c-4776-bedf-1572862bacef.jpg",
     "price": "$95.00",
     "number": "1 of 1",
@@ -463,7 +441,7 @@
   },
   {
     "name": "Lana - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e4ad992d-2f6c-4528-9fd4-5848070c5c60.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4ba89612-e034-47f7-9df2-9f40c402211d.jpg",
     "price": "$95.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -486,6 +464,17 @@
   {
     "name": "Lana - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/979a5d56-a3a2-4466-a8a4-facf9c38a544.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Extra Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Lana - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e4ad992d-2f6c-4528-9fd4-5848070c5c60.jpg",
     "price": "$95.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -671,6 +660,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Winston's Tongue - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8a2bcae8-015d-413b-8528-0ab497f4228a.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Cole - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a19955e8-4d41-4bd4-86b5-d34efd3c20a7.jpg",
     "price": "$105.00",
@@ -799,6 +799,17 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Vasu'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "David - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/32d060cb-3ef3-40ce-8153-430bc927cf52.jpg",
+    "price": "$115.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: David'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
   },
@@ -1032,6 +1043,17 @@
     "color": "Color: Dexter'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Rex - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5e1a6a72-5b29-4aa4-a354-68d8d8465630.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Krampus' Present",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Xerxes - One-Size",
