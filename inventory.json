@@ -44,17 +44,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Mystic - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6fff5e91-31f8-4dfc-bf65-22ac5dd8cbd2.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Blaze - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c0d17110-528a-4aa4-9e26-9ddcd89d3f7e.jpg",
     "price": "$75.00",
@@ -404,17 +393,6 @@
     "size": "Size: Large",
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Dexter - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/58737fa2-ba62-4f1c-9c56-960671d1e9fb.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Dexter'S Natural",
-    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
