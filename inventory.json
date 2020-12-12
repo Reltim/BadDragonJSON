@@ -509,7 +509,7 @@
     "name": "Cole - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8a501a2a-3898-485a-808b-4c10724c90d4.jpg",
     "price": "$125.00",
-    "number": "1 of 1",
+    "number": "",
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Cole'S Signature",
@@ -531,7 +531,7 @@
     "name": "Mystic - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d4b8b72c-9070-4d06-8302-a0ea349a6be0.jpg",
     "price": "$135.00",
-    "number": "1 of 1",
+    "number": "",
     "flop_reason": null,
     "size": "Size: Large",
     "color": "Color: Rogue",
@@ -572,17 +572,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Chance Flared - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dbd9698f-3873-4872-b370-43ee21231a0c.jpg",
-    "price": "$145.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Chance'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "Trent - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dcd4ae19-4046-4768-a6dd-4790713f18ef.jpg",
     "price": "$145.00",
@@ -614,6 +603,17 @@
     "color": "Color: Vasu'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Dexter - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/672ba6dd-c9a0-462b-8795-ae2ed3c220a1.jpg",
+    "price": "$155.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Dexter'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
   },
   {
     "name": "David - Large",
