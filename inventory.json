@@ -366,9 +366,9 @@
     "name": "Mystic - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/25b0c4f2-ed10-454f-9172-d45772051344.jpg",
     "price": "$120.00",
-    "number": "1 of 1",
+    "number": "",
     "flop_reason": null,
-    "size": "Size: Medium",
+    "size": "",
     "color": "Color: Mint Chocolate Chip Sandwich",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
@@ -493,16 +493,5 @@
     "color": "Color: Cole'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Dexter - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/672ba6dd-c9a0-462b-8795-ae2ed3c220a1.jpg",
-    "price": "$155.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Dexter'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
   }
 ]
