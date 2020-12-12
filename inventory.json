@@ -177,7 +177,7 @@
   },
   {
     "name": "Winston's Tail - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bda9affb-a541-4302-b381-82667037eb4d.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6cb7cd7-ec14-4a1b-bf17-ef0d4df4d053.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -188,7 +188,7 @@
   },
   {
     "name": "Winston's Tail - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6cb7cd7-ec14-4a1b-bf17-ef0d4df4d053.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bda9affb-a541-4302-b381-82667037eb4d.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -288,17 +288,6 @@
   {
     "name": "Lana - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fce65c46-de1c-4776-bedf-1572862bacef.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Extra Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Lana - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/979a5d56-a3a2-4466-a8a4-facf9c38a544.jpg",
     "price": "$95.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -452,7 +441,7 @@
   },
   {
     "name": "Winston's Tongue - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8a2bcae8-015d-413b-8528-0ab497f4228a.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cf77ba5f-5092-43b5-ac3e-ad157f5c50f6.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -463,7 +452,7 @@
   },
   {
     "name": "Winston's Tongue - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cf77ba5f-5092-43b5-ac3e-ad157f5c50f6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8a2bcae8-015d-413b-8528-0ab497f4228a.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -658,6 +647,17 @@
     "color": "Color: Mint Chocolate Chip Sandwich",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b86d3542-86aa-432e-8623-86dac02ab6a0.jpg",
+    "price": "$125.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Decked Halls",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Cole - Medium",
