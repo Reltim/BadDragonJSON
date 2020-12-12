@@ -12,6 +12,17 @@
   },
   {
     "name": "Mystic - Mini",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d6c01e26-c2e3-4659-9208-5d6b00ecc732.jpg",
+    "price": "$55.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Mini",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d1aed6bc-045e-45cf-b10b-c1456733b7f0.jpg",
     "price": "$55.00",
     "number": "1 of 1",
@@ -385,6 +396,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Dexter - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e184a251-0b78-422a-b5da-57407eb811c7.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Winston's Tongue - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cf77ba5f-5092-43b5-ac3e-ad157f5c50f6.jpg",
     "price": "$105.00",
@@ -639,18 +661,7 @@
   },
   {
     "name": "Mystic - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d4b8b72c-9070-4d06-8302-a0ea349a6be0.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/90b72bbb-8a41-4f26-82bd-d5b291e6019b.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d988b5aa-28c4-4e6b-9765-012778f29203.jpg",
     "price": "$135.00",
     "number": "1 of 1",
     "flop_reason": null,
