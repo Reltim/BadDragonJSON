@@ -660,17 +660,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Vasu - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f7aac0e3-1045-4352-bb27-ae9b47c1afc4.jpg",
-    "price": "$115.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Vasu'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "David - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/32d060cb-3ef3-40ce-8153-430bc927cf52.jpg",
     "price": "$115.00",
@@ -1021,5 +1010,16 @@
     "color": "Color: Vasu'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "David - Extra Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a69e6c0a-e0a7-4b18-a7e8-e12f9992c037.jpg",
+    "price": "$185.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Extra Large",
+    "color": "Color: David'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   }
 ]
