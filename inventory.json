@@ -45,45 +45,12 @@
   },
   {
     "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e33787ca-42db-4206-aa55-25e7c3281ebc.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Taurus",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/81c3eec2-b2ff-4f08-8a27-385b5af20332.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: BD Bronze",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a76510dc-6cdb-49f5-8eea-bba7c4ac1b97.jpg",
     "price": "$115.00",
     "number": "1 of 2",
     "flop_reason": "Flop Reason: Imperfection On Base",
     "size": "Size: Medium",
     "color": "Color: Krampus' Present",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Trent - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6114978b-53c4-441e-81d5-7664930831b2.jpg",
-    "price": "$115.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Decked Halls",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
