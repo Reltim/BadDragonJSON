@@ -1,6 +1,6 @@
 [
   {
-    "name": "Seadragon Lil' Squirt - One-Size",
+    "name": "Lilseadragon - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bc686be3-0bf4-4c02-b49a-67e7c8aef20c.jpg",
     "price": "$35.00",
     "number": "1 of 1",
@@ -660,6 +660,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "David - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6cead54b-4b99-4c8a-ba24-315e94c2e8e2.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Archer - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/768bb097-5286-46ae-9fc7-f3b0da3588c1.jpg",
     "price": "$75.00",
@@ -705,17 +716,6 @@
   },
   {
     "name": "David - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b95a238-b588-4566-bd7c-18f582d380c1.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "David - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/61e31593-3668-4a17-8fff-b0b43b8cf330.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -749,7 +749,7 @@
   },
   {
     "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1460f657-e3a7-45e0-866c-02f1c19987e8.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a48e774e-f835-4911-af42-56b63529911a.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -761,17 +761,6 @@
   {
     "name": "Echo - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d0ac10e0-b62c-49d7-84b6-b8be6d1ed9d1.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a48e774e-f835-4911-af42-56b63529911a.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -804,11 +793,22 @@
   },
   {
     "name": "Echo - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1460f657-e3a7-45e0-866c-02f1c19987e8.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Echo - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4f1a0965-697b-4319-bf04-c56870be66e6.jpg",
     "price": "$75.00",
-    "number": "",
+    "number": "1 of 1",
     "flop_reason": null,
-    "size": "",
+    "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
@@ -969,7 +969,7 @@
   },
   {
     "name": "Echo - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/be72e66c-ea99-4aba-a9b9-1c3660432551.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6c7d755f-9c02-422f-9c84-37987ef21a71.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -991,7 +991,7 @@
   },
   {
     "name": "Echo - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6c7d755f-9c02-422f-9c84-37987ef21a71.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4123a2d2-9973-4a44-9bcf-008b6260d452.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1002,7 +1002,7 @@
   },
   {
     "name": "Echo - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4123a2d2-9973-4a44-9bcf-008b6260d452.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/be72e66c-ea99-4aba-a9b9-1c3660432551.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
