@@ -1,6 +1,6 @@
 [
   {
-    "name": "Seadragon Lil' Squirt - One-Size",
+    "name": "Lilseadragon - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bc686be3-0bf4-4c02-b49a-67e7c8aef20c.jpg",
     "price": "$35.00",
     "number": "1 of 1",
@@ -660,52 +660,8 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Duke the Bad Dragon - Small",
+    "name": "Duke - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3710b4b4-e426-4677-a0f3-184292ae3778.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a48e774e-f835-4911-af42-56b63529911a.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d0ac10e0-b62c-49d7-84b6-b8be6d1ed9d1.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4ea6f060-2176-4a8b-95f4-034a6d01b965.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c78ef811-e0ba-4593-9553-281e77a22c99.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -728,6 +684,50 @@
   {
     "name": "Echo - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4f1a0965-697b-4319-bf04-c56870be66e6.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Echo - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4ea6f060-2176-4a8b-95f4-034a6d01b965.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Echo - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a48e774e-f835-4911-af42-56b63529911a.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Echo - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c78ef811-e0ba-4593-9553-281e77a22c99.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Echo - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d0ac10e0-b62c-49d7-84b6-b8be6d1ed9d1.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -810,17 +810,6 @@
     "flop_reason": "Flop Reason: Nicks On Base",
     "size": "Size: Medium",
     "color": "Color: BD Cyan",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2032dca1-40ba-49f8-96db-21d2246ba764.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
