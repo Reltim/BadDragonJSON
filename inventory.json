@@ -12,6 +12,17 @@
   },
   {
     "name": "Cockatrice Lil' Squirt - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/69b34303-b262-46dd-ba1a-1728eab63586.jpg",
+    "price": "$35.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Firm",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Cockatrice Lil' Squirt - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e2ef4100-2129-4676-988c-6978c695ac45.jpg",
     "price": "$35.00",
     "number": "1 of 1",
@@ -24,17 +35,6 @@
   {
     "name": "Cockatrice Lil' Squirt - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5ac5395a-0fcd-4640-a346-cd1573d81e96.jpg",
-    "price": "$35.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Cockatrice Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/69b34303-b262-46dd-ba1a-1728eab63586.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -473,17 +473,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Spitfire - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/79402be7-a833-4b93-829f-d4fca48de875.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Mystic - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f7a8f3ed-e3fe-4133-a6e6-9d3943530b43.jpg",
     "price": "$60.00",
@@ -541,6 +530,17 @@
   {
     "name": "Spitfire - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/49a22b7a-2a0a-4ba3-a01e-794a3d682d4f.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Spitfire - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1aedc6c3-db40-4718-98b6-28913443647e.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -651,6 +651,17 @@
   {
     "name": "Echo - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c78ef811-e0ba-4593-9553-281e77a22c99.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Echo - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1460f657-e3a7-45e0-866c-02f1c19987e8.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
