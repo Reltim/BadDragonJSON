@@ -364,6 +364,17 @@
   },
   {
     "name": "Cockatrice Lil' Squirt - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/eb8bc987-246b-41c8-a02d-b04586b823db.jpg",
+    "price": "$35.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Firm",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Cockatrice Lil' Squirt - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bd930ca8-fe14-4ca4-9c6e-29f20ffc175d.jpg",
     "price": "$35.00",
     "number": "1 of 1",
@@ -396,19 +407,8 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Cockatrice Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/eb8bc987-246b-41c8-a02d-b04586b823db.jpg",
-    "price": "$35.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "Chico Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/02f4417c-8070-40a2-9f83-fb98b2863c2f.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bd725b20-b7a7-459c-8abc-af3feb71a3c4.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -430,7 +430,7 @@
   },
   {
     "name": "Chico Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/471e67d4-5c27-4990-a375-44432b4aa60a.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/02f4417c-8070-40a2-9f83-fb98b2863c2f.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -441,7 +441,7 @@
   },
   {
     "name": "Chico Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bd725b20-b7a7-459c-8abc-af3feb71a3c4.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/471e67d4-5c27-4990-a375-44432b4aa60a.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -594,17 +594,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Archer - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/768bb097-5286-46ae-9fc7-f3b0da3588c1.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "David - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/70cbb6f3-1b9c-4083-a87b-8b480581a8a3.jpg",
     "price": "$75.00",
@@ -657,6 +646,17 @@
     "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Duke the Bad Dragon - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3710b4b4-e426-4677-a0f3-184292ae3778.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
