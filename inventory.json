@@ -298,17 +298,6 @@
   },
   {
     "name": "Cockatrice Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bd930ca8-fe14-4ca4-9c6e-29f20ffc175d.jpg",
-    "price": "$35.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Cockatrice Lil' Squirt - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/eb8bc987-246b-41c8-a02d-b04586b823db.jpg",
     "price": "$35.00",
     "number": "1 of 1",
@@ -397,7 +386,7 @@
   },
   {
     "name": "Spitfire - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/79402be7-a833-4b93-829f-d4fca48de875.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/77b6c423-4d57-48ec-a5bc-d448c58b8d49.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -408,7 +397,7 @@
   },
   {
     "name": "Spitfire - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/77b6c423-4d57-48ec-a5bc-d448c58b8d49.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/79402be7-a833-4b93-829f-d4fca48de875.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -540,7 +529,7 @@
   },
   {
     "name": "David - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b95a238-b588-4566-bd7c-18f582d380c1.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/61e31593-3668-4a17-8fff-b0b43b8cf330.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -551,7 +540,7 @@
   },
   {
     "name": "David - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/61e31593-3668-4a17-8fff-b0b43b8cf330.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b95a238-b588-4566-bd7c-18f582d380c1.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -563,17 +552,6 @@
   {
     "name": "Duke the Bad Dragon - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3710b4b4-e426-4677-a0f3-184292ae3778.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4f1a0965-697b-4319-bf04-c56870be66e6.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -606,6 +584,17 @@
   },
   {
     "name": "Echo - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4f1a0965-697b-4319-bf04-c56870be66e6.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Echo - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1460f657-e3a7-45e0-866c-02f1c19987e8.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -628,7 +617,7 @@
   },
   {
     "name": "Mystic - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a56cf76a-2a75-47a0-8084-2642f1ab7ea3.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ad9cb39b-c41e-45c5-8344-aea7ab800dd8.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -639,7 +628,7 @@
   },
   {
     "name": "Mystic - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ad9cb39b-c41e-45c5-8344-aea7ab800dd8.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a56cf76a-2a75-47a0-8084-2642f1ab7ea3.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -660,23 +649,12 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Spitfire - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bb9665e5-a2c3-4235-b6c7-f7fc8328db16.jpg",
-    "price": "$120.00",
-    "number": "1 of 1",
-    "flop_reason": null,
+    "name": "Bruiser - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d1910749-dcb1-4185-af5b-57f71b897371.jpg",
+    "price": "$105.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Nick On Base",
     "size": "Size: Medium",
-    "color": "Color: Unicorn Cake",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8c61bd3a-2da0-40a2-86a2-24c0cf502d22.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
