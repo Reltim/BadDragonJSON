@@ -639,6 +639,17 @@
   },
   {
     "name": "David - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b95a238-b588-4566-bd7c-18f582d380c1.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "David - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/61e31593-3668-4a17-8fff-b0b43b8cf330.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -748,17 +759,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Tyson - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f284d920-2d50-421e-80a4-08beec808fac.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Mystic - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/927ebc1d-6991-4011-8161-a425bb8115b3.jpg",
     "price": "$75.00",
@@ -799,17 +799,6 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Night Sky",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Egg Plug - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5983ed37-ed55-4b1f-b82e-3afec64b8deb.jpg",
-    "price": "$84.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nick On Base",
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
