@@ -661,17 +661,6 @@
   },
   {
     "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4ea6f060-2176-4a8b-95f4-034a6d01b965.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Echo - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c78ef811-e0ba-4593-9553-281e77a22c99.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -748,17 +737,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Mystic - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/18bc4fc5-14dd-49b4-90f5-c8fa181bc6f9.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Night Sky",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Mystic - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b1df7e1a-d022-4223-9107-075f9b053438.jpg",
     "price": "$105.00",
@@ -793,7 +771,7 @@
   },
   {
     "name": "Echo - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6c7d755f-9c02-422f-9c84-37987ef21a71.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4123a2d2-9973-4a44-9bcf-008b6260d452.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -804,7 +782,7 @@
   },
   {
     "name": "Echo - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4123a2d2-9973-4a44-9bcf-008b6260d452.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6c7d755f-9c02-422f-9c84-37987ef21a71.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
