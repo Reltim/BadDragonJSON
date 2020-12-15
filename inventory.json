@@ -680,16 +680,5 @@
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Spitfire - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bb9665e5-a2c3-4235-b6c7-f7fc8328db16.jpg",
-    "price": "$120.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Unicorn Cake",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
   }
 ]
