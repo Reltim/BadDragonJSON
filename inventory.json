@@ -661,6 +661,17 @@
   },
   {
     "name": "David - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/61e31593-3668-4a17-8fff-b0b43b8cf330.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "David - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4154d80a-2f5b-4ee0-ab50-95aa91b85984.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -683,7 +694,7 @@
   },
   {
     "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c78ef811-e0ba-4593-9553-281e77a22c99.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d0ac10e0-b62c-49d7-84b6-b8be6d1ed9d1.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -705,7 +716,7 @@
   },
   {
     "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4f1a0965-697b-4319-bf04-c56870be66e6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c78ef811-e0ba-4593-9553-281e77a22c99.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -716,7 +727,7 @@
   },
   {
     "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d0ac10e0-b62c-49d7-84b6-b8be6d1ed9d1.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4ea6f060-2176-4a8b-95f4-034a6d01b965.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -738,7 +749,7 @@
   },
   {
     "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4ea6f060-2176-4a8b-95f4-034a6d01b965.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4f1a0965-697b-4319-bf04-c56870be66e6.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
