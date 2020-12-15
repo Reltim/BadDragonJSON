@@ -727,7 +727,7 @@
   },
   {
     "name": "David - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/61e31593-3668-4a17-8fff-b0b43b8cf330.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b95a238-b588-4566-bd7c-18f582d380c1.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -738,7 +738,7 @@
   },
   {
     "name": "David - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b95a238-b588-4566-bd7c-18f582d380c1.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/61e31593-3668-4a17-8fff-b0b43b8cf330.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -782,17 +782,6 @@
   },
   {
     "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d0ac10e0-b62c-49d7-84b6-b8be6d1ed9d1.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Echo - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4f1a0965-697b-4319-bf04-c56870be66e6.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -804,7 +793,18 @@
   },
   {
     "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c78ef811-e0ba-4593-9553-281e77a22c99.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d0ac10e0-b62c-49d7-84b6-b8be6d1ed9d1.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Echo - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a48e774e-f835-4911-af42-56b63529911a.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -826,7 +826,7 @@
   },
   {
     "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a48e774e-f835-4911-af42-56b63529911a.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c78ef811-e0ba-4593-9553-281e77a22c99.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -913,22 +913,22 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Egg Plug - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5983ed37-ed55-4b1f-b82e-3afec64b8deb.jpg",
-    "price": "$84.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nick On Base",
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Blaze - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f6e49309-b0cc-44ca-955c-33c5d75648a2.jpg",
     "price": "$95.00",
     "number": "1 of 2",
     "flop_reason": "Flop Reason: Trimmed Wide At Base",
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Duke the Bad Dragon - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ff16ed19-f305-406f-be17-e85037f9a48c.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
@@ -980,29 +980,7 @@
   },
   {
     "name": "Echo - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/45104815-b4ab-4ce3-a73b-a1d324529a60.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Echo - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6c7d755f-9c02-422f-9c84-37987ef21a71.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Echo - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4123a2d2-9973-4a44-9bcf-008b6260d452.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/96bdf614-61b2-4c02-8d27-6cd96bcf3aa2.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1024,7 +1002,7 @@
   },
   {
     "name": "Echo - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/96bdf614-61b2-4c02-8d27-6cd96bcf3aa2.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6c7d755f-9c02-422f-9c84-37987ef21a71.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1035,7 +1013,18 @@
   },
   {
     "name": "Echo - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/be72e66c-ea99-4aba-a9b9-1c3660432551.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/45104815-b4ab-4ce3-a73b-a1d324529a60.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Echo - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4123a2d2-9973-4a44-9bcf-008b6260d452.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1090,7 +1079,7 @@
   },
   {
     "name": "Mystic - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8c61bd3a-2da0-40a2-86a2-24c0cf502d22.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ed25c63a-5cbf-4f88-a3f7-8a48a9c0a210.jpg",
     "price": "$135.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1101,7 +1090,7 @@
   },
   {
     "name": "Mystic - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ed25c63a-5cbf-4f88-a3f7-8a48a9c0a210.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8c61bd3a-2da0-40a2-86a2-24c0cf502d22.jpg",
     "price": "$135.00",
     "number": "1 of 1",
     "flop_reason": null,
