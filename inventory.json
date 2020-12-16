@@ -133,7 +133,7 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3de03b9a-e1a3-4ccb-80c5-caa5d8703339.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/106865d3-c68e-423b-97c4-6059f35c23c9.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -144,7 +144,7 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/106865d3-c68e-423b-97c4-6059f35c23c9.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3de03b9a-e1a3-4ccb-80c5-caa5d8703339.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -244,17 +244,6 @@
   {
     "name": "Axel - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/150789a2-a234-4af4-a30a-7e01fbec07ec.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Spitfire - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/77b6c423-4d57-48ec-a5bc-d448c58b8d49.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
