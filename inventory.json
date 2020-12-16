@@ -111,7 +111,7 @@
   },
   {
     "name": "Seadragon Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3c47e8b3-63a2-45ad-a790-8908c42bd0d8.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/64985ce5-00b2-4beb-8e70-b669187f9d8f.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -122,7 +122,7 @@
   },
   {
     "name": "Seadragon Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/64985ce5-00b2-4beb-8e70-b669187f9d8f.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3c47e8b3-63a2-45ad-a790-8908c42bd0d8.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -330,17 +330,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Axel - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/150789a2-a234-4af4-a30a-7e01fbec07ec.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Spitfire - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/77b6c423-4d57-48ec-a5bc-d448c58b8d49.jpg",
     "price": "$55.00",
@@ -426,6 +415,17 @@
     "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d7aa1fc0-2a26-4a00-94dc-3148eb2f6113.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
