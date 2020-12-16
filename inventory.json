@@ -133,7 +133,7 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/106865d3-c68e-423b-97c4-6059f35c23c9.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3de03b9a-e1a3-4ccb-80c5-caa5d8703339.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -144,7 +144,7 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3de03b9a-e1a3-4ccb-80c5-caa5d8703339.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/106865d3-c68e-423b-97c4-6059f35c23c9.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -308,17 +308,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "David - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/61e31593-3668-4a17-8fff-b0b43b8cf330.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Mystic - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/927ebc1d-6991-4011-8161-a425bb8115b3.jpg",
     "price": "$75.00",
@@ -331,7 +320,7 @@
   },
   {
     "name": "Mystic - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ad9cb39b-c41e-45c5-8344-aea7ab800dd8.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a56cf76a-2a75-47a0-8084-2642f1ab7ea3.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -342,7 +331,7 @@
   },
   {
     "name": "Mystic - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a56cf76a-2a75-47a0-8084-2642f1ab7ea3.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ad9cb39b-c41e-45c5-8344-aea7ab800dd8.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
