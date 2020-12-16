@@ -133,7 +133,7 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e67ac57c-cd11-4d66-9695-b67dfd86cc4c.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ee10d0c4-21a8-4fc6-a0ea-5a362e72f0e9.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -272,6 +272,17 @@
     "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ad9cb39b-c41e-45c5-8344-aea7ab800dd8.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   }
 ]
