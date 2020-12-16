@@ -133,7 +133,7 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3de03b9a-e1a3-4ccb-80c5-caa5d8703339.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/106865d3-c68e-423b-97c4-6059f35c23c9.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -144,7 +144,7 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/106865d3-c68e-423b-97c4-6059f35c23c9.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3de03b9a-e1a3-4ccb-80c5-caa5d8703339.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -177,7 +177,7 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3261cccc-a1b2-4759-9fb0-7ccefa63844b.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b0cd99a4-d93a-4eba-abdf-73792a35439e.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -188,7 +188,7 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b0cd99a4-d93a-4eba-abdf-73792a35439e.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3261cccc-a1b2-4759-9fb0-7ccefa63844b.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -294,6 +294,17 @@
     "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Firm",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "David - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/61e31593-3668-4a17-8fff-b0b43b8cf330.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
