@@ -342,7 +342,7 @@
   },
   {
     "name": "Spitfire - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/77b6c423-4d57-48ec-a5bc-d448c58b8d49.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/79402be7-a833-4b93-829f-d4fca48de875.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -353,7 +353,7 @@
   },
   {
     "name": "Spitfire - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/79402be7-a833-4b93-829f-d4fca48de875.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/77b6c423-4d57-48ec-a5bc-d448c58b8d49.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -418,17 +418,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Spitfire - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/49a22b7a-2a0a-4ba3-a01e-794a3d682d4f.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Mystic - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d7aa1fc0-2a26-4a00-94dc-3148eb2f6113.jpg",
     "price": "$75.00",
@@ -485,7 +474,7 @@
   },
   {
     "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4f1a0965-697b-4319-bf04-c56870be66e6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c78ef811-e0ba-4593-9553-281e77a22c99.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -496,7 +485,7 @@
   },
   {
     "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c78ef811-e0ba-4593-9553-281e77a22c99.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4f1a0965-697b-4319-bf04-c56870be66e6.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
