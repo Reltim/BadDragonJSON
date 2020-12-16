@@ -122,6 +122,17 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/48c91e83-43d8-448f-8b04-942d47822717.jpg",
+    "price": "$35.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Firm",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Fusion Lil' Squirt - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/106865d3-c68e-423b-97c4-6059f35c23c9.jpg",
     "price": "$35.00",
     "number": "1 of 1",
@@ -144,17 +155,6 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/48c91e83-43d8-448f-8b04-942d47822717.jpg",
-    "price": "$35.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Fusion Lil' Squirt - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ee10d0c4-21a8-4fc6-a0ea-5a362e72f0e9.jpg",
     "price": "$35.00",
     "number": "1 of 1",
@@ -166,7 +166,7 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a568eff1-0df3-4357-94fb-0fdef4bd6660.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cf442fdd-7197-460a-8ea0-c524350a7ef5.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -242,34 +242,12 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Axel - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/150789a2-a234-4af4-a30a-7e01fbec07ec.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Spitfire - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/77b6c423-4d57-48ec-a5bc-d448c58b8d49.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Elliot - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/39c86fd7-bbfc-42da-9830-428987641fc7.jpg",
-    "price": "$60.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Wide Trim",
-    "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
@@ -294,17 +272,6 @@
     "size": "Size: Small",
     "color": "Color: BD Metallic Red",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d7aa1fc0-2a26-4a00-94dc-3148eb2f6113.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
