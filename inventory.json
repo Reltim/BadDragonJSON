@@ -23,7 +23,7 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c72664ce-c7bd-4943-93f5-f597776b4781.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/93c58ba7-adad-40ae-a176-60cf8a9315a2.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -34,7 +34,7 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/93c58ba7-adad-40ae-a176-60cf8a9315a2.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c72664ce-c7bd-4943-93f5-f597776b4781.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -232,7 +232,7 @@
   },
   {
     "name": "Cockatrice Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/eb8bc987-246b-41c8-a02d-b04586b823db.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d8c58085-dcf9-4e8d-ae0c-6441a5a2ec04.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -243,7 +243,7 @@
   },
   {
     "name": "Cockatrice Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d8c58085-dcf9-4e8d-ae0c-6441a5a2ec04.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/eb8bc987-246b-41c8-a02d-b04586b823db.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -393,17 +393,6 @@
     "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1460f657-e3a7-45e0-866c-02f1c19987e8.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
