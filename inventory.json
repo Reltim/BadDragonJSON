@@ -34,23 +34,23 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c83604c4-7a02-40be-859c-09819bc06d09.jpg",
-    "price": "$35.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Tangerine",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Fusion Lil' Squirt - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/93c58ba7-adad-40ae-a176-60cf8a9315a2.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: One-Size",
     "color": "Color: Rogue",
+    "firmness": "Firmness: Firm",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Fusion Lil' Squirt - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c83604c4-7a02-40be-859c-09819bc06d09.jpg",
+    "price": "$35.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Tangerine",
     "firmness": "Firmness: Firm",
     "accessories": "Accessories: CumTube"
   },
@@ -66,13 +66,13 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Chico Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e46e1f63-3af6-4aad-bfab-1c3dde8737e1.jpg",
+    "name": "Seadragon Lil' Squirt - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ce029d48-990f-4215-9337-0eca4efaf918.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: One-Size",
-    "color": "Color: Bone",
+    "color": "Color: Tangerine",
     "firmness": "Firmness: Firm",
     "accessories": "Accessories: CumTube"
   },
@@ -84,17 +84,6 @@
     "flop_reason": null,
     "size": "Size: One-Size",
     "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Seadragon Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ce029d48-990f-4215-9337-0eca4efaf918.jpg",
-    "price": "$35.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Tangerine",
     "firmness": "Firmness: Firm",
     "accessories": "Accessories: CumTube"
   },
@@ -253,6 +242,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Spitfire - Mini",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/77b6c423-4d57-48ec-a5bc-d448c58b8d49.jpg",
+    "price": "$55.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Mini",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Mystic - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7ad6ec27-f97a-4bcb-8592-19461223a722.jpg",
     "price": "$75.00",
@@ -316,17 +316,6 @@
     "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a56cf76a-2a75-47a0-8084-2642f1ab7ea3.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
