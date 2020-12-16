@@ -11,17 +11,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Cockatrice Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e2ef4100-2129-4676-988c-6978c695ac45.jpg",
-    "price": "$35.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "Fusion Lil' Squirt - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c96afa47-ca5f-42fc-a47b-e75837ee79d1.jpg",
     "price": "$35.00",
@@ -89,7 +78,7 @@
   },
   {
     "name": "Seadragon Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3c47e8b3-63a2-45ad-a790-8908c42bd0d8.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/642698bc-b5d2-4f28-82bd-61c011c12f53.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -100,7 +89,7 @@
   },
   {
     "name": "Seadragon Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/642698bc-b5d2-4f28-82bd-61c011c12f53.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3c47e8b3-63a2-45ad-a790-8908c42bd0d8.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -210,7 +199,7 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b0cd99a4-d93a-4eba-abdf-73792a35439e.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3261cccc-a1b2-4759-9fb0-7ccefa63844b.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -221,7 +210,7 @@
   },
   {
     "name": "Fusion Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3261cccc-a1b2-4759-9fb0-7ccefa63844b.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b0cd99a4-d93a-4eba-abdf-73792a35439e.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -254,6 +243,17 @@
   },
   {
     "name": "Cockatrice Lil' Squirt - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d8c58085-dcf9-4e8d-ae0c-6441a5a2ec04.jpg",
+    "price": "$35.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Firm",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Cockatrice Lil' Squirt - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bd930ca8-fe14-4ca4-9c6e-29f20ffc175d.jpg",
     "price": "$35.00",
     "number": "1 of 1",
@@ -266,17 +266,6 @@
   {
     "name": "Cockatrice Lil' Squirt - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/eb8bc987-246b-41c8-a02d-b04586b823db.jpg",
-    "price": "$35.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Cockatrice Lil' Squirt - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d8c58085-dcf9-4e8d-ae0c-6441a5a2ec04.jpg",
     "price": "$35.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -474,7 +463,7 @@
   },
   {
     "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1460f657-e3a7-45e0-866c-02f1c19987e8.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c78ef811-e0ba-4593-9553-281e77a22c99.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -485,7 +474,7 @@
   },
   {
     "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c78ef811-e0ba-4593-9553-281e77a22c99.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1460f657-e3a7-45e0-866c-02f1c19987e8.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -507,7 +496,7 @@
   },
   {
     "name": "Mystic - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ad9cb39b-c41e-45c5-8344-aea7ab800dd8.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a56cf76a-2a75-47a0-8084-2642f1ab7ea3.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -518,7 +507,7 @@
   },
   {
     "name": "Mystic - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a56cf76a-2a75-47a0-8084-2642f1ab7ea3.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ad9cb39b-c41e-45c5-8344-aea7ab800dd8.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
