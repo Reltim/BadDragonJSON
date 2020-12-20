@@ -165,17 +165,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Egg Plug - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/16c8bd80-aea1-4704-baf4-b2a4ebccee56.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Chance's Sheath - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/de6f75a0-520e-4d6b-ad49-f09fff6fa607.jpg",
     "price": "$56.00",
@@ -325,6 +314,17 @@
     "number": "1 of 2",
     "flop_reason": "Flop Reason: Strap Trimmed Wide",
     "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Ika Sheath - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2f197d76-ce30-4c78-a876-5b0c2bc3030e.jpg",
+    "price": "$60.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
@@ -480,17 +480,6 @@
     "flop_reason": "Flop Reason: Beauty Marks On Strap",
     "size": "Size: Large",
     "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Flint's Sheath - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/460862aa-494a-486e-9728-173957a398e7.jpg",
-    "price": "$64.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nick On The Strap",
-    "size": "Size: Large",
-    "color": "Color: Flint'S Sheath Natural",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
@@ -662,28 +651,6 @@
   {
     "name": "Ika - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/693b851f-c692-4f0f-a38f-35c191f7d6e9.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Ika - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d99372fd-7a37-4f3b-a5f9-f4078dcb33a6.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Zaratan - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/730b3884-6f42-46e7-aa03-c1913a7a45e4.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1353,17 +1320,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Diego - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a15450e5-5791-4f9e-81dd-a68b5f96cd0a.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: BD Metallic Purple",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Vasu - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/841945d5-675f-4e14-8762-ad2b73e21ea4.jpg",
     "price": "$105.00",
@@ -1657,17 +1613,6 @@
     "flop_reason": null,
     "size": "Size: Large",
     "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Diego - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8475b3c2-57e8-42e3-9ea5-4aa4b50e8744.jpg",
-    "price": "$155.00",
-    "number": "1 of 2",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: BD Metallic Purple",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
   },
