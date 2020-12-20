@@ -188,7 +188,7 @@
   },
   {
     "name": "Egg Plug - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/526e4b50-fada-4b06-ac39-cfb8e53b0022.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/16c8bd80-aea1-4704-baf4-b2a4ebccee56.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -199,7 +199,7 @@
   },
   {
     "name": "Egg Plug - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/16c8bd80-aea1-4704-baf4-b2a4ebccee56.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/526e4b50-fada-4b06-ac39-cfb8e53b0022.jpg",
     "price": "$55.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -396,17 +396,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Rex - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d9e4fd28-9b1d-4fa4-8f71-50ee19ead3cf.jpg",
-    "price": "$60.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Failed Suction Cup",
-    "size": "Size: Medium",
-    "color": "Color: Rex'S Signature",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "Ika Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2f197d76-ce30-4c78-a876-5b0c2bc3030e.jpg",
     "price": "$60.00",
@@ -496,17 +485,6 @@
   },
   {
     "name": "Crackers' Sheath - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/90e9eda8-84f7-409b-b66e-525c3d739ce8.jpg",
-    "price": "$60.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Crackers' Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fbb2df8e-0059-4f97-ad26-48b8aabdccd0.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -540,7 +518,7 @@
   },
   {
     "name": "David's Sheath - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5efe97dd-65dd-459d-b9c5-98387e0d5a8c.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7229877a-432d-468e-b7fe-c686cc3db4cb.jpg",
     "price": "$60.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -551,7 +529,7 @@
   },
   {
     "name": "David's Sheath - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7229877a-432d-468e-b7fe-c686cc3db4cb.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5efe97dd-65dd-459d-b9c5-98387e0d5a8c.jpg",
     "price": "$60.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -650,7 +628,29 @@
   },
   {
     "name": "Crackers' Sheath - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0f791888-a805-4c96-a44d-9e24f1e507a5.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0e370bef-902a-4bff-9a1c-a0d7660be568.jpg",
+    "price": "$70.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Crackers' Sheath - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e1991367-4004-4bad-a82c-1246449ad40e.jpg",
+    "price": "$70.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Ultraviolet Legacy",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Ika Sheath - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7f636746-3d8e-44d8-ba57-36ec04721ae7.jpg",
     "price": "$70.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -672,7 +672,7 @@
   },
   {
     "name": "Ika Sheath - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e51e3cbe-0c52-44ea-86d6-c4f9ea580939.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/439ff72c-be1b-4aff-b7f2-2314a64606aa.jpg",
     "price": "$70.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1316,17 +1316,6 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Winter Wonderland",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Rex - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1a045ed1-c4fe-4deb-8375-5d5f68bdb852.jpg",
-    "price": "$85.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Decked Halls",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -2057,6 +2046,17 @@
     "accessories": "Accessories: CumTube"
   },
   {
+    "name": "Diego - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8475b3c2-57e8-42e3-9ea5-4aa4b50e8744.jpg",
+    "price": "$155.00",
+    "number": "1 of 2",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: BD Metallic Purple",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
     "name": "Cole - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a19955e8-4d41-4bd4-86b5-d34efd3c20a7.jpg",
     "price": "$155.00",
@@ -2132,17 +2132,6 @@
     "color": "Color: Neon Blue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube & Suction Cup"
-  },
-  {
-    "name": "Winston's Tongue - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/36b3ef62-8a43-462e-8165-0b7e55dcb30a.jpg",
-    "price": "$165.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Extra Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
   },
   {
     "name": "Rex - Large",
