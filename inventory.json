@@ -55,6 +55,28 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Mystic - Mini",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/de6c3460-e55c-43f6-bb66-bac759dc3f8c.jpg",
+    "price": "$55.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Mini",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Mini",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3e151931-11ba-435b-bb5d-88288ee54a02.jpg",
+    "price": "$55.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Mini",
+    "color": "Color: BD Metallic Blue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Spitfire - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7e62b8a4-7dbf-4427-9cf9-d0a101eb4f79.jpg",
     "price": "$55.00",
@@ -211,6 +233,17 @@
   {
     "name": "Zaratan - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/730b3884-6f42-46e7-aa03-c1913a7a45e4.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/10f6b867-c3e5-4f81-a30d-8af6b9c77f02.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -403,17 +436,6 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Decked Halls",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Rex - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5855e990-fb81-435b-bb6a-609b6da98ad1.jpg",
-    "price": "$85.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Krampus' Present",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -638,6 +660,17 @@
     "accessories": "Accessories: CumTube"
   },
   {
+    "name": "Kona - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/df64b6a3-8c41-470b-a7bd-cb85490ae992.jpg",
+    "price": "$115.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Kona'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
     "name": "Terra - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/00ea533c-1813-4e07-9f61-f5b0a2602178.jpg",
     "price": "$125.00",
@@ -744,6 +777,17 @@
     "flop_reason": null,
     "size": "Size: Large",
     "color": "Color: Kona'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Trent - Extra Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a23bc1f1-3896-4589-90f0-808dbaca6e24.jpg",
+    "price": "$165.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Extra Large",
+    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
