@@ -77,6 +77,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Rowan - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f38138ed-ce3d-4c63-8e44-11a6196d9c97.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Rowan'S Natural",
+    "firmness": "Firmness: Extra Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Duke the Bad Dragon - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/01d098f9-a8cc-45c3-bfa8-d56a94a69a86.jpg",
     "price": "$95.00",
@@ -130,6 +141,17 @@
     "color": "Color: Trent'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: Suction Cup"
+  },
+  {
+    "name": "Bumble Hooves - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0ac658f8-da1c-4900-a487-a5037c536d30.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Bumble Hooves' Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Trent - Small",
@@ -196,6 +218,17 @@
     "color": "Color: Kona'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Rex - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7ef03ec6-35b1-4999-aa90-f35c3ad808c0.jpg",
+    "price": "$165.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Nick On The Lower Shaft",
+    "size": "Size: Large",
+    "color": "Color: Duka-Cola Quantum",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube & Suction Cup"
   },
   {
     "name": "Trent - Large",
