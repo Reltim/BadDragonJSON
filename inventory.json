@@ -44,6 +44,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Ika - Mini",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/30d0fe42-059d-4c19-962a-33527d8836e1.jpg",
+    "price": "$55.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Mini",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Mystic - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3e151931-11ba-435b-bb5d-88288ee54a02.jpg",
     "price": "$55.00",
@@ -173,17 +184,6 @@
     "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Natascha - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b9c51aed-5a23-487d-96c4-11c8488685bd.jpg",
-    "price": "$76.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Wide Trim",
-    "size": "Size: One-Size",
-    "color": "Color: Natascha'S Natural",
-    "firmness": "Firmness: Extra Soft",
     "accessories": "Accessories: None"
   },
   {
