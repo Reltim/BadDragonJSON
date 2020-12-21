@@ -56,17 +56,6 @@
   },
   {
     "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/de6c3460-e55c-43f6-bb66-bac759dc3f8c.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3e151931-11ba-435b-bb5d-88288ee54a02.jpg",
     "price": "$55.00",
     "number": "1 of 1",
@@ -139,6 +128,17 @@
     "flop_reason": "Flop Reason: Nick On The Strap",
     "size": "Size: Large",
     "color": "Color: Flint'S Sheath Natural",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "David's Sheath - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/49ac65af-8941-49aa-abe4-14aac68e4082.jpg",
+    "price": "$70.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
@@ -350,17 +350,6 @@
     "color": "Color: Kona'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Nox - Small",
-    "src": "https://assets.bad-dragon.com/images/inventorytoys/NoxNaturalCT_stock_240.JPG",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Nox'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube & Suction Cup"
   },
   {
     "name": "Mystic - Medium",
