@@ -80,7 +80,7 @@
     "name": "Crackers' Sheath - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d6e8792f-443d-4a76-92a3-1eae50fc5aa0.jpg",
     "price": "$56.00",
-    "number": "",
+    "number": "1 of 2",
     "flop_reason": "Flop Reason: Air Bubble On The Strap",
     "size": "Size: Medium",
     "color": "Color: Platinum Ore",
@@ -282,17 +282,6 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Kona'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/30fb8d50-fe03-4bcb-b43f-664eb9cf9f93.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
