@@ -1,6 +1,6 @@
 [
   {
-    "name": "Ikasheath - Small",
+    "name": "Ika Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/66d163fa-f3d8-4036-a249-2450f76c4414.jpg",
     "price": "$48.00",
     "number": "1 of 2",
@@ -29,17 +29,6 @@
     "flop_reason": "Flop Reason: Wide Trim",
     "size": "Size: Small",
     "color": "Color: David'S Sheath Natural",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3e151931-11ba-435b-bb5d-88288ee54a02.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: BD Metallic Blue",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
