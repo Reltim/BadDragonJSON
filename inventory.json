@@ -99,6 +99,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "David's Sheath - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7229877a-432d-468e-b7fe-c686cc3db4cb.jpg",
+    "price": "$60.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Flint's Sheath - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/460862aa-494a-486e-9728-173957a398e7.jpg",
     "price": "$64.00",
@@ -106,17 +117,6 @@
     "flop_reason": "Flop Reason: Nick On The Strap",
     "size": "Size: Large",
     "color": "Color: Flint'S Sheath Natural",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "David's Sheath - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/49ac65af-8941-49aa-abe4-14aac68e4082.jpg",
-    "price": "$70.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
@@ -238,6 +238,17 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Nox'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Bumble Hooves - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8ad87520-496f-4d7a-958d-ab65086a36d9.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
   },
@@ -465,7 +476,7 @@
     "name": "Kona - Extra Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/05e16262-d25f-4347-bc52-9e3a74f72279.jpg",
     "price": "$185.00",
-    "number": "",
+    "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Extra Large",
     "color": "Color: Kona'S Signature",
