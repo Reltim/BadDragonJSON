@@ -377,17 +377,6 @@
     "name": "Natascha - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b9c51aed-5a23-487d-96c4-11c8488685bd.jpg",
     "price": "$76.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Wide Trim",
-    "size": "Size: One-Size",
-    "color": "Color: Natascha'S Natural",
-    "firmness": "Firmness: Extra Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Natascha - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b9c51aed-5a23-487d-96c4-11c8488685bd.jpg",
-    "price": "$76.00",
     "number": "1 of 3",
     "flop_reason": "Flop Reason: Wide Trim, Nick On Front Of Sleeve",
     "size": "Size: One-Size",
@@ -660,6 +649,17 @@
     "accessories": "Accessories: Suction Cup"
   },
   {
+    "name": "Bumble Hooves - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0ac658f8-da1c-4900-a487-a5037c536d30.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Bumble Hooves' Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Clayton - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9d6c2200-2a9d-4ff1-be66-e45fa8bc9f0f.jpg",
     "price": "$108.00",
@@ -759,6 +759,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Mystic - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/961eaa90-8c7e-4864-98a4-f94946c9158e.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Terra - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5fb5f9c1-9946-4451-9b1e-164c346020ba.jpg",
     "price": "$135.00",
@@ -768,17 +779,6 @@
     "color": "Color: Terra'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Trent - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/82faa0f0-6d03-478c-93e2-9e95e3bae3fb.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Trent'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Bumble Hooves - Large",
@@ -933,16 +933,5 @@
     "color": "Color: Trent'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Rex - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d9e4fd28-9b1d-4fa4-8f71-50ee19ead3cf.jpg",
-    "price": "$215.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Air Bubbles On Base",
-    "size": "Size: Extra Large",
-    "color": "Color: Rex'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube & Suction Cup"
   }
 ]
