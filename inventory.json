@@ -89,17 +89,6 @@
   },
   {
     "name": "Crackers' Sheath - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7ec89a58-a638-4ae1-862e-595ec3d74f8c.jpg",
-    "price": "$56.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Air Bubble On Strap",
-    "size": "Size: Medium",
-    "color": "Color: Platinum Ore",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Crackers' Sheath - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/58faee0a-a8c7-4fc3-83ad-2a6d00548591.jpg",
     "price": "$56.00",
     "number": "1 of 2",
@@ -297,6 +286,28 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Ika - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/75c0d759-9833-4e1b-b854-83e3f2b78c10.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e9c7f35c-abd7-4e55-bc13-4ef6faa78f43.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Firm",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Demon Dick - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/eb5be799-87ef-4834-8a4e-c139552d4fa6.jpg",
     "price": "$75.00",
@@ -462,17 +473,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Rex - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5c600803-f0f4-44a6-905b-fa3d9862cf85.jpg",
-    "price": "$85.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Decked Halls",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Vasu - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8595288f-1cd8-4610-936e-db9e091c41b9.jpg",
     "price": "$85.00",
@@ -524,6 +524,17 @@
     "flop_reason": "Flop Reason: Nicks On Sleeve",
     "size": "Size: One-Size",
     "color": "Color: Natascha'S Natural",
+    "firmness": "Firmness: Extra Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mary - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/db8e8f66-e377-479b-bf7f-8cd304b078f3.jpg",
+    "price": "$95.00",
+    "number": "1 of 2",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Mary'S Natural",
     "firmness": "Firmness: Extra Soft",
     "accessories": "Accessories: None"
   },
@@ -625,6 +636,28 @@
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Vasu - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/841945d5-675f-4e14-8762-ad2b73e21ea4.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Decked Halls",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Trent - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/82faa0f0-6d03-478c-93e2-9e95e3bae3fb.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Trent'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Vasu - Small",
@@ -823,17 +856,6 @@
     "color": "Color: Bumble Hooves' Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Nox - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a9b4a932-ef23-4f38-9c61-9b2fb4733d5b.jpg",
-    "price": "$145.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Nox'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Kona - Medium",
