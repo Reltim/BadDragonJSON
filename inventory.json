@@ -11,6 +11,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Ika Sheath - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/66d163fa-f3d8-4036-a249-2450f76c4414.jpg",
+    "price": "$48.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Imperfection On Strap",
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "David's Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b208003-57d6-483d-9cc6-c382d93ab78c.jpg",
     "price": "$48.00",
@@ -649,28 +660,6 @@
     "accessories": "Accessories: Suction Cup"
   },
   {
-    "name": "Vasu - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8595288f-1cd8-4610-936e-db9e091c41b9.jpg",
-    "price": "$115.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Decked Halls",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Vasu - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8595288f-1cd8-4610-936e-db9e091c41b9.jpg",
-    "price": "$115.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Decked Halls",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Terra - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5fb5f9c1-9946-4451-9b1e-164c346020ba.jpg",
     "price": "$115.00",
@@ -810,17 +799,6 @@
     "flop_reason": null,
     "size": "Size: Large",
     "color": "Color: Kona'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Trent - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a23bc1f1-3896-4589-90f0-808dbaca6e24.jpg",
-    "price": "$165.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Extra Large",
-    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
