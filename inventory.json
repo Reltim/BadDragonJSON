@@ -121,6 +121,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Ika Sheath - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e3c3214b-6ecf-4aad-a054-d1fd29c40248.jpg",
+    "price": "$64.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Nick On Sleeve",
+    "size": "Size: Large",
+    "color": "Color: Arctic Ice",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Flint's Sheath - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/460862aa-494a-486e-9728-173957a398e7.jpg",
     "price": "$64.00",
@@ -203,17 +214,6 @@
     "price": "$76.00",
     "number": "1 of 2",
     "flop_reason": "Flop Reason: Wide Trim",
-    "size": "Size: One-Size",
-    "color": "Color: Natascha'S Natural",
-    "firmness": "Firmness: Extra Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Natascha - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b9c51aed-5a23-487d-96c4-11c8488685bd.jpg",
-    "price": "$76.00",
-    "number": "1 of 3",
-    "flop_reason": "Flop Reason: Wide Trim, Nick On Front Of Sleeve",
     "size": "Size: One-Size",
     "color": "Color: Natascha'S Natural",
     "firmness": "Firmness: Extra Soft",
