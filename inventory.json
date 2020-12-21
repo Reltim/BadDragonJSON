@@ -209,17 +209,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Ika - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/693b851f-c692-4f0f-a38f-35c191f7d6e9.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Mystic - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/10f6b867-c3e5-4f81-a30d-8af6b9c77f02.jpg",
     "price": "$75.00",
@@ -333,8 +322,8 @@
     "name": "Natascha - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b9c51aed-5a23-487d-96c4-11c8488685bd.jpg",
     "price": "$76.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Imperfection On Back Of Sleeve, Back Of Sleeve Trimmed Wide",
+    "number": "1 of 3",
+    "flop_reason": "Flop Reason: Wide Trim, Nick On Front Of Sleeve",
     "size": "Size: One-Size",
     "color": "Color: Natascha'S Natural",
     "firmness": "Firmness: Extra Soft",
