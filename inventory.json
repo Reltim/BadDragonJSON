@@ -155,7 +155,7 @@
   },
   {
     "name": "David's Sheath - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5efe97dd-65dd-459d-b9c5-98387e0d5a8c.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7229877a-432d-468e-b7fe-c686cc3db4cb.jpg",
     "price": "$60.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -166,7 +166,7 @@
   },
   {
     "name": "David's Sheath - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7229877a-432d-468e-b7fe-c686cc3db4cb.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5efe97dd-65dd-459d-b9c5-98387e0d5a8c.jpg",
     "price": "$60.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -205,17 +205,6 @@
     "flop_reason": "Flop Reason: Nick On The Strap",
     "size": "Size: Large",
     "color": "Color: Flint'S Sheath Natural",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "David's Sheath - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/49ac65af-8941-49aa-abe4-14aac68e4082.jpg",
-    "price": "$70.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
@@ -616,17 +605,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Nox - Small",
-    "src": "https://assets.bad-dragon.com/images/inventorytoys/NoxNaturalCT_stock_240.JPG",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Nox'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube & Suction Cup"
-  },
-  {
     "name": "Blaze - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f530093b-7e24-4fd5-8176-09409809660f.jpg",
     "price": "$105.00",
@@ -658,6 +636,17 @@
     "color": "Color: Decked Halls",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Trent - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/82faa0f0-6d03-478c-93e2-9e95e3bae3fb.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Trent'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Bumble Hooves - Medium",
@@ -812,6 +801,17 @@
     "color": "Color: Bumble Hooves' Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Nox - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a9b4a932-ef23-4f38-9c61-9b2fb4733d5b.jpg",
+    "price": "$145.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Nox'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Kona - Medium",
