@@ -33,17 +33,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Crackers' Sheath - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/58faee0a-a8c7-4fc3-83ad-2a6d00548591.jpg",
-    "price": "$56.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Strap Trimmed Wide",
-    "size": "Size: Medium",
-    "color": "Color: Platinum Ore",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "David's Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7229877a-432d-468e-b7fe-c686cc3db4cb.jpg",
     "price": "$60.00",
@@ -85,17 +74,6 @@
     "size": "Size: One-Size",
     "color": "Color: Natascha'S Natural",
     "firmness": "Firmness: Extra Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Vasu - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8595288f-1cd8-4610-936e-db9e091c41b9.jpg",
-    "price": "$85.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Decked Halls",
-    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
