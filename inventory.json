@@ -55,6 +55,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Orochi - Mini",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6608ba5e-e889-4aff-a5fc-7bacccbc5215.jpg",
+    "price": "$55.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Mini",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Mystic - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/de6c3460-e55c-43f6-bb66-bac759dc3f8c.jpg",
     "price": "$55.00",
@@ -135,7 +146,7 @@
     "name": "Crackers' Sheath - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d6e8792f-443d-4a76-92a3-1eae50fc5aa0.jpg",
     "price": "$56.00",
-    "number": "1 of 2",
+    "number": "",
     "flop_reason": "Flop Reason: Air Bubble On The Strap",
     "size": "Size: Medium",
     "color": "Color: Platinum Ore",
@@ -150,6 +161,17 @@
     "flop_reason": "Flop Reason: Air Bubble On The Strap",
     "size": "Size: Medium",
     "color": "Color: Platinum Ore",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Magnus' Sheath - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ef2009bd-8c60-4fbf-954a-5c99ed8d30bb.jpg",
+    "price": "$56.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Nick On Strap",
+    "size": "Size: Medium",
+    "color": "Color: Magnus' Sheath Natural",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
@@ -198,8 +220,8 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Magnus' Sheath - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e783c1f6-830f-404b-b424-0bafb72c89b0.jpg",
+    "name": "David's Sheath - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5efe97dd-65dd-459d-b9c5-98387e0d5a8c.jpg",
     "price": "$60.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -211,17 +233,6 @@
   {
     "name": "David's Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7229877a-432d-468e-b7fe-c686cc3db4cb.jpg",
-    "price": "$60.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "David's Sheath - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5efe97dd-65dd-459d-b9c5-98387e0d5a8c.jpg",
     "price": "$60.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -341,17 +352,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Ika - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d99372fd-7a37-4f3b-a5f9-f4078dcb33a6.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Zaratan - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/730b3884-6f42-46e7-aa03-c1913a7a45e4.jpg",
     "price": "$75.00",
@@ -382,17 +382,6 @@
     "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Firm",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Nocturne - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/eec8dc05-3838-4099-8d84-9ca950c22dda.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
@@ -638,17 +627,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Spritz - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ad80864a-ed9f-4fde-b1b5-352dd44bfad3.jpg",
-    "price": "$84.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Air Bubbles On The Bottom Of The Base",
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "David - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4d889f22-bfaf-44e7-9c67-bb586a149022.jpg",
     "price": "$84.00",
@@ -660,8 +638,8 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Vasu - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8595288f-1cd8-4610-936e-db9e091c41b9.jpg",
+    "name": "Rex - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1a045ed1-c4fe-4deb-8375-5d5f68bdb852.jpg",
     "price": "$85.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -672,14 +650,14 @@
   },
   {
     "name": "Terra - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5fb5f9c1-9946-4451-9b1e-164c346020ba.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7f398014-fea8-4e8f-a270-c765fece384e.jpg",
     "price": "$85.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Small",
-    "color": "Color: Terra'S Natural",
+    "color": "Color: Decked Halls",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
+    "accessories": "Accessories: None"
   },
   {
     "name": "Rex - Small",
@@ -702,17 +680,6 @@
     "color": "Color: Nox'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Baron - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/91878435-ef5c-4201-b29a-8e9177370ce3.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Baron'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
   },
   {
     "name": "Bumble Hooves - Small",
@@ -767,17 +734,6 @@
     "size": "Size: Small",
     "color": "Color: Duke'S Signature",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Sofia - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8bf90308-a21b-47e1-b379-24c0495df74a.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Sofia'S Natural",
-    "firmness": "Firmness: Extra Soft",
     "accessories": "Accessories: None"
   },
   {
@@ -1120,17 +1076,6 @@
     "color": "Color: Kona'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Crackers - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ad128cb6-962d-4adf-b886-ff8d49ec8f4b.jpg",
-    "price": "$160.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nick On The Upper Shaft",
-    "size": "Size: Extra Large",
-    "color": "Color: Crackers' Signature",
-    "firmness": "Firmness: Soft Shaft, Firm Base",
-    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Rex - Large",
