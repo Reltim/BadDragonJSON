@@ -166,7 +166,7 @@
   },
   {
     "name": "David's Sheath - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5efe97dd-65dd-459d-b9c5-98387e0d5a8c.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7229877a-432d-468e-b7fe-c686cc3db4cb.jpg",
     "price": "$60.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -177,7 +177,7 @@
   },
   {
     "name": "David's Sheath - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7229877a-432d-468e-b7fe-c686cc3db4cb.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5efe97dd-65dd-459d-b9c5-98387e0d5a8c.jpg",
     "price": "$60.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -239,6 +239,17 @@
     "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Firm",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Nocturne - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/38da60a3-2ec1-4571-be2c-2793218c616f.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
@@ -506,6 +517,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Gala - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/85f30d9d-1634-43ce-8f92-f828c23e3b6e.jpg",
+    "price": "$76.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Wide Trim",
+    "size": "Size: One-Size",
+    "color": "Color: Gala'S Natural",
+    "firmness": "Firmness: Extra Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Spritz - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ad80864a-ed9f-4fde-b1b5-352dd44bfad3.jpg",
     "price": "$84.00",
@@ -559,17 +581,6 @@
     "color": "Color: Decked Halls",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Terra - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5fb5f9c1-9946-4451-9b1e-164c346020ba.jpg",
-    "price": "$85.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Terra'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Rex - Small",
@@ -660,6 +671,17 @@
     "accessories": "Accessories: CumTube"
   },
   {
+    "name": "Trent - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/82faa0f0-6d03-478c-93e2-9e95e3bae3fb.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Trent'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Bumble Hooves - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2b5d2859-8a82-43e0-8e4c-df5bf2877941.jpg",
     "price": "$95.00",
@@ -691,6 +713,17 @@
     "color": "Color: Nox'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube & Suction Cup"
+  },
+  {
+    "name": "Blaze - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f530093b-7e24-4fd5-8176-09409809660f.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Onyx",
+    "firmness": "Firmness: Firm",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Medium",
