@@ -44,6 +44,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Ika - Mini",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/30d0fe42-059d-4c19-962a-33527d8836e1.jpg",
+    "price": "$55.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Mini",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Mystic - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/de6c3460-e55c-43f6-bb66-bac759dc3f8c.jpg",
     "price": "$55.00",
@@ -161,17 +172,6 @@
     "flop_reason": "Flop Reason: Nick On Sleeve",
     "size": "Size: Large",
     "color": "Color: Arctic Ice",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "David's Sheath - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b4ec19af-e5c3-4014-96ec-da9ee0a1b37e.jpg",
-    "price": "$64.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Beauty Marks On Strap",
-    "size": "Size: Large",
-    "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
@@ -634,6 +634,17 @@
     "flop_reason": null,
     "size": "Size: Extra Large",
     "color": "Color: Trent'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Kona - Extra Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/05e16262-d25f-4347-bc52-9e3a74f72279.jpg",
+    "price": "$185.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Extra Large",
+    "color": "Color: Kona'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
