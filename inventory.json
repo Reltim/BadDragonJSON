@@ -110,6 +110,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "David's Sheath - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/49ac65af-8941-49aa-abe4-14aac68e4082.jpg",
+    "price": "$70.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Demon Dick - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/84e9e294-3cda-46e3-9b3c-12c2bf32c199.jpg",
     "price": "$75.00",
@@ -143,14 +154,14 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Natascha - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b9c51aed-5a23-487d-96c4-11c8488685bd.jpg",
-    "price": "$76.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Wide Trim",
-    "size": "Size: One-Size",
-    "color": "Color: Natascha'S Natural",
-    "firmness": "Firmness: Extra Soft",
+    "name": "Demogorgon - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/638bc574-1ecd-4e9b-8967-22cb0e430eda.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
@@ -195,6 +206,17 @@
     "size": "Size: One-Size",
     "color": "Color: Natascha'S Natural",
     "firmness": "Firmness: Extra Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Spritz - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ad80864a-ed9f-4fde-b1b5-352dd44bfad3.jpg",
+    "price": "$84.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Air Bubbles On The Bottom Of The Base",
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Firm",
     "accessories": "Accessories: None"
   },
   {
@@ -330,17 +352,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Terra - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/00ea533c-1813-4e07-9f61-f5b0a2602178.jpg",
-    "price": "$125.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Terra'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "Kona - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/05e16262-d25f-4347-bc52-9e3a74f72279.jpg",
     "price": "$125.00",
@@ -454,7 +465,7 @@
     "name": "Kona - Extra Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/05e16262-d25f-4347-bc52-9e3a74f72279.jpg",
     "price": "$185.00",
-    "number": "1 of 1",
+    "number": "",
     "flop_reason": null,
     "size": "Size: Extra Large",
     "color": "Color: Kona'S Signature",
