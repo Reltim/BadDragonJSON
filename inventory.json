@@ -44,6 +44,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Ika - Mini",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/30d0fe42-059d-4c19-962a-33527d8836e1.jpg",
+    "price": "$55.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Mini",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Mystic - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/de6c3460-e55c-43f6-bb66-bac759dc3f8c.jpg",
     "price": "$55.00",
@@ -583,15 +594,15 @@
     "accessories": "Accessories: Suction Cup"
   },
   {
-    "name": "Clayton - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9d6c2200-2a9d-4ff1-be66-e45fa8bc9f0f.jpg",
-    "price": "$108.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nick On Mid Shaft",
-    "size": "Size: Large",
-    "color": "Color: Clayton'S Signature",
+    "name": "Bumble Hooves - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0ac658f8-da1c-4900-a487-a5037c536d30.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Bumble Hooves' Natural",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
+    "accessories": "Accessories: None"
   },
   {
     "name": "Hunter - One-Size",
@@ -660,17 +671,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Terra - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/00ea533c-1813-4e07-9f61-f5b0a2602178.jpg",
-    "price": "$125.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Terra'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "Kona - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/05e16262-d25f-4347-bc52-9e3a74f72279.jpg",
     "price": "$125.00",
@@ -678,6 +678,17 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Kona'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/961eaa90-8c7e-4864-98a4-f94946c9158e.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -812,5 +823,16 @@
     "color": "Color: Kona'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Trent - Extra Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dcd4ae19-4046-4768-a6dd-4790713f18ef.jpg",
+    "price": "$205.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Extra Large",
+    "color": "Color: Trent'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
   }
 ]
