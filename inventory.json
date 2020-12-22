@@ -287,17 +287,6 @@
   },
   {
     "name": "David's Sheath - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/15d1cc59-48b4-4c80-8ba9-9961526d0c3c.jpg",
-    "price": "$80.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Onyx",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "David's Sheath - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/44a39b32-b712-4296-88d7-401c46ff4c09.jpg",
     "price": "$80.00",
     "number": "1 of 1",
@@ -550,17 +539,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Anje - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e4285590-6828-48b0-8fb5-2412b67cf422.jpg",
-    "price": "$110.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Carrot Cake",
-    "firmness": "Firmness: Extra Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Orochi - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/816d9635-e538-4729-a224-711f05d9da66.jpg",
     "price": "$125.00",
@@ -638,19 +616,19 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Ridley - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8c6abfba-3f1d-406e-991c-ab9048cd862b.jpg",
-    "price": "$132.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Beauty Mark On Base",
-    "size": "Size: Extra Large",
-    "color": "Color: 4th Kind",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
-  },
-  {
     "name": "Cole - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ecc09624-3d96-4941-925f-f9b1ffd6edbc.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/69293a5f-103c-45f7-a50f-788eff883741.jpg",
     "price": "$135.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -678,17 +656,6 @@
     "flop_reason": null,
     "size": "Size: Large",
     "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Egg Plug - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fcd5bf44-096e-4f7b-9dd8-cf510a3261dc.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Egg Plug Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
