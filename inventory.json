@@ -1,16 +1,5 @@
 [
   {
-    "name": "Nox - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1d267f8f-1f8f-428e-a581-bfd4837c179c.jpg",
-    "price": "$60.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Air Bubble On Bottom Of Base",
-    "size": "Size: Small",
-    "color": "Color: Frozen Fox",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: Suction Cup"
-  },
-  {
     "name": "Crackers' Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$60.00",
@@ -128,17 +117,6 @@
     "flop_reason": null,
     "size": "Size: One-Size",
     "color": "Color: Chance Sheath'S Signature",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "David's Sheath - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/15d1cc59-48b4-4c80-8ba9-9961526d0c3c.jpg",
-    "price": "$70.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Onyx",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
@@ -305,6 +283,17 @@
     "size": "Size: Large",
     "color": "Color: David'S Sheath Natural",
     "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Chance Flared - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bbc388d3-efe4-4c70-99e5-f6100b9d9e80.jpg",
+    "price": "$89.25",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Frankenpour",
+    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
@@ -507,17 +496,6 @@
   },
   {
     "name": "Apollo - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1ea206cb-3d88-45bb-8376-18f12baa5166.jpg",
-    "price": "$108.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nicks On The Tip And Upper Shaft.",
-    "size": "Size: Large",
-    "color": "Color: Apollo'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Apollo - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8f3fb118-6b8d-4825-99b6-bdcdf81086b7.jpg",
     "price": "$108.00",
     "number": "1 of 2",
@@ -594,17 +572,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Egg Plug - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
-    "price": "$125.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Egg Plug Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Terra - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8309cc3b-eaa5-4786-a4b1-fded3ac81488.jpg",
     "price": "$130.00",
@@ -616,8 +583,30 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Cole - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ecc09624-3d96-4941-925f-f9b1ffd6edbc.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Mystic - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/69293a5f-103c-45f7-a50f-788eff883741.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Apollo - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6c0bcfb-4a46-41e6-b758-e3e4f33348ca.jpg",
     "price": "$135.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -634,6 +623,17 @@
     "flop_reason": null,
     "size": "Size: Large",
     "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Egg Plug - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fcd5bf44-096e-4f7b-9dd8-cf510a3261dc.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Egg Plug Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
