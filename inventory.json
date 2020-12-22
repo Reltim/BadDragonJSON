@@ -11,17 +11,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Nox - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1d267f8f-1f8f-428e-a581-bfd4837c179c.jpg",
-    "price": "$60.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Air Bubble On Bottom Of Base",
-    "size": "Size: Small",
-    "color": "Color: Frozen Fox",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: Suction Cup"
-  },
-  {
     "name": "Crackers' Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$60.00",
@@ -150,17 +139,6 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Onyx",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "David's Sheath - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2d6c77f4-5aba-4ebf-8ba1-de9cc507ab76.jpg",
-    "price": "$70.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Night Sky",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
@@ -396,17 +374,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cd193890-5863-483a-b972-f39c89e064b4.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Chance Flared - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/df2cf3e4-e18f-451a-8d93-8f500c64e875.jpg",
     "price": "$105.00",
@@ -458,6 +425,17 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Elliot'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Ridley - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fb3977a5-25da-4eb6-a901-acd6c0668f96.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Everlasting Night",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -845,16 +823,5 @@
     "color": "Color: David'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Sleipnir - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c0698e09-8868-4eab-838e-b2973dffc9b7.jpg",
-    "price": "$210.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Extra Large",
-    "color": "Color: Sleipnir'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
   }
 ]
