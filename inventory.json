@@ -154,6 +154,17 @@
     "accessories": "Accessories: Suction Cup"
   },
   {
+    "name": "Mystic - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a9c05751-6362-40d2-be87-7d92ff7d1b93.jpg",
+    "price": "$145.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rainbow Strawberry Yogurt Parfait",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
+  },
+  {
     "name": "Kona - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/df64b6a3-8c41-470b-a7bd-cb85490ae992.jpg",
     "price": "$145.00",
@@ -194,6 +205,28 @@
     "flop_reason": null,
     "size": "Size: Large",
     "color": "Color: Kona'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Crackers - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/367f2cbc-f036-42d1-8d9e-b8fa54999c62.jpg",
+    "price": "$160.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Strawberry Frosted Squares",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
+  },
+  {
+    "name": "Echo - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/603dae0f-939f-4771-b5ea-28e659491e37.jpg",
+    "price": "$165.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rainbow Strawberry Yogurt Parfait",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
