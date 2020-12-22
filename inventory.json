@@ -33,6 +33,17 @@
     "accessories": "Accessories: CumTube"
   },
   {
+    "name": "Echo - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2384adc2-ff80-4ab9-b3a4-48266645f6bd.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Echo'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
     "name": "Egg Plug - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
     "price": "$95.00",
@@ -73,17 +84,6 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Spitfire'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Kelvin - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f35ba51e-0715-4626-bfa5-af774314ce9e.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -152,6 +152,17 @@
     "color": "Color: Egg Plug Signature",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: Suction Cup"
+  },
+  {
+    "name": "Fenrir - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bbd751d1-e199-4198-9f58-fab81c7a4636.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Fenrir'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Spitfire - Medium",
