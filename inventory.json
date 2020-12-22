@@ -11,6 +11,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Chance Unflared - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9a0a81d7-eb68-4cff-8898-ac3a382bec26.jpg",
+    "price": "$85.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Everlasting Night",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Spitfire - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/949ed0f8-db22-47ce-8264-ac03d5ff4eb7.jpg",
     "price": "$105.00",
@@ -141,6 +152,17 @@
     "color": "Color: Kona'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "David - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e4f66499-c865-45d9-b740-9755c3e349da.jpg",
+    "price": "$145.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: David'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Bumble Hooves - Medium",
