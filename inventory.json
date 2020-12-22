@@ -11,7 +11,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Crackerssheath - Small",
+    "name": "Crackers' Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -506,6 +506,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Rex - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7246f4ac-c1f8-41f0-989e-9cfb0ea9f58d.jpg",
+    "price": "$125.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Nicks On Base",
+    "size": "Size: Medium",
+    "color": "Color: Cinnamon Roll",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
     "name": "Egg Plug - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
     "price": "$125.00",
@@ -513,6 +524,17 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Egg Plug Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Cole - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ecc09624-3d96-4941-925f-f9b1ffd6edbc.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -638,26 +660,15 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "John - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5fbcd144-9180-4ebe-b69e-5b31b9685d1d.jpg",
+    "name": "Glyph - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/983e25ba-28ea-4a31-8ba6-4a8bca1f7793.jpg",
     "price": "$155.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Stan - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/215950a3-43f9-458d-9a49-c44a80ff7079.jpg",
-    "price": "$165.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: CumTube & Suction Cup"
+    "color": "Color: Glyph'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "John - Large",
