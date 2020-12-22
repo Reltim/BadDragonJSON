@@ -132,39 +132,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Kelvin - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f35ba51e-0715-4626-bfa5-af774314ce9e.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Crash - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/523ae27a-4514-47fb-9814-a5d266efe1d6.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Demogorgon - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cbd6eecd-6ece-475f-83f5-469233e472f1.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Demogorgon'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Demon Dick - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ffce5ebe-0285-47db-8faf-394f283c2e3b.jpg",
     "price": "$105.00",
@@ -209,6 +176,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Glyph - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bf6ea551-f44b-4a50-822d-2c08e4e275a5.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Onyx",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Austin - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/deca0a07-e640-4e73-84af-59d32a52097f.jpg",
     "price": "$105.00",
@@ -238,17 +216,6 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Fenrir'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Diego - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e62ea85f-7813-46b9-baab-3965d599e68e.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Diego'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
