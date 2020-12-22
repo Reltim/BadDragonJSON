@@ -89,17 +89,6 @@
   },
   {
     "name": "Tako - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/df398f83-0b80-407e-8dda-f37280ff90b0.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Tako - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e3197d95-66b5-4dc5-a24a-759206e17641.jpg",
     "price": "$105.00",
     "number": "1 of 1",
@@ -128,6 +117,28 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Crash - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/523ae27a-4514-47fb-9814-a5d266efe1d6.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Demogorgon - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cbd6eecd-6ece-475f-83f5-469233e472f1.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Demogorgon'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
