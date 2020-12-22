@@ -4,17 +4,6 @@
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$48.00",
     "number": "1 of 2",
-    "flop_reason": "Flop Reason: Wide Trim",
-    "size": "Size: Small",
-    "color": "Color: Crackers' Sheath Natural",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Crackers' Sheath - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
-    "price": "$48.00",
-    "number": "1 of 2",
     "flop_reason": "Flop Reason: Air Bubble On Sleeve",
     "size": "Size: Small",
     "color": "Color: Crackers' Sheath Natural",
@@ -140,6 +129,17 @@
     "size": "Size: Small",
     "color": "Color: Diego'S Natural",
     "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Winston's Tongue - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/299e41fe-0819-4c7e-9d79-61c0f28cb8b1.jpg",
+    "price": "$84.00",
+    "number": "1 of 3",
+    "flop_reason": "Flop Reason: Nick On Base",
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
@@ -286,6 +286,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Stan - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2cbb5334-89ce-455f-b17a-4be8784a3a59.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Vergil - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3aca2049-a3d7-4b4e-9abe-458b3ae939cd.jpg",
     "price": "$105.00",
@@ -354,17 +365,6 @@
   {
     "name": "Tako - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/db8b076a-02fa-4355-9dd3-4cb467522615.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Demon Dick - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3177d224-a629-4790-b9e9-2f03782f09b0.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -638,17 +638,6 @@
     "accessories": "Accessories: Suction Cup"
   },
   {
-    "name": "Nocturne - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/45faa039-f008-4fc5-9d5f-64b7dc966646.jpg",
-    "price": "$115.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Nocturne'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "David - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e4f66499-c865-45d9-b740-9755c3e349da.jpg",
     "price": "$115.00",
@@ -658,6 +647,17 @@
     "color": "Color: David'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: Suction Cup"
+  },
+  {
+    "name": "Kelvin - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/efd7b210-13b4-4148-9daa-bfc6ae35a7ac.jpg",
+    "price": "$115.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: 4th Kind",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Blaze - Medium",
@@ -823,6 +823,17 @@
     "color": "Color: Egg Plug Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: Suction Cup"
+  },
+  {
+    "name": "Fenrir - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f4729d4d-3f5d-4c61-89a7-0c705185cde3.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Fenrir'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Chance Flared - Medium",
@@ -1043,5 +1054,16 @@
     "color": "Color: Egg Plug Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Egg Plug - Extra Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
+    "price": "$195.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Extra Large",
+    "color": "Color: Egg Plug Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   }
 ]
