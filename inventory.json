@@ -121,28 +121,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Chance Flared - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/575f1229-2cb4-48e4-8207-d8c0f6852ffe.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Onyx",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Egg Plug - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d505087d-5c28-4d40-a95d-95eb606bd2c9.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Crimson",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Razor - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d2e23dde-f85f-4b43-8ff6-275060561d9e.jpg",
     "price": "$75.00",
@@ -352,17 +330,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Tako - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6cd9cd75-7f23-4470-8aae-020e6f5a34be.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Crackers - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/276d5c60-bbe1-4d46-b3c4-6b048c5ed12a.jpg",
     "price": "$105.00",
@@ -404,6 +371,17 @@
     "size": "Size: Medium",
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Tako - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/db8b076a-02fa-4355-9dd3-4cb467522615.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
@@ -649,6 +627,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Clayton - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e0e587c9-0872-41a6-8e0a-c8e605765aa0.jpg",
+    "price": "$108.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Nick On The Lower Shaft.",
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Kona - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/df64b6a3-8c41-470b-a7bd-cb85490ae992.jpg",
     "price": "$115.00",
@@ -658,6 +647,17 @@
     "color": "Color: Kona'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Spitfire - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/949ed0f8-db22-47ce-8264-ac03d5ff4eb7.jpg",
+    "price": "$115.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Spitfire'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Demon Dick - Medium",
@@ -825,17 +825,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Demogorgon - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cbd6eecd-6ece-475f-83f5-469233e472f1.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Demogorgon'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Echo - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/92cdfb36-fb52-4e25-b1e9-0d43d0b23d96.jpg",
     "price": "$135.00",
@@ -850,7 +839,7 @@
     "name": "Kelvin - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bce143c2-911b-4f53-abda-ae0a5b2ec9bd.jpg",
     "price": "$135.00",
-    "number": "",
+    "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: 4th Kind",
