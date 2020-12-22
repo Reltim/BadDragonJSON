@@ -209,6 +209,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Austin - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/deca0a07-e640-4e73-84af-59d32a52097f.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Austin'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Egg Plug - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
     "price": "$105.00",
@@ -383,6 +394,17 @@
     "color": "Color: Kona'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Mystic - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8514e085-4c9e-4890-b83b-6b90774d6710.jpg",
+    "price": "$145.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Kelvin - Large",
