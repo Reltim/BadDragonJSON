@@ -33,6 +33,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Bumble Hooves - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2b5d2859-8a82-43e0-8e4c-df5bf2877941.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Bumble Hooves' Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
     "name": "Echo - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2384adc2-ff80-4ab9-b3a4-48266645f6bd.jpg",
     "price": "$95.00",
@@ -146,7 +157,7 @@
     "name": "Zaratan - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d0c5042d-6e72-42b1-8368-c68d308eecb6.jpg",
     "price": "$105.00",
-    "number": "1 of 1",
+    "number": "",
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Zaratan'S Natural",
