@@ -352,14 +352,14 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Twitch - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0c19b591-5152-460c-b43b-5b2bc5420c2e.jpg",
+    "name": "Austin - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1abaa551-b21d-4252-a7a2-0f3e6d83c14d.jpg",
     "price": "$95.00",
     "number": "1 of 1",
     "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Extra Soft",
+    "size": "Size: Small",
+    "color": "Color: Austin'S Signature",
+    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
@@ -470,6 +470,17 @@
     "size": "Size: Medium",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Chance Flared - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0d16a98b-41f1-46d8-a229-a69e1377ce3f.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
@@ -870,7 +881,7 @@
   },
   {
     "name": "Cole - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/00296042-89bb-4016-b90d-db64877a14b8.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a2e20b39-add6-4354-bba3-96e582928c08.jpg",
     "price": "$155.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -881,7 +892,7 @@
   },
   {
     "name": "Cole - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a2e20b39-add6-4354-bba3-96e582928c08.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/00296042-89bb-4016-b90d-db64877a14b8.jpg",
     "price": "$155.00",
     "number": "1 of 1",
     "flop_reason": null,
