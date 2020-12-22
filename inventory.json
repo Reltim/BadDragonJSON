@@ -1,16 +1,5 @@
 [
   {
-    "name": "Crackers' Sheath - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
-    "price": "$48.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Wide Trim",
-    "size": "Size: Small",
-    "color": "Color: Crackers' Sheath Natural",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Echo - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/92cdfb36-fb52-4e25-b1e9-0d43d0b23d96.jpg",
     "price": "$75.00",
@@ -30,17 +19,6 @@
     "size": "Size: Small",
     "color": "Color: Diego'S Natural",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Winston's Tongue - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/299e41fe-0819-4c7e-9d79-61c0f28cb8b1.jpg",
-    "price": "$84.00",
-    "number": "1 of 3",
-    "flop_reason": "Flop Reason: Nick On Base",
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
