@@ -44,6 +44,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Bumble Hooves - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2b5d2859-8a82-43e0-8e4c-df5bf2877941.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Bumble Hooves' Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
     "name": "Echo - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2384adc2-ff80-4ab9-b3a4-48266645f6bd.jpg",
     "price": "$95.00",
@@ -123,17 +134,6 @@
   {
     "name": "Kelvin - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f35ba51e-0715-4626-bfa5-af774314ce9e.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Trent - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b2716e1c-8c8c-4dae-8fd4-ca2dc9397984.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -502,6 +502,17 @@
     "flop_reason": null,
     "size": "Size: Extra Large",
     "color": "Color: Mystic'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Kelvin - Extra Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8da04c68-3445-479a-91e0-df00585007a2.jpg",
+    "price": "$165.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Extra Large",
+    "color": "Color: Kelvin'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
