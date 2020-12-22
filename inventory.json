@@ -77,17 +77,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "David - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e4f66499-c865-45d9-b740-9755c3e349da.jpg",
-    "price": "$85.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: David'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
-  },
-  {
     "name": "Bumble Hooves - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2b5d2859-8a82-43e0-8e4c-df5bf2877941.jpg",
     "price": "$95.00",
@@ -583,15 +572,15 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Bumble Hooves - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fbe7d4d5-21bf-476c-acaf-0a735c0cd9a0.jpg",
+    "name": "David - Extra Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e4f66499-c865-45d9-b740-9755c3e349da.jpg",
     "price": "$175.00",
     "number": "1 of 1",
     "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Bumble Hooves' Signature",
+    "size": "Size: Extra Large",
+    "color": "Color: David'S Natural",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Egg Plug - Extra Large",
