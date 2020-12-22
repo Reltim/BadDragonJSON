@@ -4,6 +4,17 @@
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$48.00",
     "number": "1 of 2",
+    "flop_reason": "Flop Reason: Wide Trim",
+    "size": "Size: Small",
+    "color": "Color: Crackers' Sheath Natural",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Crackers' Sheath - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
+    "price": "$48.00",
+    "number": "1 of 2",
     "flop_reason": "Flop Reason: Air Bubble On Sleeve",
     "size": "Size: Small",
     "color": "Color: Crackers' Sheath Natural",
@@ -121,17 +132,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Nocturne - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f6cbdc04-eed5-4337-a07b-cf06f3ac356a.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Nocturne'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Egg Plug - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
     "price": "$95.00",
@@ -167,17 +167,6 @@
   {
     "name": "Demon Dick - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bf5c5ab1-f21d-46b8-81a1-191f21229d6a.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Tako - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/df398f83-0b80-407e-8dda-f37280ff90b0.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -363,6 +352,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Chance Flared - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/575f1229-2cb4-48e4-8207-d8c0f6852ffe.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Onyx",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Diego - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e62ea85f-7813-46b9-baab-3965d599e68e.jpg",
     "price": "$105.00",
@@ -476,12 +476,23 @@
     "name": "Echo - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2384adc2-ff80-4ab9-b3a4-48266645f6bd.jpg",
     "price": "$125.00",
-    "number": "",
+    "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Echo'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Crackers - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ad128cb6-962d-4adf-b886-ff8d49ec8f4b.jpg",
+    "price": "$125.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Crackers' Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Egg Plug - Medium",
@@ -649,17 +660,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Blaze - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8555a50e-878e-43b7-8aa8-705b6b8a4995.jpg",
-    "price": "$155.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Blaze'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "Demon Dick - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/25b739f1-0aa6-4f04-8363-d8c161b7c41c.jpg",
     "price": "$155.00",
@@ -744,17 +744,6 @@
     "flop_reason": null,
     "size": "Size: Large",
     "color": "Color: Nocturne'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Bumble Hooves - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fbe7d4d5-21bf-476c-acaf-0a735c0cd9a0.jpg",
-    "price": "$175.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Bumble Hooves' Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
   },
