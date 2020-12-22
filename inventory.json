@@ -144,7 +144,7 @@
   },
   {
     "name": "Orochi - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f7bde8d0-636b-45e4-9bb4-ff2ab31331bd.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fb8439f6-a9dd-4f44-8bf6-429b5d7bb1d7.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -155,7 +155,7 @@
   },
   {
     "name": "Orochi - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fb8439f6-a9dd-4f44-8bf6-429b5d7bb1d7.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8694fdcf-b64c-410b-a6fc-b957982b0ce7.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -440,17 +440,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Razor - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9cd86399-663d-4503-82a8-d65b062a3944.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Galaxy Black",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: CumTube & Suction Cup"
-  },
-  {
     "name": "Spitfire - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/949ed0f8-db22-47ce-8264-ac03d5ff4eb7.jpg",
     "price": "$105.00",
@@ -460,6 +449,17 @@
     "color": "Color: Spitfire'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Rex - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4a3662da-42f2-4627-88dd-480f3dc0e01b.jpg",
+    "price": "$108.00",
+    "number": "1 of 3",
+    "flop_reason": "Flop Reason: Nicks On The Tip And Lower Shaft",
+    "size": "Size: Large",
+    "color": "Color: Neon Blue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube & Suction Cup"
   },
   {
     "name": "Ridley - Large",
@@ -491,6 +491,17 @@
     "flop_reason": "Flop Reason: Beauty Marks On Base",
     "size": "Size: Large",
     "color": "Color: Cole'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Apollo - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1ea206cb-3d88-45bb-8376-18f12baa5166.jpg",
+    "price": "$108.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Nicks On The Tip And Upper Shaft.",
+    "size": "Size: Large",
+    "color": "Color: Apollo'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -596,17 +607,6 @@
   {
     "name": "Mystic - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/69293a5f-103c-45f7-a50f-788eff883741.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Apollo - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6c0bcfb-4a46-41e6-b758-e3e4f33348ca.jpg",
     "price": "$135.00",
     "number": "1 of 1",
     "flop_reason": null,
