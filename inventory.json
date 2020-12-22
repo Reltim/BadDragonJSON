@@ -66,17 +66,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Razor - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d2e23dde-f85f-4b43-8ff6-275060561d9e.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Razor'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Diego - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e62ea85f-7813-46b9-baab-3965d599e68e.jpg",
     "price": "$75.00",
@@ -96,17 +85,6 @@
     "size": "Size: Medium",
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Cole - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/100e3756-55b2-4e22-b2a9-33e95916ec78.jpg",
-    "price": "$84.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Air Bubbles On Bottom Of Base",
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
@@ -173,17 +151,6 @@
     "size": "Size: Small",
     "color": "Color: Egg Plug Signature",
     "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Bumble Hooves - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fbe7d4d5-21bf-476c-acaf-0a735c0cd9a0.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Bumble Hooves' Signature",
-    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
@@ -658,6 +625,17 @@
     "color": "Color: 4th Kind",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Egg Plug - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Egg Plug Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Fenrir - Large",
