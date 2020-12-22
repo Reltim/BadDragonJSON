@@ -22,6 +22,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Diego - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e62ea85f-7813-46b9-baab-3965d599e68e.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Diego'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Winston's Tongue - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/299e41fe-0819-4c7e-9d79-61c0f28cb8b1.jpg",
     "price": "$84.00",
@@ -53,17 +64,6 @@
     "color": "Color: Echo'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Egg Plug - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Egg Plug Signature",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
   },
   {
     "name": "Bumble Hooves - Small",
@@ -106,6 +106,17 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Spitfire'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Kelvin - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f35ba51e-0715-4626-bfa5-af774314ce9e.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -385,17 +396,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Mystic - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8514e085-4c9e-4890-b83b-6b90774d6710.jpg",
-    "price": "$145.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
-  },
-  {
     "name": "Kelvin - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2a5f5522-ad36-41c2-a827-f5d1e70688aa.jpg",
     "price": "$145.00",
@@ -447,17 +447,6 @@
     "flop_reason": null,
     "size": "Size: Large",
     "color": "Color: Bumble Hooves' Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0f250110-4252-4933-b298-fdb0fef25225.jpg",
-    "price": "$165.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Extra Large",
-    "color": "Color: Mystic'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
