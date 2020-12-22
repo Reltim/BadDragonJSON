@@ -15,6 +15,17 @@
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$48.00",
     "number": "1 of 2",
+    "flop_reason": "Flop Reason: Air Bubble On Sleeve",
+    "size": "Size: Small",
+    "color": "Color: Crackers' Sheath Natural",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Crackers' Sheath - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
+    "price": "$48.00",
+    "number": "1 of 2",
     "flop_reason": "Flop Reason: Wide Trim",
     "size": "Size: Small",
     "color": "Color: Crackers' Sheath Natural",
@@ -253,13 +264,13 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Crackers - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/276d5c60-bbe1-4d46-b3c4-6b048c5ed12a.jpg",
+    "name": "Tako - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/df398f83-0b80-407e-8dda-f37280ff90b0.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Medium",
-    "color": "Color: Ectoplasm Legacy",
+    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -276,6 +287,17 @@
   },
   {
     "name": "Tako - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e3197d95-66b5-4dc5-a24a-759206e17641.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Tako - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/25a39031-38be-4abd-9671-b79da5d6032e.jpg",
     "price": "$105.00",
     "number": "1 of 1",
@@ -283,17 +305,6 @@
     "size": "Size: Medium",
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Tako - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/db8b076a-02fa-4355-9dd3-4cb467522615.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
@@ -616,17 +627,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Crackers - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ad128cb6-962d-4adf-b886-ff8d49ec8f4b.jpg",
-    "price": "$125.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Crackers' Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Egg Plug - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
     "price": "$125.00",
@@ -649,17 +649,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d8384346-7d83-42b0-9ec3-ca86046f6ba4.jpg",
-    "price": "$125.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Mystic'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "Bumble Hooves - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fbe7d4d5-21bf-476c-acaf-0a735c0cd9a0.jpg",
     "price": "$125.00",
@@ -669,17 +658,6 @@
     "color": "Color: Bumble Hooves' Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Kelvin - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e65151bd-7ef3-4df2-ba9e-1001a09997e9.jpg",
-    "price": "$125.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Kelvin'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Demogorgon - Large",
@@ -825,15 +803,15 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Blaze - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8555a50e-878e-43b7-8aa8-705b6b8a4995.jpg",
+    "name": "Echo - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f7d90756-c57e-4489-8ded-a2a8d6c4f19c.jpg",
     "price": "$155.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Large",
-    "color": "Color: Blaze'S Signature",
+    "color": "Color: Echo'S Signature",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
+    "accessories": "Accessories: None"
   },
   {
     "name": "Egg Plug - Large",
