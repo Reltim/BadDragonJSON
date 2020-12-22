@@ -22,7 +22,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Crackers' Sheath - Small",
+    "name": "Crackerssheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -139,17 +139,6 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: David'S Sheath Natural",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Ika Sheath - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2733c453-9f7f-43a1-b100-e1ba858c79ef.jpg",
-    "price": "$70.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Ika'S Sheath Signature",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
@@ -361,17 +350,6 @@
     "color": "Color: David'S Sheath Natural",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Egg Plug - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/661fcde2-3f0e-4026-8031-9d453c39bfe4.jpg",
-    "price": "$84.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Wide Trim, Nick On Bottom Of Base",
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "David - Small",
@@ -903,7 +881,7 @@
   },
   {
     "name": "Cole - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a2e20b39-add6-4354-bba3-96e582928c08.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/00296042-89bb-4016-b90d-db64877a14b8.jpg",
     "price": "$155.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -914,7 +892,7 @@
   },
   {
     "name": "Cole - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/00296042-89bb-4016-b90d-db64877a14b8.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a2e20b39-add6-4354-bba3-96e582928c08.jpg",
     "price": "$155.00",
     "number": "1 of 1",
     "flop_reason": null,
