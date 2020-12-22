@@ -11,7 +11,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Winston's Tongue - Medium",
+    "name": "Winstonstongue - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/299e41fe-0819-4c7e-9d79-61c0f28cb8b1.jpg",
     "price": "$84.00",
     "number": "1 of 3",
@@ -22,7 +22,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Bumble Hooves - Small",
+    "name": "Bumblehooves - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2b5d2859-8a82-43e0-8e4c-df5bf2877941.jpg",
     "price": "$95.00",
     "number": "1 of 1",
@@ -44,7 +44,7 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Egg Plug - Small",
+    "name": "Eggplug - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
     "price": "$95.00",
     "number": "1 of 1",
@@ -99,7 +99,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Demon Dick - Medium",
+    "name": "Demondick - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ffce5ebe-0285-47db-8faf-394f283c2e3b.jpg",
     "price": "$105.00",
     "number": "1 of 1",
@@ -143,7 +143,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Egg Plug - Small",
+    "name": "Eggplug - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
     "price": "$105.00",
     "number": "1 of 1",
@@ -176,7 +176,7 @@
     "accessories": "Accessories: Suction Cup"
   },
   {
-    "name": "Demon Dick - Medium",
+    "name": "Demondick - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ffce5ebe-0285-47db-8faf-394f283c2e3b.jpg",
     "price": "$115.00",
     "number": "1 of 1",
@@ -198,7 +198,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Demon Dick - Medium",
+    "name": "Demondick - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/25b739f1-0aa6-4f04-8363-d8c161b7c41c.jpg",
     "price": "$125.00",
     "number": "1 of 1",
@@ -220,7 +220,7 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Egg Plug - Medium",
+    "name": "Eggplug - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
     "price": "$125.00",
     "number": "1 of 1",
@@ -253,7 +253,7 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Egg Plug - Medium",
+    "name": "Eggplug - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
     "price": "$135.00",
     "number": "1 of 1",
@@ -304,6 +304,17 @@
     "flop_reason": null,
     "size": "Size: Large",
     "color": "Color: Kona'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Bumble Hooves - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fbe7d4d5-21bf-476c-acaf-0a735c0cd9a0.jpg",
+    "price": "$155.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Bumble Hooves' Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   }
