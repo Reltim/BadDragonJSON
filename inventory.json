@@ -1,28 +1,17 @@
 [
   {
-    "name": "Orochi - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/63fc3a88-dee2-490a-ab29-898f15a1e931.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
+    "name": "Nox - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1d267f8f-1f8f-428e-a581-bfd4837c179c.jpg",
+    "price": "$60.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Air Bubble On Bottom Of Base",
+    "size": "Size: Small",
+    "color": "Color: Frozen Fox",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: Suction Cup"
   },
   {
-    "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/18bc4fc5-14dd-49b4-90f5-c8fa181bc6f9.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Night Sky",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Crackers' Sheath - Small",
+    "name": "Crackerssheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -177,17 +166,6 @@
   },
   {
     "name": "Orochi - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fb8439f6-a9dd-4f44-8bf6-429b5d7bb1d7.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Orochi - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8694fdcf-b64c-410b-a6fc-b957982b0ce7.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -309,6 +287,28 @@
   },
   {
     "name": "David's Sheath - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/15d1cc59-48b4-4c80-8ba9-9961526d0c3c.jpg",
+    "price": "$80.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Onyx",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "David's Sheath - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/44a39b32-b712-4296-88d7-401c46ff4c09.jpg",
+    "price": "$80.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Arctic Ice",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "David's Sheath - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b208003-57d6-483d-9cc6-c382d93ab78c.jpg",
     "price": "$80.00",
     "number": "1 of 1",
@@ -316,6 +316,17 @@
     "size": "Size: Large",
     "color": "Color: David'S Sheath Natural",
     "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Twitch - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0c19b591-5152-460c-b43b-5b2bc5420c2e.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Extra Soft",
     "accessories": "Accessories: None"
   },
   {
@@ -638,8 +649,8 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Cole - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ecc09624-3d96-4941-925f-f9b1ffd6edbc.jpg",
+    "name": "Mystic - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/69293a5f-103c-45f7-a50f-788eff883741.jpg",
     "price": "$135.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -650,7 +661,7 @@
   },
   {
     "name": "Mystic - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/69293a5f-103c-45f7-a50f-788eff883741.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/70bd7a60-8daa-4a5e-85dd-e3742ab9209a.jpg",
     "price": "$135.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -658,6 +669,28 @@
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Egg Plug - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Egg Plug Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
+  },
+  {
+    "name": "Roland - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/103cc85d-2377-46c4-b5c1-7567f900ba3d.jpg",
+    "price": "$140.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Midnight Forest",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
   },
   {
     "name": "David - Medium",
@@ -746,17 +779,6 @@
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: CumTube & Suction Cup"
-  },
-  {
-    "name": "Nocturne - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9fd58aca-05d3-4fd7-bab8-44eb8423619b.jpg",
-    "price": "$170.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Nocturne'S Natural",
-    "firmness": "Firmness: Soft Shaft, Firm Base",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Echo - Large",
