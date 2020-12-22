@@ -385,17 +385,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Razor - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d2e23dde-f85f-4b43-8ff6-275060561d9e.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Razor'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Chance Flared - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/575f1229-2cb4-48e4-8207-d8c0f6852ffe.jpg",
     "price": "$105.00",
@@ -656,6 +645,17 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Everlasting Night",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Kona - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/df64b6a3-8c41-470b-a7bd-cb85490ae992.jpg",
+    "price": "$145.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Kona'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
   },
