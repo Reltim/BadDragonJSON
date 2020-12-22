@@ -212,9 +212,9 @@
     "name": "Demon Dick - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ffce5ebe-0285-47db-8faf-394f283c2e3b.jpg",
     "price": "$105.00",
-    "number": "1 of 1",
+    "number": "",
     "flop_reason": null,
-    "size": "Size: Medium",
+    "size": "",
     "color": "Color: Demon Dick'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
@@ -249,6 +249,28 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Zaratan'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Glyph - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bf6ea551-f44b-4a50-822d-2c08e4e275a5.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Onyx",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Austin - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/deca0a07-e640-4e73-84af-59d32a52097f.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Austin'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
