@@ -33,17 +33,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Flint's Sheath - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/460862aa-494a-486e-9728-173957a398e7.jpg",
-    "price": "$56.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Air Bubble On Strap",
-    "size": "Size: Medium",
-    "color": "Color: Flint'S Sheath Natural",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Crackers' Sheath - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$56.00",
@@ -53,17 +42,6 @@
     "color": "Color: Crackers' Sheath Natural",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Nox - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1d267f8f-1f8f-428e-a581-bfd4837c179c.jpg",
-    "price": "$60.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Air Bubble On Bottom Of Base",
-    "size": "Size: Small",
-    "color": "Color: Frozen Fox",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Crackers' Sheath - Small",
@@ -198,6 +176,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Ika Sheath - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2733c453-9f7f-43a1-b100-e1ba858c79ef.jpg",
+    "price": "$70.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Ika'S Sheath Signature",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Chance's Sheath - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a0e2183e-9a22-4632-879c-490d62275feb.jpg",
     "price": "$70.00",
@@ -229,17 +218,6 @@
     "color": "Color: Night Sky",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Cole - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/486b30a9-5285-442e-8226-23fa9f9cf874.jpg",
-    "price": "$73.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nick On Tip",
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Chance Unflared - Small",
@@ -385,6 +363,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "John - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9e8d9206-eaf7-4f34-98bf-b5d52b8a6bd8.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Tako - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fbb01748-1910-4df2-ab63-5ea369c6a415.jpg",
     "price": "$75.00",
@@ -440,17 +429,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Orochi - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/306efb68-f075-4099-b8c8-578c2066a23e.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Night Sky",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Vasu - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ec78edee-474b-42e4-ac29-f0380c058b8f.jpg",
     "price": "$75.00",
@@ -491,17 +469,6 @@
     "flop_reason": "Flop Reason: Nick On Sleeve Near Front",
     "size": "Size: One-Size",
     "color": "Color: Gala'S Natural",
-    "firmness": "Firmness: Extra Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Lily - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ef65e345-8aa8-47ec-9fb5-88ccbf0ca067.jpg",
-    "price": "$76.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Beauty Mark On Front Of Sleeve",
-    "size": "Size: One-Size",
-    "color": "Color: Pink Topaz Legacy",
     "firmness": "Firmness: Extra Soft",
     "accessories": "Accessories: None"
   },
@@ -594,17 +561,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Nox - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b976a1a3-4b7e-452c-890f-8cfea0c00c0c.jpg",
-    "price": "$84.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nick On Lower Shaft",
-    "size": "Size: Medium",
-    "color": "Color: Prim Rose",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
-  },
-  {
     "name": "Demon Dick - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/51ce8c6c-e985-48b6-b03f-6303c28f5612.jpg",
     "price": "$84.00",
@@ -638,6 +594,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Twitch - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0c19b591-5152-460c-b43b-5b2bc5420c2e.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Extra Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Perry - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4ea979e9-57dd-4e4d-a2cd-0b07918140d2.jpg",
     "price": "$95.00",
@@ -660,37 +627,37 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Sofia - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3835b1de-0b3c-4f1d-89d8-f07f4dbca3ca.jpg",
+    "name": "Leilani - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a090336f-04d7-4a31-89c3-ef7bc431e74f.jpg",
     "price": "$95.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: One-Size",
-    "color": "Color: Emerald Legacy",
+    "color": "Color: Rogue",
     "firmness": "Firmness: Extra Soft",
     "accessories": "Accessories: None"
   },
   {
-    "name": "Anje - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/26a33ab6-de3f-41e1-8ec1-755ca87711cf.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Garnet Legacy",
-    "firmness": "Firmness: Extra Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Apollo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ca6ee8e8-5027-421f-a0c1-2db123f3612a.jpg",
+    "name": "David - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a69e6c0a-e0a7-4b18-a7e8-e12f9992c037.jpg",
     "price": "$95.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Small",
-    "color": "Color: Rogue",
+    "color": "Color: David'S Signature",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Duke's Muzzle - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bb98cf48-0bc9-4f53-9ee2-b3033bd6a942.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Aquamarine Legacy",
+    "firmness": "Firmness: Extra Soft",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Axel - Small",
@@ -702,28 +669,6 @@
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Gala - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/85f30d9d-1634-43ce-8f92-f828c23e3b6e.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Gala'S Natural",
-    "firmness": "Firmness: Extra Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Nix - One-Size",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/66f5abe9-4f29-4fe9-a96b-c5fda8cf5bac.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: One-Size",
-    "color": "Color: Night Sky",
-    "firmness": "Firmness: Extra Soft",
-    "accessories": "Accessories: None"
   },
   {
     "name": "Mary - One-Size",
@@ -792,17 +737,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Orochi - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7b9e3a50-25b1-4775-8bef-4d5503e085c0.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Sleipnir - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d9ac77a1-3712-4676-9f4c-1112b3036959.jpg",
     "price": "$105.00",
@@ -827,6 +761,28 @@
   {
     "name": "Mystic - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cd193890-5863-483a-b972-f39c89e064b4.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Chance Flared - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0d16a98b-41f1-46d8-a229-a69e1377ce3f.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Chance Unflared - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/96d1c3dc-035d-474e-98e5-e5a62f8cdcf6.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1012,6 +968,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Rex - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4a3662da-42f2-4627-88dd-480f3dc0e01b.jpg",
+    "price": "$108.00",
+    "number": "1 of 3",
+    "flop_reason": "Flop Reason: Nicks On The Tip And Lower Shaft",
+    "size": "Size: Large",
+    "color": "Color: Neon Blue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube & Suction Cup"
+  },
+  {
     "name": "Mystic - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d8384346-7d83-42b0-9ec3-ca86046f6ba4.jpg",
     "price": "$108.00",
@@ -1021,17 +988,6 @@
     "color": "Color: Mystic'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Ridley - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8c6abfba-3f1d-406e-991c-ab9048cd862b.jpg",
-    "price": "$108.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nick On Base",
-    "size": "Size: Large",
-    "color": "Color: 4th Kind",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Cole - Large",
@@ -1060,6 +1016,17 @@
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1ea206cb-3d88-45bb-8376-18f12baa5166.jpg",
     "price": "$108.00",
     "number": "1 of 2",
+    "flop_reason": "Flop Reason: Nicks On The Base.",
+    "size": "Size: Large",
+    "color": "Color: Apollo'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Apollo - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1ea206cb-3d88-45bb-8376-18f12baa5166.jpg",
+    "price": "$108.00",
+    "number": "1 of 2",
     "flop_reason": "Flop Reason: Nicks On The Tip And Upper Shaft.",
     "size": "Size: Large",
     "color": "Color: Apollo'S Natural",
@@ -1076,6 +1043,17 @@
     "color": "Color: Apollo'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Roland - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7b1b4360-3391-4c0a-aa77-4313478fff35.jpg",
+    "price": "$108.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Nick On Lower Shaft",
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "David's Muzzle - One-Size",
@@ -1100,6 +1078,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Ika - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5593f96d-440f-4be4-8d4d-39bf4863a06f.jpg",
+    "price": "$115.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
+  },
+  {
     "name": "Twitch - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/30a215b5-7233-4100-a40e-36667fdc0257.jpg",
     "price": "$115.00",
@@ -1109,6 +1098,17 @@
     "color": "Color: Twitch'S Signature",
     "firmness": "Firmness: Extra Soft",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Spitfire - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/949ed0f8-db22-47ce-8264-ac03d5ff4eb7.jpg",
+    "price": "$115.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Spitfire'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Austin - Medium",
@@ -1124,6 +1124,17 @@
   {
     "name": "Orochi - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/95d702f3-446d-4600-8a14-f221d7355b3a.jpg",
+    "price": "$125.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Orochi - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/816d9635-e538-4729-a224-711f05d9da66.jpg",
     "price": "$125.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1188,17 +1199,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/179df324-d4cf-4caf-b41c-5f8292d201a5.jpg",
-    "price": "$125.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Votan'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "Egg Plug - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
     "price": "$125.00",
@@ -1219,39 +1219,6 @@
     "color": "Color: Split Red Stone",
     "firmness": "Firmness: Soft Shaft, Firm Base",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Nocturne - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9fd58aca-05d3-4fd7-bab8-44eb8423619b.jpg",
-    "price": "$132.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Air Bubble Under Tip",
-    "size": "Size: Extra Large",
-    "color": "Color: Nocturne'S Natural",
-    "firmness": "Firmness: Soft Shaft, Firm Base",
-    "accessories": "Accessories: CumTube & Suction Cup"
-  },
-  {
-    "name": "Ridley - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8c6abfba-3f1d-406e-991c-ab9048cd862b.jpg",
-    "price": "$132.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Beauty Mark On Base",
-    "size": "Size: Extra Large",
-    "color": "Color: 4th Kind",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
-  },
-  {
-    "name": "Ridley - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6cb425d-c6fa-4acf-9b23-6c91a87fe460.jpg",
-    "price": "$132.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Beauty Mark On Tip",
-    "size": "Size: Extra Large",
-    "color": "Color: 4th Kind",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Austin - Medium",
@@ -1353,50 +1320,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Duke the Bad Dragon - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/73b9a9dc-2c00-4eff-bf05-cb8e68dae3b2.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Egg Plug - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fcd5bf44-096e-4f7b-9dd8-cf510a3261dc.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Egg Plug Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Egg Plug - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Egg Plug Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
-  },
-  {
-    "name": "Roland - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/103cc85d-2377-46c4-b5c1-7567f900ba3d.jpg",
-    "price": "$140.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Midnight Forest",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "David - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/32d060cb-3ef3-40ce-8153-430bc927cf52.jpg",
     "price": "$145.00",
@@ -1409,7 +1332,7 @@
   },
   {
     "name": "Cole - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/00296042-89bb-4016-b90d-db64877a14b8.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a2e20b39-add6-4354-bba3-96e582928c08.jpg",
     "price": "$155.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1420,7 +1343,7 @@
   },
   {
     "name": "Cole - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a2e20b39-add6-4354-bba3-96e582928c08.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/00296042-89bb-4016-b90d-db64877a14b8.jpg",
     "price": "$155.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1474,15 +1397,15 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Votan - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ff801997-0d26-4e67-8ec9-1dcfabcddbb5.jpg",
-    "price": "$160.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nicks On The Bottom Of The Base",
+    "name": "Winston's Tongue - Extra Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/37306cac-8e48-4d53-acca-7f5b7515ddd8.jpg",
+    "price": "$165.00",
+    "number": "1 of 1",
+    "flop_reason": null,
     "size": "Size: Extra Large",
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
-    "accessories": "Accessories: Suction Cup"
+    "accessories": "Accessories: None"
   },
   {
     "name": "Stan - Large",
