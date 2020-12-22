@@ -143,17 +143,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Razor - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d2e23dde-f85f-4b43-8ff6-275060561d9e.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Razor'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Diego - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e62ea85f-7813-46b9-baab-3965d599e68e.jpg",
     "price": "$75.00",
@@ -419,7 +408,7 @@
   },
   {
     "name": "Tako - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d04ba93f-5c9e-4c8c-9181-477a715d9cff.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/db8b076a-02fa-4355-9dd3-4cb467522615.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -430,7 +419,7 @@
   },
   {
     "name": "Tako - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/db8b076a-02fa-4355-9dd3-4cb467522615.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d04ba93f-5c9e-4c8c-9181-477a715d9cff.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -657,6 +646,17 @@
     "size": "Size: Medium",
     "color": "Color: Razor'S Natural",
     "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Chance Flared - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/575f1229-2cb4-48e4-8207-d8c0f6852ffe.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Onyx",
+    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
@@ -968,17 +968,6 @@
     "accessories": "Accessories: Suction Cup"
   },
   {
-    "name": "Kelvin - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2a5f5522-ad36-41c2-a827-f5d1e70688aa.jpg",
-    "price": "$145.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: 4th Kind",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Nocturne - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/45faa039-f008-4fc5-9d5f-64b7dc966646.jpg",
     "price": "$145.00",
@@ -988,6 +977,17 @@
     "color": "Color: Nocturne'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Kelvin - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2a5f5522-ad36-41c2-a827-f5d1e70688aa.jpg",
+    "price": "$145.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: 4th Kind",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Bumble Hooves - Medium",
