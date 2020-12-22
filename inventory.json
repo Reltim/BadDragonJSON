@@ -451,17 +451,6 @@
     "accessories": "Accessories: CumTube & Suction Cup"
   },
   {
-    "name": "Ridley - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8c6abfba-3f1d-406e-991c-ab9048cd862b.jpg",
-    "price": "$108.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nick On Base",
-    "size": "Size: Large",
-    "color": "Color: 4th Kind",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
-  },
-  {
     "name": "Cole - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a19955e8-4d41-4bd4-86b5-d34efd3c20a7.jpg",
     "price": "$108.00",
@@ -539,17 +528,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Rex - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7246f4ac-c1f8-41f0-989e-9cfb0ea9f58d.jpg",
-    "price": "$125.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nicks On Base",
-    "size": "Size: Medium",
-    "color": "Color: Cinnamon Roll",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "Egg Plug - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/315d97b6-e605-4810-9533-c5de6508b24e.jpg",
     "price": "$125.00",
@@ -558,17 +536,6 @@
     "size": "Size: Medium",
     "color": "Color: Egg Plug Signature",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Terra - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8309cc3b-eaa5-4786-a4b1-fded3ac81488.jpg",
-    "price": "$130.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Split Red Stone",
-    "firmness": "Firmness: Soft Shaft, Firm Base",
     "accessories": "Accessories: None"
   },
   {
@@ -660,26 +627,37 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Glyph - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/983e25ba-28ea-4a31-8ba6-4a8bca1f7793.jpg",
+    "name": "Kona - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/05e16262-d25f-4347-bc52-9e3a74f72279.jpg",
     "price": "$155.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Large",
-    "color": "Color: Glyph'S Signature",
+    "color": "Color: Kona'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
-    "name": "John - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5fbcd144-9180-4ebe-b69e-5b31b9685d1d.jpg",
+    "name": "Mystic - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/df716b79-6c0a-4550-ab7b-e16063cf6e29.jpg",
     "price": "$155.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: CumTube"
+    "color": "Color: Mystic'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "David - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a69e6c0a-e0a7-4b18-a7e8-e12f9992c037.jpg",
+    "price": "$155.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: David'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Rex - Large",
