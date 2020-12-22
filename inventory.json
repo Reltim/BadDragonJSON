@@ -506,17 +506,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Rex - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5855e990-fb81-435b-bb6a-609b6da98ad1.jpg",
-    "price": "$125.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Krampus' Present",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
-  },
-  {
     "name": "David - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a69e6c0a-e0a7-4b18-a7e8-e12f9992c037.jpg",
     "price": "$125.00",
@@ -656,6 +645,17 @@
     "flop_reason": null,
     "size": "Size: Large",
     "color": "Color: Kona'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/df716b79-6c0a-4550-ab7b-e16063cf6e29.jpg",
+    "price": "$155.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Mystic'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
