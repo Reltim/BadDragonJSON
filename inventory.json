@@ -4,17 +4,6 @@
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$48.00",
     "number": "1 of 2",
-    "flop_reason": "Flop Reason: Air Bubble On Sleeve",
-    "size": "Size: Small",
-    "color": "Color: Crackers' Sheath Natural",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Crackers' Sheath - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
-    "price": "$48.00",
-    "number": "1 of 2",
     "flop_reason": "Flop Reason: Wide Trim",
     "size": "Size: Small",
     "color": "Color: Crackers' Sheath Natural",
@@ -30,17 +19,6 @@
     "size": "Size: Small",
     "color": "Color: Echo'S Natural",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Egg Plug - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d505087d-5c28-4d40-a95d-95eb606bd2c9.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Crimson",
-    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
@@ -64,17 +42,6 @@
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Bumble Hooves - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2b5d2859-8a82-43e0-8e4c-df5bf2877941.jpg",
-    "price": "$95.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Bumble Hooves' Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Echo - Small",
@@ -145,6 +112,17 @@
   {
     "name": "Kelvin - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/11313354-d49d-4d93-ae92-acfd281d62d3.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Kelvin - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f35ba51e-0715-4626-bfa5-af774314ce9e.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -227,17 +205,6 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Zaratan'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Glyph - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bf6ea551-f44b-4a50-822d-2c08e4e275a5.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Onyx",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -535,17 +502,6 @@
     "flop_reason": null,
     "size": "Size: Extra Large",
     "color": "Color: Mystic'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Kelvin - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8da04c68-3445-479a-91e0-df00585007a2.jpg",
-    "price": "$165.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Extra Large",
-    "color": "Color: Kelvin'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
