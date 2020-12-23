@@ -66,17 +66,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Stan - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e157ca22-741d-4cec-ad38-d85511567969.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Spitfire - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/08adb4a3-a739-4a39-8630-f62ffe054165.jpg",
     "price": "$75.00",
@@ -221,7 +210,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -232,7 +221,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -363,17 +352,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Nocturne - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ad955f6e-b4a9-4905-82ed-cc2da00b24a9.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Pearce - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ca5d7a06-0add-4959-a057-fb83b1ec035b.jpg",
     "price": "$105.00",
@@ -408,7 +386,7 @@
   },
   {
     "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -419,7 +397,7 @@
   },
   {
     "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -492,17 +470,6 @@
     "size": "Size: Large",
     "color": "Color: BD Metallic Red",
     "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f14ef9c8-0fe5-4293-8632-cce1b05974de.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
     "accessories": "Accessories: None"
   },
   {
