@@ -66,17 +66,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bfedd3fd-6d05-477c-98e9-2e0bdaf7e8d1.jpg",
-    "price": "$55.00",
-    "number": "1 of 2",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Ultraviolet Legacy",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "David's Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b208003-57d6-483d-9cc6-c382d93ab78c.jpg",
     "price": "$60.00",
@@ -616,6 +605,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Kippy - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5871cee8-8d3f-448b-8b25-17cbe7a8b123.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Spitfire - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/949ed0f8-db22-47ce-8264-ac03d5ff4eb7.jpg",
     "price": "$105.00",
@@ -656,17 +656,6 @@
     "flop_reason": null,
     "size": "Size: Large",
     "color": "Color: Frankenpour",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Diego - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/97293df7-cd98-40ce-b6b7-b79172f5ccb7.jpg",
-    "price": "$125.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Diego'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
