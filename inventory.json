@@ -298,7 +298,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -309,7 +309,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -364,7 +364,7 @@
   },
   {
     "name": "Elliot - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d83eb41a-1e02-4572-a1ab-f43a9d18b7f2.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d88423ca-689a-434f-b00c-eba1440a7971.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -375,7 +375,7 @@
   },
   {
     "name": "Elliot - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d88423ca-689a-434f-b00c-eba1440a7971.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d83eb41a-1e02-4572-a1ab-f43a9d18b7f2.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -495,17 +495,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Nocturne - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3a0ef981-c369-4dd8-aaf7-da052018a22c.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Pretzal - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3d83fb93-0971-44ad-9401-f3b9344f21a3.jpg",
     "price": "$105.00",
@@ -606,7 +595,7 @@
   },
   {
     "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -617,7 +606,7 @@
   },
   {
     "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -660,15 +649,15 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Mystic - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e2c90180-4da8-41b1-9d0d-21b65a23e672.jpg",
+    "name": "Elden - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6313917a-f36d-499a-a364-2e28693db696.jpg",
     "price": "$108.00",
     "number": "1 of 2",
-    "flop_reason": "Flop Reason: Wide Trim On Cum Tube Entrance",
+    "flop_reason": "Flop Reason: Base Trimmed Wide",
     "size": "Size: Large",
-    "color": "Color: Crimson",
+    "color": "Color: Elden'S Natural",
     "firmness": "Firmness: Firm",
-    "accessories": "Accessories: CumTube"
+    "accessories": "Accessories: None"
   },
   {
     "name": "Nocturne - Large",
@@ -689,6 +678,17 @@
     "flop_reason": null,
     "size": "Size: Large",
     "color": "Color: Frankenpour",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Diego - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/97293df7-cd98-40ce-b6b7-b79172f5ccb7.jpg",
+    "price": "$125.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Diego'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
