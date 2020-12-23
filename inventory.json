@@ -1,6 +1,6 @@
 [
   {
-    "name": "Crackers' Sheath - Small",
+    "name": "Crackerssheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -29,17 +29,6 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: David'S Sheath Natural",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/27bc706c-46d0-4493-8cd0-eb92730e9645.jpg",
-    "price": "$65.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: 3rd Kind",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
