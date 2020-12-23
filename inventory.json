@@ -1,14 +1,14 @@
 [
   {
-    "name": "Votan - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/34ddcf63-d0bd-44aa-b000-90799d6e970e.jpg",
-    "price": "$44.00",
+    "name": "Fusion Lil' Squirt - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6a0bf80b-34d6-4848-8f2b-003768ecdf49.jpg",
+    "price": "$28.00",
     "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nicks On Base",
-    "size": "Size: Mini",
-    "color": "Color: Merlot",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
+    "flop_reason": "Flop Reason: Beauty Mark On Low Shaft",
+    "size": "Size: One-Size",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Firm",
+    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Mystic - Mini",
@@ -496,7 +496,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -507,7 +507,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -660,6 +660,28 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Fenrir - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/87eef47b-fee1-4941-856d-ca1a3f922b3f.jpg",
+    "price": "$84.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Nick On Tip And Upper Shaft",
+    "size": "Size: Medium",
+    "color": "Color: Fenrir'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Demogorgon - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cbd6eecd-6ece-475f-83f5-469233e472f1.jpg",
+    "price": "$84.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Nick On Middle Of Shaft",
+    "size": "Size: Medium",
+    "color": "Color: Demogorgon'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Demogorgon - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cbd6eecd-6ece-475f-83f5-469233e472f1.jpg",
     "price": "$84.00",
@@ -700,6 +722,17 @@
     "flop_reason": "Flop Reason: Base Trimmed Wide",
     "size": "Size: Medium",
     "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Rex - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/503713f9-5f5b-4ce3-98c8-4a2f70fa341f.jpg",
+    "price": "$84.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Beauty Mark On Lower Shaft",
+    "size": "Size: Medium",
+    "color": "Color: Neon Orange",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -800,6 +833,17 @@
     "size": "Size: Medium",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Scorn - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/19912711-3249-4788-9968-a1dccb949e54.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
@@ -958,7 +1002,7 @@
   },
   {
     "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -969,7 +1013,7 @@
   },
   {
     "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1188,17 +1232,6 @@
     "accessories": "Accessories: CumTube & Suction Cup"
   },
   {
-    "name": "Nova - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d4803de0-5568-486c-b3fd-1dee37c9026a.jpg",
-    "price": "$132.00",
-    "number": "1 of 3",
-    "flop_reason": "Flop Reason: Nicks On Lower Shaft.",
-    "size": "Size: Extra Large",
-    "color": "Color: Nova'S Natural",
-    "firmness": "Firmness: Soft Shaft, Firm Base",
-    "accessories": "Accessories: CumTube & Suction Cup"
-  },
-  {
     "name": "Glyph - Extra Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f9fcf624-5cf7-4c42-9429-793a26f8e917.jpg",
     "price": "$132.00",
@@ -1284,28 +1317,6 @@
     "size": "Size: Large",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Echo - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f7de184d-bd67-4eb7-b438-63340f2ff0f5.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: 3rd Kind",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Kona - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/072c4db0-28c9-4de8-bbfe-9df6b4553135.jpg",
-    "price": "$150.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft Shaft, Firm Base",
     "accessories": "Accessories: None"
   },
   {
