@@ -1,6 +1,6 @@
 [
   {
-    "name": "Crackerssheath - Small",
+    "name": "Crackers' Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -11,7 +11,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Davidsheath - Small",
+    "name": "David's Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/22e39593-9c55-42db-b486-22a980c3382a.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -22,7 +22,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Davidsheath - Small",
+    "name": "David's Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b208003-57d6-483d-9cc6-c382d93ab78c.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -427,17 +427,6 @@
     "color": "Color: Glyph'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Rex - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7246f4ac-c1f8-41f0-989e-9cfb0ea9f58d.jpg",
-    "price": "$125.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nicks On Base",
-    "size": "Size: Medium",
-    "color": "Color: Cinnamon Roll",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Egg Plug - Medium",
