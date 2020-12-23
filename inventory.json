@@ -1,6 +1,6 @@
 [
   {
-    "name": "Fusion Lil' Squirt - One-Size",
+    "name": "Lilfusion - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6a0bf80b-34d6-4848-8f2b-003768ecdf49.jpg",
     "price": "$28.00",
     "number": "1 of 2",
@@ -8,7 +8,7 @@
     "size": "Size: One-Size",
     "color": "Color: Rogue",
     "firmness": "Firmness: Firm",
-    "accessories": "Accessories: CumTube"
+    "accessories": "Accessories: None"
   },
   {
     "name": "Mystic - Mini",
@@ -495,6 +495,17 @@
     "accessories": "Accessories: CumTube"
   },
   {
+    "name": "Mystic - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/77b094e3-7ce0-4639-8a02-1ed8facc8c9c.jpg",
+    "price": "$84.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Base Trimmed Wide",
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Fenrir - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/87eef47b-fee1-4941-856d-ca1a3f922b3f.jpg",
     "price": "$84.00",
@@ -572,17 +583,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Nocturne - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3a0ef981-c369-4dd8-aaf7-da052018a22c.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Pearce - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ca24fd9b-b84d-4473-b1f8-019268571f33.jpg",
     "price": "$105.00",
@@ -651,28 +651,6 @@
   {
     "name": "David - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/22649ba9-3056-4fb4-a8f3-47d86922ea5d.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "David - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2adef37c-154e-467e-adc1-8c3a4f7d795e.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Kona - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8aa4f6c1-36b3-42cf-854f-6aad5f9fc520.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
