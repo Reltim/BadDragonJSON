@@ -363,17 +363,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Ridley - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fb3977a5-25da-4eb6-a901-acd6c0668f96.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Everlasting Night",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Spitfire - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/949ed0f8-db22-47ce-8264-ac03d5ff4eb7.jpg",
     "price": "$105.00",
@@ -436,6 +425,17 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Split Red Stone",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Rex - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7246f4ac-c1f8-41f0-989e-9cfb0ea9f58d.jpg",
+    "price": "$125.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Nicks On Base",
+    "size": "Size: Medium",
+    "color": "Color: Cinnamon Roll",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
   },
@@ -585,6 +585,17 @@
   {
     "name": "Stan - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/215950a3-43f9-458d-9a49-c44a80ff7079.jpg",
+    "price": "$165.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: CumTube & Suction Cup"
+  },
+  {
+    "name": "Mystic - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/195adebf-ff00-4dd4-92c3-0a52821708b2.jpg",
     "price": "$165.00",
     "number": "1 of 1",
     "flop_reason": null,
