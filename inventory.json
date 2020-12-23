@@ -199,6 +199,17 @@
   },
   {
     "name": "David's Sheath - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/44a39b32-b712-4296-88d7-401c46ff4c09.jpg",
+    "price": "$80.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Arctic Ice",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "David's Sheath - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b208003-57d6-483d-9cc6-c382d93ab78c.jpg",
     "price": "$80.00",
     "number": "1 of 1",
@@ -266,6 +277,17 @@
   {
     "name": "Mystic - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/68865047-e5c2-49e6-a831-235cf9b20e7d.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Sleipnir - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/110568b7-bf2b-4962-b185-c089359f1152.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
