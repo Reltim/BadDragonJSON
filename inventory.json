@@ -1,6 +1,6 @@
 [
   {
-    "name": "Crackerssheath - Small",
+    "name": "Crackers' Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -297,6 +297,17 @@
     "accessories": "Accessories: CumTube"
   },
   {
+    "name": "Chance Flared - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6650f87c-5cc6-45ba-a520-9de066e6873e.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Mystic - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bc4956ff-f5bb-4ea9-9cee-1f5d2ca3e9e5.jpg",
     "price": "$105.00",
@@ -363,6 +374,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Ridley - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fb3977a5-25da-4eb6-a901-acd6c0668f96.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Everlasting Night",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Spitfire - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/949ed0f8-db22-47ce-8264-ac03d5ff4eb7.jpg",
     "price": "$105.00",
@@ -416,17 +438,6 @@
     "color": "Color: Glyph'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Nova - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/27d5bef0-85a9-4d5c-b19d-b5277da48dad.jpg",
-    "price": "$125.00",
-    "number": "1 of 2",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Split Red Stone",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Rex - Medium",
