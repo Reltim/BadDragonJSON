@@ -1,6 +1,6 @@
 [
   {
-    "name": "Lilfusion - One-Size",
+    "name": "Fusion Lil' Squirt - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6a0bf80b-34d6-4848-8f2b-003768ecdf49.jpg",
     "price": "$28.00",
     "number": "1 of 2",
@@ -19,28 +19,6 @@
     "size": "Size: Mini",
     "color": "Color: Ultraviolet Legacy",
     "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Baron - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9fec7ca2-43ef-4e53-bb14-732b1060fcfb.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1439c332-1fbe-4821-bf23-a09ed809a0dc.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Neon Red",
-    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
@@ -107,17 +85,6 @@
     "size": "Size: Mini",
     "color": "Color: Rogue",
     "firmness": "Firmness: Firm",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Magnus' Sheath - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ef2009bd-8c60-4fbf-954a-5c99ed8d30bb.jpg",
-    "price": "$56.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nick On Sleeve",
-    "size": "Size: Medium",
-    "color": "Color: Magnus' Sheath Natural",
-    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
@@ -880,17 +847,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Lenneth - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/41529e82-be48-4b51-82a9-56b5833310aa.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Spitfire - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/949ed0f8-db22-47ce-8264-ac03d5ff4eb7.jpg",
     "price": "$105.00",
@@ -944,6 +900,17 @@
     "color": "Color: Frankenpour",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Echo - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4b690259-71b4-4e7e-800b-fb017f7d133b.jpg",
+    "price": "$125.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Diego - Medium",
@@ -1142,16 +1109,5 @@
     "color": "Color: Forest",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Sleipnir - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c0698e09-8868-4eab-838e-b2973dffc9b7.jpg",
-    "price": "$210.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Extra Large",
-    "color": "Color: Sleipnir'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
   }
 ]
