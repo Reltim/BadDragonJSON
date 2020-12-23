@@ -88,17 +88,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Votan - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ef132deb-7674-4957-8a4c-11d935b9b4e5.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Spitfire - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4067f01f-46e4-47b6-a9b5-fde44eb054fc.jpg",
     "price": "$75.00",
@@ -166,7 +155,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -177,7 +166,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -199,7 +188,7 @@
   },
   {
     "name": "Elliot - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d88423ca-689a-434f-b00c-eba1440a7971.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d83eb41a-1e02-4572-a1ab-f43a9d18b7f2.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -210,7 +199,7 @@
   },
   {
     "name": "Elliot - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d83eb41a-1e02-4572-a1ab-f43a9d18b7f2.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d88423ca-689a-434f-b00c-eba1440a7971.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -227,17 +216,6 @@
     "flop_reason": "Flop Reason: Nicks On Middle Of Shaft",
     "size": "Size: Medium",
     "color": "Color: Demogorgon'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/77b094e3-7ce0-4639-8a02-1ed8facc8c9c.jpg",
-    "price": "$84.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Base Trimmed Wide",
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -320,18 +298,18 @@
   },
   {
     "name": "Kona - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8aa4f6c1-36b3-42cf-854f-6aad5f9fc520.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7d6697ed-f2db-48e3-9975-1fb28fb5cc72.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
+    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
-    "name": "Kona - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7d6697ed-f2db-48e3-9975-1fb28fb5cc72.jpg",
+    "name": "Votan - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -352,14 +330,14 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
+    "name": "Elliot - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8e2623cb-9752-4d1e-bcce-6218b7c41d40.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
+    "firmness": "Firmness: Firm",
     "accessories": "Accessories: None"
   },
   {
