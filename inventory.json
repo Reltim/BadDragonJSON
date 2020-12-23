@@ -264,6 +264,17 @@
     "accessories": "Accessories: CumTube"
   },
   {
+    "name": "Chance Flared - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/df2cf3e4-e18f-451a-8d93-8f500c64e875.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Mystic - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/68865047-e5c2-49e6-a831-235cf9b20e7d.jpg",
     "price": "$105.00",
@@ -360,6 +371,17 @@
     "size": "Size: Medium",
     "color": "Color: Split Red Stone",
     "firmness": "Firmness: Soft Shaft, Firm Base",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Apollo - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6c0bcfb-4a46-41e6-b758-e3e4f33348ca.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
