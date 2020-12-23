@@ -11,17 +11,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Baron - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9fec7ca2-43ef-4e53-bb14-732b1060fcfb.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Mystic - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1439c332-1fbe-4821-bf23-a09ed809a0dc.jpg",
     "price": "$55.00",
@@ -276,6 +265,17 @@
   },
   {
     "name": "Elliot - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d88423ca-689a-434f-b00c-eba1440a7971.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Elliot - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d83eb41a-1e02-4572-a1ab-f43a9d18b7f2.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -398,17 +398,6 @@
   {
     "name": "Pearce - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ca5d7a06-0add-4959-a057-fb83b1ec035b.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bffacc35-b2fa-4bb5-ba27-b332fd47cc58.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
