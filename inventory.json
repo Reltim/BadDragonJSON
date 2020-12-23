@@ -385,17 +385,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Fenrir - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/87eef47b-fee1-4941-856d-ca1a3f922b3f.jpg",
-    "price": "$84.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Imperfection On Mid-Shaft",
-    "size": "Size: Medium",
-    "color": "Color: Fenrir'S Signature",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Pearce - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/51984119-72e1-4dc7-8c70-8c3eb28f8dd0.jpg",
     "price": "$89.25",
@@ -613,6 +602,17 @@
     "size": "Size: Medium",
     "color": "Color: Spitfire'S Natural",
     "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Elden - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6313917a-f36d-499a-a364-2e28693db696.jpg",
+    "price": "$108.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Base Trimmed Wide",
+    "size": "Size: Large",
+    "color": "Color: Elden'S Natural",
+    "firmness": "Firmness: Firm",
     "accessories": "Accessories: None"
   },
   {
