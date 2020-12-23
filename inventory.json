@@ -320,17 +320,6 @@
   },
   {
     "name": "Elliot - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d88423ca-689a-434f-b00c-eba1440a7971.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Elliot - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d83eb41a-1e02-4572-a1ab-f43a9d18b7f2.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -341,13 +330,13 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Nocturne - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/23756a0c-5758-42c8-b913-b76a62596a10.jpg",
-    "price": "$84.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Base Trimmed Wide, Nicks On Bottom Of Base",
-    "size": "Size: Medium",
-    "color": "Color: BD Pink",
+    "name": "Elliot - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d88423ca-689a-434f-b00c-eba1440a7971.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -638,6 +627,17 @@
     "accessories": "Accessories: CumTube & Suction Cup"
   },
   {
+    "name": "Crash - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1fb97fa7-58bb-4504-bb7e-9ad7e556e611.jpg",
+    "price": "$114.75",
+    "number": "1 of 2",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Frankenpour",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Diego - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/97293df7-cd98-40ce-b6b7-b79172f5ccb7.jpg",
     "price": "$125.00",
@@ -667,17 +667,6 @@
     "flop_reason": "Flop Reason: Nick On Tip",
     "size": "Size: Extra Large",
     "color": "Color: BD Brown",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Vergil - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/46b55332-a48c-4270-9b13-d0ddcd80889f.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: BD Metallic Red",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
