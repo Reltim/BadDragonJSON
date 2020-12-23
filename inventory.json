@@ -110,6 +110,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Mystic - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b27ed0ee-b461-4781-b240-a96b66114700.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Apollo - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d8e19325-7a68-4980-b5ff-d5ee88bc483f.jpg",
     "price": "$75.00",
@@ -128,6 +139,17 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Elliot'S Natural",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "John - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bfa1b21d-f6c3-43a6-9c4c-76afd0830007.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Onyx",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
