@@ -1,6 +1,6 @@
 [
   {
-    "name": "Crackerssheath - Small",
+    "name": "Crackers' Sheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -145,17 +145,6 @@
   {
     "name": "Mystic - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b27ed0ee-b461-4781-b240-a96b66114700.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Apollo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d8e19325-7a68-4980-b5ff-d5ee88bc483f.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
