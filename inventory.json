@@ -814,17 +814,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Glyph - Extra Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f9fcf624-5cf7-4c42-9429-793a26f8e917.jpg",
-    "price": "$132.00",
-    "number": "1 of 3",
-    "flop_reason": "Flop Reason: Wide Trimmed Cum Tube And Base.",
-    "size": "Size: Extra Large",
-    "color": "Color: Glyph'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube & Suction Cup"
-  },
-  {
     "name": "Cole - Extra Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f0851ef7-ee8d-4649-9122-640271f2a657.jpg",
     "price": "$132.00",
@@ -920,6 +909,17 @@
     "flop_reason": null,
     "size": "Size: Extra Large",
     "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Blaze - Extra Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a159857-aa9b-4788-9e9a-3878c15d0578.jpg",
+    "price": "$200.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Extra Large",
+    "color": "Color: Forest",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   }
