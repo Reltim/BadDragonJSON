@@ -11,17 +11,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bfedd3fd-6d05-477c-98e9-2e0bdaf7e8d1.jpg",
-    "price": "$44.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Beauty Mark On Base",
-    "size": "Size: Mini",
-    "color": "Color: Ultraviolet Legacy",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Baron - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9fec7ca2-43ef-4e53-bb14-732b1060fcfb.jpg",
     "price": "$55.00",
@@ -85,17 +74,6 @@
     "size": "Size: Mini",
     "color": "Color: Ultraviolet Legacy",
     "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "John - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6322e379-3536-4070-b6ed-2d4687072c62.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
     "accessories": "Accessories: None"
   },
   {
@@ -210,17 +188,6 @@
   },
   {
     "name": "Votan - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bf4cb57f-2653-4ea3-b5c7-a409d70113df.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Votan - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d1d5b638-e117-4bb1-8cb9-61eb1b1108e0.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -331,7 +298,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -342,7 +309,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -397,7 +364,7 @@
   },
   {
     "name": "Elliot - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d88423ca-689a-434f-b00c-eba1440a7971.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d83eb41a-1e02-4572-a1ab-f43a9d18b7f2.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -408,7 +375,7 @@
   },
   {
     "name": "Elliot - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d83eb41a-1e02-4572-a1ab-f43a9d18b7f2.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d88423ca-689a-434f-b00c-eba1440a7971.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -460,17 +427,6 @@
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/77b094e3-7ce0-4639-8a02-1ed8facc8c9c.jpg",
-    "price": "$84.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Base Trimmed Wide",
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
   },
   {
     "name": "Pearce - Medium",
@@ -650,6 +606,17 @@
   },
   {
     "name": "Votan - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Votan - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
     "price": "$105.00",
     "number": "1 of 1",
@@ -657,6 +624,17 @@
     "size": "Size: Medium",
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Elliot - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8e2623cb-9752-4d1e-bcce-6218b7c41d40.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Firm",
     "accessories": "Accessories: None"
   },
   {
@@ -679,17 +657,6 @@
     "size": "Size: Medium",
     "color": "Color: Spitfire'S Natural",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Elden - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6313917a-f36d-499a-a364-2e28693db696.jpg",
-    "price": "$108.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Base Trimmed Wide",
-    "size": "Size: Large",
-    "color": "Color: Elden'S Natural",
-    "firmness": "Firmness: Firm",
     "accessories": "Accessories: None"
   },
   {
