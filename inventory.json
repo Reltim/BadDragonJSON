@@ -1,6 +1,6 @@
 [
   {
-    "name": "David's Sheath - Small",
+    "name": "Davidsheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b208003-57d6-483d-9cc6-c382d93ab78c.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -40,17 +40,6 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Elliot - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9f778212-4e9a-4d02-b59e-23f4f54ae201.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Elliot'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
