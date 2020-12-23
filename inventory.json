@@ -66,6 +66,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Stan - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e157ca22-741d-4cec-ad38-d85511567969.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Spitfire - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/08adb4a3-a739-4a39-8630-f62ffe054165.jpg",
     "price": "$75.00",
@@ -386,7 +397,7 @@
   },
   {
     "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -397,7 +408,7 @@
   },
   {
     "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -459,6 +470,28 @@
     "size": "Size: Large",
     "color": "Color: Frankenpour",
     "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Dexter - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4470b72a-0fde-4b80-8d08-08b77d123603.jpg",
+    "price": "$125.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Firm",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Vergil - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/46b55332-a48c-4270-9b13-d0ddcd80889f.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: BD Metallic Red",
+    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
