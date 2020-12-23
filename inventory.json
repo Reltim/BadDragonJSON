@@ -67,17 +67,6 @@
   },
   {
     "name": "Orochi - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9a5e988b-2c5b-45ee-b08d-ede817a8a21c.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Orochi - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fff28f4d-dc6a-45e8-a88e-b450a5f423ad.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -199,7 +188,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -210,7 +199,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -429,6 +418,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Mystic - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e2c90180-4da8-41b1-9d0d-21b65a23e672.jpg",
+    "price": "$108.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Wide Trim On Cum Tube Entrance",
+    "size": "Size: Large",
+    "color": "Color: Crimson",
+    "firmness": "Firmness: Firm",
+    "accessories": "Accessories: CumTube"
+  },
+  {
     "name": "Crash - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1fb97fa7-58bb-4504-bb7e-9ad7e556e611.jpg",
     "price": "$114.75",
@@ -438,17 +438,6 @@
     "color": "Color: Frankenpour",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Dexter - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4470b72a-0fde-4b80-8d08-08b77d123603.jpg",
-    "price": "$125.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Vergil - Large",
