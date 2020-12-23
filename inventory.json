@@ -33,6 +33,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "David - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a69e6c0a-e0a7-4b18-a7e8-e12f9992c037.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: David'S Signature",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Axel - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/88064ef4-09f1-41df-90b6-d4a977f0c3eb.jpg",
     "price": "$95.00",
