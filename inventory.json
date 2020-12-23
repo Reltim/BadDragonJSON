@@ -1,6 +1,6 @@
 [
   {
-    "name": "Crackers' Sheath - Small",
+    "name": "Crackerssheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -11,7 +11,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "David's Sheath - Small",
+    "name": "Davidsheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/22e39593-9c55-42db-b486-22a980c3382a.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -22,7 +22,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "David's Sheath - Small",
+    "name": "Davidsheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b208003-57d6-483d-9cc6-c382d93ab78c.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -40,6 +40,17 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Magnus' Sheath Natural",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Mini",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/27bc706c-46d0-4493-8cd0-eb92730e9645.jpg",
+    "price": "$65.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Mini",
+    "color": "Color: 3rd Kind",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
@@ -187,17 +198,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Pretzal - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bdc9006a-3e76-4936-85bd-799024474df6.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Onyx",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "John - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bfa1b21d-f6c3-43a6-9c4c-76afd0830007.jpg",
     "price": "$75.00",
@@ -217,17 +217,6 @@
     "size": "Size: Small",
     "color": "Color: Onyx",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "David's Sheath - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/15d1cc59-48b4-4c80-8ba9-9961526d0c3c.jpg",
-    "price": "$80.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Onyx",
-    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
