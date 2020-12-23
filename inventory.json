@@ -11,17 +11,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Nox - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cc8e5640-d245-43eb-bd96-94f4bdf87d99.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Elliot - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9f778212-4e9a-4d02-b59e-23f4f54ae201.jpg",
     "price": "$105.00",
@@ -52,6 +41,17 @@
     "size": "Size: Large",
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Twitch - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/30a215b5-7233-4100-a40e-36667fdc0257.jpg",
+    "price": "$115.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Twitch'S Signature",
+    "firmness": "Firmness: Extra Soft",
     "accessories": "Accessories: None"
   },
   {
