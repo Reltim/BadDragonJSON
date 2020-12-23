@@ -1,17 +1,6 @@
 [
   {
     "name": "Mystic - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bfedd3fd-6d05-477c-98e9-2e0bdaf7e8d1.jpg",
-    "price": "$44.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Beauty Mark On Base",
-    "size": "Size: Mini",
-    "color": "Color: Ultraviolet Legacy",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Mini",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1439c332-1fbe-4821-bf23-a09ed809a0dc.jpg",
     "price": "$55.00",
     "number": "1 of 1",
@@ -77,28 +66,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Spitfire - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d792bd04-deef-47ae-bc63-a2cec37798be.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Spitfire - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4067f01f-46e4-47b6-a9b5-fde44eb054fc.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Votan - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8122dd86-aa08-4408-8a46-64833762aa37.jpg",
     "price": "$75.00",
@@ -155,7 +122,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -166,7 +133,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -205,6 +172,17 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Demogorgon - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cbd6eecd-6ece-475f-83f5-469233e472f1.jpg",
+    "price": "$84.00",
+    "number": "1 of 2",
+    "flop_reason": "Flop Reason: Nicks On Middle Of Shaft",
+    "size": "Size: Medium",
+    "color": "Color: Demogorgon'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -287,7 +265,7 @@
   },
   {
     "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -298,7 +276,7 @@
   },
   {
     "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -316,6 +294,17 @@
     "size": "Size: Medium",
     "color": "Color: Rogue",
     "firmness": "Firmness: Firm",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Spitfire - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/949ed0f8-db22-47ce-8264-ac03d5ff4eb7.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Spitfire'S Natural",
+    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
