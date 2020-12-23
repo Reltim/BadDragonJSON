@@ -1,6 +1,6 @@
 [
   {
-    "name": "Crackers' Sheath - Small",
+    "name": "Crackerssheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -143,17 +143,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "John - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bfa1b21d-f6c3-43a6-9c4c-76afd0830007.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Onyx",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Vasu - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ec78edee-474b-42e4-ac29-f0380c058b8f.jpg",
     "price": "$75.00",
@@ -227,17 +216,6 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Elliot - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9f778212-4e9a-4d02-b59e-23f4f54ae201.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Elliot'S Natural",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
