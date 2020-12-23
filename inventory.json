@@ -253,17 +253,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Orochi - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d8b96038-a166-48f4-927a-ede1057a23bc.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Spitfire - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/140499f4-a100-489d-8e80-b44422e7f3c4.jpg",
     "price": "$75.00",
@@ -693,17 +682,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Echo - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f7d90756-c57e-4489-8ded-a2a8d6c4f19c.jpg",
-    "price": "$84.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nick On Middle Of Shaft",
-    "size": "Size: Medium",
-    "color": "Color: Echo'S Signature",
-    "firmness": "Firmness: Soft Shaft, Firm Base",
-    "accessories": "Accessories: CumTube"
-  },
-  {
     "name": "Hanns - One-Size",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/200a3a37-7e07-4945-8dbe-5374dd70fd14.jpg",
     "price": "$84.00",
@@ -735,17 +713,6 @@
     "color": "Color: Fenrir'S Signature",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Rex - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5bcf27a-f3f6-47ed-b383-adfc7a32f2d9.jpg",
-    "price": "$85.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Pearce - Medium",
@@ -1002,7 +969,7 @@
   },
   {
     "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1013,7 +980,7 @@
   },
   {
     "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1063,6 +1030,17 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Kelvin - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c1357436-ee81-49a5-bf25-59e55619a8e9.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Starlight Glow",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -1299,7 +1277,7 @@
   },
   {
     "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/98a230f8-943b-47b5-9764-3ddd073fe264.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/883d6cb5-f91e-4e6a-9e49-4df59864dde6.jpg",
     "price": "$135.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1309,15 +1287,26 @@
     "accessories": "Accessories: CumTube & Suction Cup"
   },
   {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/883d6cb5-f91e-4e6a-9e49-4df59864dde6.jpg",
+    "name": "Mystic - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f14ef9c8-0fe5-4293-8632-cce1b05974de.jpg",
     "price": "$135.00",
     "number": "1 of 1",
     "flop_reason": null,
-    "size": "Size: Medium",
+    "size": "Size: Large",
     "color": "Color: Rogue",
     "firmness": "Firmness: Firm",
-    "accessories": "Accessories: CumTube & Suction Cup"
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Kona - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7ee46a7b-fa4a-495b-869f-3e431e66c840.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Echo - Medium",
@@ -1340,17 +1329,6 @@
     "color": "Color: Rogue",
     "firmness": "Firmness: Soft Shaft, Firm Base",
     "accessories": "Accessories: None"
-  },
-  {
-    "name": "Elliot - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cbd11771-7240-4b98-8dfa-28a87fb9d2dd.jpg",
-    "price": "$155.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Echo - Large",
@@ -1384,6 +1362,17 @@
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: Suction Cup"
+  },
+  {
+    "name": "Blaze - Extra Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/30cd8e01-c873-4a37-b2c4-15302ddcacbb.jpg",
+    "price": "$200.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Extra Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
   },
   {
     "name": "Blaze - Extra Large",
