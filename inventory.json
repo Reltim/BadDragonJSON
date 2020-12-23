@@ -374,6 +374,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Axel - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5a9e464f-cbd3-4dc2-b26c-56f5b4910ed5.jpg",
+    "price": "$89.25",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Frankenpour",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Spitfire - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d34ff654-d296-40ed-82ca-54aa6ad2e82d.jpg",
     "price": "$90.00",
@@ -518,7 +529,7 @@
   },
   {
     "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -529,7 +540,7 @@
   },
   {
     "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5888acac-401f-4870-8f89-d2854b1dce2e.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0a1c940e-a60a-45af-b2b4-9d4d0ef4e6f6.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -605,17 +616,6 @@
     "accessories": "Accessories: CumTube"
   },
   {
-    "name": "Nocturne - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/8dc8c990-425d-4016-838d-447e16fbd915.jpg",
-    "price": "$108.00",
-    "number": "1 of 2",
-    "flop_reason": "Flop Reason: Nick Under Tip",
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
-    "accessories": "Accessories: CumTube & Suction Cup"
-  },
-  {
     "name": "Crash - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1fb97fa7-58bb-4504-bb7e-9ad7e556e611.jpg",
     "price": "$114.75",
@@ -657,6 +657,28 @@
     "size": "Size: Large",
     "color": "Color: BD Metallic Red",
     "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Vergil - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/46b55332-a48c-4270-9b13-d0ddcd80889f.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: BD Metallic Red",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f14ef9c8-0fe5-4293-8632-cce1b05974de.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Firm",
     "accessories": "Accessories: None"
   },
   {
