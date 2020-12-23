@@ -231,6 +231,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Apollo - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ca6ee8e8-5027-421f-a0c1-2db123f3612a.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
     "name": "Axel - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/88064ef4-09f1-41df-90b6-d4a977f0c3eb.jpg",
     "price": "$95.00",
@@ -341,6 +352,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Apollo - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6c0bcfb-4a46-41e6-b758-e3e4f33348ca.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Mystic - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/70bd7a60-8daa-4a5e-85dd-e3742ab9209a.jpg",
     "price": "$135.00",
@@ -385,15 +407,15 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Glyph - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/983e25ba-28ea-4a31-8ba6-4a8bca1f7793.jpg",
+    "name": "John - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5fbcd144-9180-4ebe-b69e-5b31b9685d1d.jpg",
     "price": "$155.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Large",
-    "color": "Color: Glyph'S Signature",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: CumTube"
   },
   {
     "name": "David - Large",
