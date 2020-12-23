@@ -267,7 +267,7 @@
     "name": "Ridley - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fb3977a5-25da-4eb6-a901-acd6c0668f96.jpg",
     "price": "$105.00",
-    "number": "1 of 1",
+    "number": "",
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Everlasting Night",
@@ -316,6 +316,17 @@
     "size": "Size: Medium",
     "color": "Color: Split Red Stone",
     "firmness": "Firmness: Soft Shaft, Firm Base",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Apollo - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a6c0bcfb-4a46-41e6-b758-e3e4f33348ca.jpg",
+    "price": "$135.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
