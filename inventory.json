@@ -1,6 +1,6 @@
 [
   {
-    "name": "Crackers' Sheath - Small",
+    "name": "Crackerssheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/67d8baaa-b02b-46a4-846f-23f432b3cecb.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -11,7 +11,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "David's Sheath - Small",
+    "name": "Davidsheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/22e39593-9c55-42db-b486-22a980c3382a.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -22,7 +22,7 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "David's Sheath - Small",
+    "name": "Davidsheath - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b208003-57d6-483d-9cc6-c382d93ab78c.jpg",
     "price": "$60.00",
     "number": "1 of 1",
@@ -227,6 +227,17 @@
     "flop_reason": null,
     "size": "Size: Large",
     "color": "Color: Onyx",
+    "firmness": "Firmness: Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "David's Sheath - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/44a39b32-b712-4296-88d7-401c46ff4c09.jpg",
+    "price": "$80.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Arctic Ice",
     "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
