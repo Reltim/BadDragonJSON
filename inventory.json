@@ -55,17 +55,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Chance Flared - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bbc388d3-efe4-4c70-99e5-f6100b9d9e80.jpg",
-    "price": "$89.25",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Frankenpour",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Axel - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/88064ef4-09f1-41df-90b6-d4a977f0c3eb.jpg",
     "price": "$95.00",
@@ -106,17 +95,6 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Spitfire'S Natural",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "David - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a69e6c0a-e0a7-4b18-a7e8-e12f9992c037.jpg",
-    "price": "$125.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: David'S Signature",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
