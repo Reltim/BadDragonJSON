@@ -1,16 +1,5 @@
 [
   {
-    "name": "Votan - Mini",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bdb79e96-1485-475d-a98e-82ddbde8099f.jpg",
-    "price": "$55.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Mini",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Votan - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d1d5b638-e117-4bb1-8cb9-61eb1b1108e0.jpg",
     "price": "$75.00",
@@ -41,17 +30,6 @@
     "size": "Size: Medium",
     "color": "Color: Spitfire'S Natural",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f14ef9c8-0fe5-4293-8632-cce1b05974de.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Firm",
     "accessories": "Accessories: None"
   },
   {
