@@ -67,7 +67,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -78,7 +78,7 @@
   },
   {
     "name": "Kona - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a5117943-cd8f-435a-8b30-acb0b4f04435.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1b17d811-aaa8-4027-8104-3e2063752ef6.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -100,7 +100,7 @@
   },
   {
     "name": "Elliot - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d83eb41a-1e02-4572-a1ab-f43a9d18b7f2.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d88423ca-689a-434f-b00c-eba1440a7971.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -111,7 +111,7 @@
   },
   {
     "name": "Elliot - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d88423ca-689a-434f-b00c-eba1440a7971.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d83eb41a-1e02-4572-a1ab-f43a9d18b7f2.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -173,17 +173,6 @@
     "size": "Size: Medium",
     "color": "Color: Spitfire'S Natural",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Vergil - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/46b55332-a48c-4270-9b13-d0ddcd80889f.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: BD Metallic Red",
-    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
