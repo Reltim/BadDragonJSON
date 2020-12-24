@@ -77,6 +77,17 @@
     "accessories": "Accessories: None"
   },
   {
+    "name": "Elliot - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d88423ca-689a-434f-b00c-eba1440a7971.jpg",
+    "price": "$75.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
     "name": "Kona - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7d6697ed-f2db-48e3-9975-1fb28fb5cc72.jpg",
     "price": "$105.00",
