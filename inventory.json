@@ -55,17 +55,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Nox - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/180ae0cd-3dce-4bad-a8ce-1e23f8b0a61b.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Spitfire - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/cc481575-67d8-436e-9a15-d3bcb4c14c63.jpg",
     "price": "$75.00",
@@ -220,17 +209,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Nova - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/978db5d5-0da3-454a-b917-b19cc17f3008.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Nox - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/180ae0cd-3dce-4bad-a8ce-1e23f8b0a61b.jpg",
     "price": "$75.00",
@@ -342,17 +320,6 @@
   },
   {
     "name": "Clayton - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/fad90130-7d01-4126-b857-1224c258cbc3.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Clayton - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/902bf8c5-23c0-4a83-9ccb-a5394d81d278.jpg",
     "price": "$75.00",
     "number": "1 of 1",
@@ -385,30 +352,8 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "John - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/587a1bc5-37e1-4de5-8d2d-2d3d2c3dc66f.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Demogorgon - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9ac9b083-3801-4676-a9e3-77ad970e73f7.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Demogorgon - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/95ac6d99-133a-4a50-8617-a991a92eb15e.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -492,17 +437,6 @@
     "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Kelvin - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/674e0123-e4f0-4e13-a450-4a4d4307b203.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
@@ -591,28 +525,6 @@
     "size": "Size: Small",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Ika - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/dece77e5-cf89-416d-bb14-58cab9e337f7.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Echo - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/4dfff10b-1efd-4b35-acea-1c93da1284f9.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
@@ -715,17 +627,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Bumble Hooves - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/62fcbab8-55fa-454a-9931-68e755d87020.jpg",
-    "price": "$75.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Clayton - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0c4dbbd7-68a5-4e0b-ad74-51903a7f9ebe.jpg",
     "price": "$75.00",
@@ -759,8 +660,8 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Trent - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/24d51c6e-fb05-4354-9f59-7de2228e653e.jpg",
+    "name": "Demogorgon - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1316c586-64ad-4a74-b936-e46ba6006c30.jpg",
     "price": "$75.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -958,7 +859,7 @@
   },
   {
     "name": "Orochi - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3f831483-f060-45f6-ad0b-7cce1ab6dd99.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d7ba8ca2-f32b-4485-8db4-5b2df3d2451e.jpg",
     "price": "$90.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -997,17 +898,6 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Amazon Princess",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Baron - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f65c201a-5d03-417c-97ff-93ac2a80c165.jpg",
-    "price": "$90.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Glavve",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -1100,17 +990,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Bumble Hooves - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0eaca37d-249d-479b-b092-0debfc4f870d.jpg",
-    "price": "$90.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Amazon Princess",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Baron - Small",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9abba288-4602-4d77-8296-076770f5dd04.jpg",
     "price": "$90.00",
@@ -1118,6 +997,17 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Shogaru",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Baron - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/102f543b-574a-40f0-ab33-cb208907dec2.jpg",
+    "price": "$90.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Glavve",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -1130,6 +1020,17 @@
     "size": "Size: One-Size",
     "color": "Color: Rogue",
     "firmness": "Firmness: Extra Soft",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Chance Unflared - Small",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7fb970f6-a31e-4bf4-9e93-d7ce72a5c7e7.jpg",
+    "price": "$95.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Small",
+    "color": "Color: Zino",
+    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
@@ -1173,17 +1074,6 @@
     "flop_reason": null,
     "size": "Size: Small",
     "color": "Color: Glavve",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
-  },
-  {
-    "name": "Pretzal - Small",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/7870f065-9304-49af-9617-71e3a2ec2aa8.jpg",
-    "price": "$100.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Small",
-    "color": "Color: Wrath",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: Suction Cup"
   },
@@ -1289,17 +1179,6 @@
   {
     "name": "Demogorgon - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1316c586-64ad-4a74-b936-e46ba6006c30.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Chance Flared - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/b9414c88-db2c-449c-b5c6-ff8360d6e4b1.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1463,17 +1342,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Orochi - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ec929a47-7d4e-4c57-88ce-76f7928c190e.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Clayton - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0c4dbbd7-68a5-4e0b-ad74-51903a7f9ebe.jpg",
     "price": "$105.00",
@@ -1573,8 +1441,8 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Razor - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/83a5ca48-55ff-43fb-9d3a-ccd7b7ad8d7d.jpg",
+    "name": "Tyson - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9f03432e-b69e-4332-9d2f-922250c01f35.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1705,17 +1573,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Demon Dick - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9c3e2337-61e2-495a-af49-68e92af38d3b.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Cole - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3b12ed06-5fe5-4d1e-9ae7-fd2168e7edb0.jpg",
     "price": "$105.00",
@@ -1729,17 +1586,6 @@
   {
     "name": "Clayton - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9936cebd-be6c-4d7c-8b48-6c33f8e3092f.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Orochi - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/ec929a47-7d4e-4c57-88ce-76f7928c190e.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1839,17 +1685,6 @@
   {
     "name": "Demogorgon - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1316c586-64ad-4a74-b936-e46ba6006c30.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Nox - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/180ae0cd-3dce-4bad-a8ce-1e23f8b0a61b.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -1988,17 +1823,6 @@
     "size": "Size: Medium",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Pearce - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/26894711-8374-4770-bec8-e4c92e8050a1.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
@@ -2145,12 +1969,34 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Austin - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/48147b3a-b7af-441d-b6af-d107255fcf3e.jpg",
+    "name": "Snep - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/e6d08629-63a1-478e-8857-c064a0dd060d.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Nox - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/77a0f486-7b77-4297-b725-a406acf64aae.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Medium",
+    "color": "Color: Rogue",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "Xerxes - One-Size",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/5d771345-800e-4071-b284-bd3d0c5981de.jpg",
+    "price": "$105.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: One-Size",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
@@ -2317,18 +2163,18 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
+    "firmness": "Firmness: Soft",
     "accessories": "Accessories: None"
   },
   {
-    "name": "Nova - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/978db5d5-0da3-454a-b917-b19cc17f3008.jpg",
+    "name": "Sleipnir - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a9f19957-fd2d-4813-bfc1-cef59f9d86cd.jpg",
     "price": "$105.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
+    "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
   {
@@ -2348,17 +2194,6 @@
     "price": "$105.00",
     "number": "1 of 2",
     "flop_reason": "Flop Reason: Beauty Mark On Lower Shaft",
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Sleipnir - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/a9f19957-fd2d-4813-bfc1-cef59f9d86cd.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
@@ -2453,17 +2288,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Ika - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/c45fb20b-0e16-4fea-a0f6-09a2bc1280bb.jpg",
-    "price": "$105.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Mystic - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2533e9f0-cac1-4095-ba5b-2aaa91a776d4.jpg",
     "price": "$105.00",
@@ -2522,7 +2346,7 @@
     "name": "Echo - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6433d807-3dd4-4d0a-83ad-a336c557e2de.jpg",
     "price": "$105.00",
-    "number": "1 of 1",
+    "number": "",
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Rogue",
@@ -2555,7 +2379,7 @@
     "name": "Nox - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/9e12202f-d879-41d7-b4ad-a9a7f25deeca.jpg",
     "price": "$115.00",
-    "number": "1 of 1",
+    "number": "",
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Rogue",
@@ -2596,17 +2420,6 @@
     "accessories": "Accessories: Suction Cup"
   },
   {
-    "name": "Nova - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/40815c05-ca29-4bbc-8bd1-9cdb7b30289d.jpg",
-    "price": "$115.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: Suction Cup"
-  },
-  {
     "name": "Orochi - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/51191664-2d55-4a8f-b7ef-a59533801ad9.jpg",
     "price": "$115.00",
@@ -2618,19 +2431,19 @@
     "accessories": "Accessories: Suction Cup"
   },
   {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/de2b863f-c3c7-4ed1-8a7a-38731b5e1384.jpg",
-    "price": "$120.00",
+    "name": "Nox - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/180ae0cd-3dce-4bad-a8ce-1e23f8b0a61b.jpg",
+    "price": "$115.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Medium",
-    "color": "Color: Amazon Princess",
+    "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
+    "accessories": "Accessories: Suction Cup"
   },
   {
-    "name": "Pearce - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3f4e84a5-f4e3-40f2-bb29-c1af9f2e0905.jpg",
+    "name": "Mystic - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/de2b863f-c3c7-4ed1-8a7a-38731b5e1384.jpg",
     "price": "$120.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -2827,46 +2640,13 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Votan - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/33bb48f1-cc64-46ad-bca9-0bb7b564c3ff.jpg",
-    "price": "$120.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Shogaru",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Dexter - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1c67bfd3-0063-4eb0-ba26-27d10c704e68.jpg",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/27728793-266b-4a99-be4c-d0bb9aefb168.jpg",
     "price": "$120.00",
     "number": "1 of 1",
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Amazon Princess",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Mystic - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/6380613f-3fc2-441e-b055-89de388bb398.jpg",
-    "price": "$120.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Glavve",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Spritz - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bc8b1e62-a9f2-4f50-8c09-6d36dda7fb97.jpg",
-    "price": "$120.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Glavve",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -2929,9 +2709,9 @@
     "name": "Orochi - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/14621f17-5258-423e-a1e2-7868305b8929.jpg",
     "price": "$120.00",
-    "number": "",
+    "number": "1 of 1",
     "flop_reason": null,
-    "size": "",
+    "size": "Size: Medium",
     "color": "Color: Shogaru",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
@@ -2955,17 +2735,6 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Glavve",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "Orochi - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/3adc9dc8-b155-4937-9922-6e57090e4f1b.jpg",
-    "price": "$125.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Zino",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
   },
@@ -3037,17 +2806,6 @@
   },
   {
     "name": "John - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f122cdaf-15d9-4b45-baf2-0d6b95a9893f.jpg",
-    "price": "$125.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Glavve",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "John - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d900801e-cc5e-4786-b12e-914077ee5421.jpg",
     "price": "$125.00",
     "number": "1 of 1",
@@ -3067,17 +2825,6 @@
     "color": "Color: Shogaru",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Pretzal - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/21eec294-ace6-497e-b962-74c5e6738600.jpg",
-    "price": "$130.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Wrath",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: Suction Cup"
   },
   {
     "name": "Mystic - Medium",
@@ -3179,28 +2926,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Crash - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1afe9b9c-339f-4a95-8d9e-390382a85ae4.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
-    "name": "David - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2329ab32-23de-45de-b4ec-2dd2c664d51b.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "David - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/707378d6-1838-4c6a-99db-cfef91a786e7.jpg",
     "price": "$135.00",
@@ -3212,8 +2937,8 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Glyph - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/0e266c13-d08a-49b6-9153-3cfeabde66e7.jpg",
+    "name": "David - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/2329ab32-23de-45de-b4ec-2dd2c664d51b.jpg",
     "price": "$135.00",
     "number": "1 of 1",
     "flop_reason": null,
@@ -3278,17 +3003,6 @@
     "accessories": "Accessories: None"
   },
   {
-    "name": "Demon Dick - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/449a4cda-1f07-4dee-808e-0465afb11ba9.jpg",
-    "price": "$135.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Rogue",
-    "firmness": "Firmness: Soft",
-    "accessories": "Accessories: None"
-  },
-  {
     "name": "Nox - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/180ae0cd-3dce-4bad-a8ce-1e23f8b0a61b.jpg",
     "price": "$135.00",
@@ -3298,6 +3012,17 @@
     "color": "Color: Rogue",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: None"
+  },
+  {
+    "name": "Mystic - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d3acc077-23a1-4bff-ae1d-ed0292732026.jpg",
+    "price": "$140.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Amazon Princess",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Pearce - Medium",
@@ -3369,7 +3094,7 @@
     "name": "Demogorgon - Medium",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/859192a0-3351-4699-a87d-347c07773101.jpg",
     "price": "$140.00",
-    "number": "1 of 1",
+    "number": "",
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Shogaru",
@@ -3384,6 +3109,17 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Glavve",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
+    "name": "Tucker - Medium",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/27080dba-b128-4ba9-9819-269f20a79aec.jpg",
+    "price": "$140.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Medium",
+    "color": "Color: Shogaru",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
   },
@@ -3439,17 +3175,6 @@
     "flop_reason": null,
     "size": "Size: Medium",
     "color": "Color: Amazon Princess",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
-  },
-  {
-    "name": "Baron - Medium",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/17b27d1f-2425-4339-a452-d75967803562.jpg",
-    "price": "$140.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Medium",
-    "color": "Color: Shogaru",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: CumTube"
   },
@@ -3575,6 +3300,28 @@
     "accessories": "Accessories: CumTube"
   },
   {
+    "name": "Mystic - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/bd0af4c2-5055-4e23-baab-4349bb7ea51f.jpg",
+    "price": "$150.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Shogaru",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: None"
+  },
+  {
+    "name": "John - Large",
+    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/f122cdaf-15d9-4b45-baf2-0d6b95a9893f.jpg",
+    "price": "$155.00",
+    "number": "1 of 1",
+    "flop_reason": null,
+    "size": "Size: Large",
+    "color": "Color: Glavve",
+    "firmness": "Firmness: Medium",
+    "accessories": "Accessories: CumTube"
+  },
+  {
     "name": "Spitfire - Large",
     "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/d1886b37-c397-4fa2-a5c4-8f246b32fbf1.jpg",
     "price": "$160.00",
@@ -3617,17 +3364,6 @@
     "color": "Color: Shogaru",
     "firmness": "Firmness: Medium",
     "accessories": "Accessories: Suction Cup"
-  },
-  {
-    "name": "Scorn - Large",
-    "src": "https://da6npmvqm28oa.cloudfront.net/inventory-toy-services/1af93a0a-9d4d-48e1-96b1-1aec0a219c47.jpg",
-    "price": "$170.00",
-    "number": "1 of 1",
-    "flop_reason": null,
-    "size": "Size: Large",
-    "color": "Color: Glavve",
-    "firmness": "Firmness: Medium",
-    "accessories": "Accessories: CumTube"
   },
   {
     "name": "Blaze - Large",
